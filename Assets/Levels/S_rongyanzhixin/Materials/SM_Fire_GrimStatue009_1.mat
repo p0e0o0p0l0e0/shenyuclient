@@ -1,0 +1,43 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: SM_Fire_GrimStatue009_1
+  m_Shader: {fileID: 4800000, guid: c36c6cc86e0a9e94f9d27836f462164a, type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _LightMap:
+        m_Texture: {fileID: 2800000, guid: d5cbd4be8dbca594cb9e4657739c4475, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MainTex:
+        m_Texture: {fileID: 2800000, guid: f8c84935f09a59f4a8115675b89ca313, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MixTex:
+        m_Texture: {fileID: 2800000, guid: 6925d45395f4c87408a6de7688073896, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _NrmTex:
+        m_Texture: {fileID: 2800000, guid: 75eed193f5f798441bc04742d5dcdafe, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats: []
+    m_Colors:
+    - _LightMapAdd0: {r: 0.01, g: 0.01, b: 0.01, a: 0}
+    - _LightMapAdd1: {r: -0.43608448, g: -0.44761875, b: -0.5358308, a: 0.282095}
+    - _LightMapScale0: {r: 2.105967, g: 0.3726848, b: 0.9703977, a: 0.00001}
+    - _LightMapScale1: {r: 0.9629391, g: 0.8343834, b: 0.9329804, a: 0}
+    - _LightMapUVParams: {r: 0.060546875, g: 0.12109375, b: 0.18847656, a: 0.001953125}

@@ -1,0 +1,2104 @@
+
+<root>
+	<Used>true</Used>
+	<Element><Old>BASE</Old><New>基本</New></Element>
+	<Element><Old>Reserve</Old><New>保留/原始状态</New></Element>
+	<Element><Old>INHERIT</Old><New>继承/延续</New></Element>
+	<Element><Old>Inheritor</Old><New>继承者</New></Element>
+	
+	<Element><Old>TRUE</Old><New>是</New></Element>
+	<Element><Old>FALSE</Old><New>否</New></Element>
+	
+	<Element><Old>EMPTY</Old><New>空</New></Element>
+	
+	<Element><Old>Word</Old><New>文字</New></Element>
+	
+	<Element><Old>Req</Old><New>需求</New></Element>
+	<Element><Old>Requre</Old><New>需求</New></Element>
+	
+	<Element><Old>Reset</Old><New>重置</New></Element>
+	<Element><Old>Add</Old><New>增加</New></Element>
+	
+	<Element><Old>Rank</Old><New>排行</New></Element>
+	
+	<Element><Old>Result</Old><New>结果</New></Element>
+	<Element><Old>Results</Old><New>结果</New></Element>
+	
+	<Element><Old>Share</Old><New>共享</New></Element>
+	
+	<Element><Old>Recycle</Old><New>回收</New></Element>
+	
+	<Element><Old>Random</Old><New>随机</New></Element>
+	<Element><Old>Expectation</Old><New>数学期望</New></Element>
+	<Element><Old>Expectation100</Old><New>数学期望100</New></Element>
+	<Element><Old>Variance</Old><New>变量/方差</New></Element>
+	<Element><Old>Variance10000</Old><New>变量/方差10000</New></Element>
+	
+	<Element><Old>Class</Old><New>分类</New></Element>
+	
+	<Element><Old>Loop</Old><New>循环</New></Element>
+	
+	<Element><Old>Break</Old><New>打断/中断/退出</New></Element>
+	<Element><Old>Breakable</Old><New>(可)打断/中断/退出</New></Element>
+	
+	<Element><Old>Type</Old><New>类型</New></Element>
+	<Element><Old>Level</Old><New>等级</New></Element>
+	<Element><Old>Levels</Old><New>等级</New></Element>
+	<Element><Old>DynamicLevel</Old><New>动态等级</New></Element>
+	<Element><Old>PowerLevel</Old><New>怪物强度</New></Element>
+	<Element><Old>LevelCount</Old><New>等级个数</New></Element>
+	<Element><Old>ReqLevel</Old><New>需求等级</New></Element>
+	<Element><Old>LevelDeltaValue</Old><New>强化等级成长</New></Element>
+	<Element><Old>LevelDeltaPerc</Old><New>强化等级成长百分比(0.01)</New></Element>
+	
+	<Element><Old>Index</Old><New>索引</New></Element>
+	
+	<Element><Old>Immediately</Old><New>即刻</New></Element>
+	
+	<Element><Old>Object</Old><New>对象</New></Element>
+	<Element><Old>Objects</Old><New>对象</New></Element>
+	
+	<Element><Old>View</Old><New>视野</New></Element>
+	<Element><Old>Viewed</Old><New>被看见</New></Element>
+	
+	<Element><Old>Src</Old><New>源头</New></Element>
+	<Element><Old>Dest</Old><New>目的地</New></Element>
+	
+	<Element><Old>System</Old><New>系统</New></Element>
+	<Element><Old>World</Old><New>世界/全局</New></Element>
+	<Element><Old>World1970</Old><New>世界1970</New></Element>
+	<Element><Old>Local</Old><New>局部</New></Element>
+	
+	<Element><Old>WorldSay</Old><New>世界说话</New></Element>
+	<Element><Old>DialogSay</Old><New>对话说话</New></Element>
+	
+	<Element><Old>Entity</Old><New>个体</New></Element>
+	<Element><Old>EntityType</Old><New>Entity类型</New></Element>
+	<Element><Old>Pet</Old><New>宠物</New></Element>
+	<Element><Old>Monster</Old><New>怪物</New></Element>
+	
+	<Element><Old>Start</Old><New>开始</New></Element>
+	<Element><Old>End</Old><New>结束</New></Element>
+	<Element><Old>Accumulate</Old><New>累计</New></Element>
+	
+	<Element><Old>Licence</Old><New>许可证</New></Element>
+		
+	<Element><Old>Fight</Old><New>战斗</New></Element>
+	<Element><Old>Melee</Old><New>近战</New></Element>
+	<Element><Old>AttackType</Old><New>攻击方式</New></Element>
+	<Element><Old>DefaultAttackType</Old><New>默认攻击方式</New></Element>
+	
+	<Element><Old>AttackLike</Old><New>攻击喜好</New></Element>
+	
+	<Element><Old>HPPerc</Old><New>HP百分比</New></Element>
+	
+	<Element><Old>ActionState</Old><New>行为状态</New></Element>
+	<Element><Old>CoolingDownTime</Old><New>冷却时间(0.01秒)</New></Element>
+	<Element><Old>CoolingDownDuration</Old><New>冷却时间(0.01秒)</New></Element>
+	<Element><Old>SummonNPC</Old><New>召唤</New></Element>
+	<Element><Old>SummonNPCCount</Old><New>召唤个数</New></Element>
+	
+	<Element><Old>Log</Old><New>日志</New></Element>
+	<Element><Old>LogType</Old><New>日志类型</New></Element>	
+	
+	<Element><Old>CHAT_BOX</Old><New>聊天栏</New></Element>
+	<Element><Old>ChatBox</Old><New>聊天栏</New></Element>
+	<Element><Old>Center</Old><New>中心</New></Element>
+	<Element><Old>Mouse</Old><New>鼠标</New></Element>
+	<Element><Old>Mouse0</Old><New>鼠标0</New></Element>
+	<Element><Old>Mouse1</Old><New>鼠标1</New></Element>
+	
+	<Element><Old>Use</Old><New>使用</New></Element>
+	<Element><Old>UsedCount</Old><New>使用次数</New></Element>
+	
+	<Element><Old>Quality</Old><New>品质/质量</New></Element>
+	<Element><Old>InitQuality</Old><New>初始品质/质量</New></Element>
+	<Element><Old>QualityScale</Old><New>品质加成(0.01)</New></Element>
+	
+	<Element><Old>Height</Old><New>高度(0.01米)</New></Element>
+	
+	<Element><Old>Goal</Old><New>目标/成就</New></Element>
+	
+	<Element><Old>Personality</Old><New>性格</New></Element>
+	
+	<Element><Old>Title</Old><New>称号/境界/标题</New></Element>
+	<Element><Old>ReqTitle</Old><New>需要的称号/境界</New></Element>
+	
+	<Element><Old>Arena</Old><New>竞技场</New></Element>
+	<Element><Old>Story</Old><New>剧情</New></Element>
+	<Element><Old>StorySpace</Old><New>剧情副本</New></Element>
+	<Element><Old>STORY_SPACE</Old><New>剧情副本</New></Element>
+	<Element><Old>GUILD_SPACE</Old><New>行会副本</New></Element>
+	
+	<Element><Old>Guide</Old><New>引导</New></Element>
+	<Element><Old>GuideType</Old><New>引导类型</New></Element>
+	<Element><Old>GuideMode</Old><New>引导模式</New></Element>
+	
+	<Element><Old>Sound</Old><New>声音</New></Element>
+	<Element><Old>Music</Old><New>音乐</New></Element>
+	<Element><Old>BackgroundSound</Old><New>背景声音</New></Element>
+	<Element><Old>BackgroundMusic</Old><New>背景音乐</New></Element>
+	
+	<Element><Old>LoadingBackground</Old><New>加载背景</New></Element>
+	
+	<Element><Old>Suit</Old><New>套装</New></Element>
+	<Element><Old>SuitEffect</Old><New>套装效果</New></Element>
+	<Element><Old>SuitEffects</Old><New>套装效果</New></Element>
+	<Element><Old>EquipSlot</Old><New>装备栏位</New></Element>
+	<Element><Old>Buy</Old><New>买入</New></Element>
+	<Element><Old>Sale</Old><New>售出</New></Element>
+	<Element><Old>Price</Old><New>价格</New></Element>
+	<Element><Old>Prices</Old><New>价格</New></Element>
+	<Element><Old>SalePrice</Old><New>售出价格</New></Element>
+	
+	<Element><Old>PricePerc100</Old><New>每100个的价格</New></Element>
+		
+	<Element><Old>Stackable</Old><New>叠加数量</New></Element>
+	
+	<Element><Old>Inf</Old><New>最小值[</New></Element>
+	<Element><Old>Inf100</Old><New>最小值100[</New></Element>
+	<Element><Old>Sup</Old><New>最大值]</New></Element>
+	<Element><Old>Sup100</Old><New>最大值100]</New></Element>
+	
+	<Element><Old>ModValue</Old><New>影响数值</New></Element>
+	<Element><Old>ModValues</Old><New>影响数值</New></Element>
+	<Element><Old>Value</Old><New>值</New></Element>
+	<Element><Old>Values</Old><New>值</New></Element>
+	<Element><Old>RefValue</Old><New>参考值</New></Element>
+	<Element><Old>PercValue</Old><New>百分比</New></Element>
+	<Element><Old>UseType</Old><New>使用类型</New></Element>
+	<Element><Old>RandomMod</Old><New>随机额外数值集</New></Element>
+	<Element><Old>EquipRandomMod</Old><New>装备随机额外数值集</New></Element>
+	
+	<Element><Old>DecorationLevel</Old><New>首饰等级</New></Element>
+	
+	<Element><Old>Wash</Old><New>洗练</New></Element>
+	<Element><Old>WashPrice</Old><New>洗练价格</New></Element>
+	<Element><Old>RandomValueCount</Old><New>随机个数</New></Element>
+	<Element><Old>GemMaxCount</Old><New>宝石镶嵌上限</New></Element>
+	<Element><Old>GemMask</Old><New>宝石Mask</New></Element>
+	
+	<Element><Old>PropertyIndex</Old><New>属性索引</New></Element>
+	
+	<Element><Old>StateCondition</Old><New>状态条件</New></Element>
+	
+	<Element><Old>Script</Old><New>脚本</New></Element>
+	<Element><Old>HandlerScript</Old><New>脚本</New></Element>
+	<Element><Old>ScriptFlow</Old><New>脚本流程</New></Element>
+	
+	<Element><Old>Effect</Old><New>效果</New></Element>
+	<Element><Old>Effects</Old><New>效果</New></Element>
+	
+	<Element><Old>Channel</Old><New>频道/通道</New></Element>
+	
+	<Element><Old>Hint</Old><New>提示</New></Element>
+	
+	<Element><Old>Func</Old><New>功能</New></Element>
+	<Element><Old>Function</Old><New>功能</New></Element>
+	<Element><Old>FuncType</Old><New>功能类型</New></Element>
+	<Element><Old>FunctionMask</Old><New>功能Mask</New></Element>
+	<Element><Old>FuncPolicy</Old><New>功能策略</New></Element>
+	<Element><Old>CoolChannel</Old><New>冷却通道</New></Element>
+	<Element><Old>CoolDuration</Old><New>冷却时间(0.01秒)</New></Element>
+	<Element><Old>Count</Old><New>数量</New></Element>
+	<Element><Old>Counts</Old><New>数量</New></Element>
+	<Element><Old>Cnt</Old><New>数量</New></Element>
+	<Element><Old>Event</Old><New>事件</New></Element>
+	<Element><Old>Duration</Old><New>持续时间(0.01秒)</New></Element>
+	<Element><Old>Record</Old><New>记录</New></Element>
+	<Element><Old>RecordType</Old><New>记录类型</New></Element>
+	<Element><Old>RecordBest</Old><New>记录最佳</New></Element>
+	<Element><Old>Request</Old><New>需要条件</New></Element>
+	<Element><Old>Take</Old><New>接/拿</New></Element>
+	<Element><Old>Content</Old><New>内容</New></Element>
+	<Element><Old>Contents</Old><New>内容</New></Element>
+	<Element><Old>Fail</Old><New>失败</New></Element>
+	<Element><Old>FailCondition</Old><New>失败条件</New></Element>
+	<Element><Old>FailProc</Old><New>失败处理</New></Element>
+	<Element><Old>Commit</Old><New>提交</New></Element>
+	<Element><Old>AutoCommit</Old><New>自动提交</New></Element>
+	<Element><Old>SucProc</Old><New>成功[完成]处理</New></Element>
+	<Element><Old>Reward</Old><New>奖励</New></Element>
+	<Element><Old>Rewards</Old><New>奖励</New></Element>
+	<Element><Old>RewardXP</Old><New>奖励经验</New></Element>
+	<Element><Old>RewardBangYin</Old><New>奖励绑银</New></Element>
+	<Element><Old>RewardItem</Old><New>奖励物品</New></Element>
+	<Element><Old>RewardItem0</Old><New>奖励物品0</New></Element>
+	<Element><Old>RewardItem1</Old><New>奖励物品1</New></Element>
+	<Element><Old>RewardItemCount</Old><New>奖励物品个数</New></Element>
+	<Element><Old>RewardJinZi</Old><New>奖励金子</New></Element>
+	<Element><Old>RewardJinPiao</Old><New>奖励金票</New></Element>
+	<Element><Old>FirstReward</Old><New>首次奖励</New></Element>
+	<Element><Old>FollowReward</Old><New>后续奖励</New></Element>
+	<Element><Old>Probability</Old><New>概率[1/10000]</New></Element>
+	<Element><Old>Probability0</Old><New>概率0[1/10000]</New></Element>
+	<Element><Old>Probability1</Old><New>概率1[1/10000]</New></Element>
+	<Element><Old>ProbabilityBW</Old><New>概率[百万分之]</New></Element>
+	<Element><Old>ProbabilityQW</Old><New>概率[千万分之]</New></Element>
+	<Element><Old>Res</Old><New>资源</New></Element>
+	<Element><Old>Resource</Old><New>资源</New></Element>
+	<Element><Old>Condition</Old><New>条件</New></Element>
+	<Element><Old>State</Old><New>状态</New></Element>
+	<Element><Old>Scale</Old><New>缩放(0.01)</New></Element>
+	<Element><Old>Scale100</Old><New>缩放(0.01)</New></Element>
+	<Element><Old>Scale10000</Old><New>缩放(0.0001)</New></Element>
+	<Element><Old>Scale1000000</Old><New>缩放(0.000001)</New></Element>
+	
+	<Element><Old>Player</Old><New>玩家</New></Element>
+	<Element><Old>NPC</Old><New>怪物/NPC</New></Element>
+	<Element><Old>NPCs</Old><New>怪物/NPC</New></Element>
+	<Element><Old>Servant</Old><New>伙伴</New></Element>
+	<Element><Old>Hero</Old><New>英雄</New></Element>
+	<Element><Old>Account</Old><New>帐号</New></Element>
+	<Element><Old>Boss</Old><New>Boss</New></Element>
+	<Element><Old>Building</Old><New>建筑</New></Element>
+	<Element><Old>Pot</Old><New>瓶罐</New></Element>
+	
+	<Element><Old>Step</Old><New>步骤</New></Element>
+	<Element><Old>Steps</Old><New>步骤</New></Element>
+	<Element><Old>StepList</Old><New>步骤</New></Element>
+	
+	<Element><Old>Proc</Old><New>执行/处理</New></Element>
+	<Element><Old>Assisstant</Old><New>辅助</New></Element>
+	<Element><Old>DurationEffectIdx</Old><New>持续效果</New></Element>
+	<Element><Old>MiscValue</Old><New>脚本字段</New></Element>
+	<Element><Old>MiscValues</Old><New>脚本字段</New></Element>
+	<Element><Old>MiscInt</Old><New>整数脚本字段</New></Element>
+	<Element><Old>MiscInts</Old><New>整数脚本字段</New></Element>
+	<Element><Old>MiscString</Old><New>字符串脚本字段</New></Element>
+	<Element><Old>MiscStrings</Old><New>字符串脚本字段</New></Element>
+	
+	<Element><Old>Action</Old><New>行为</New></Element>
+	<Element><Old>Actions</Old><New>行为</New></Element>
+	<Element><Old>ActionPriority</Old><New>行为优先级</New></Element>
+	<Element><Old>BodyHeight</Old><New>身体高度(0.01米)</New></Element>
+	<Element><Old>BodyRadius</Old><New>身体半径(0.01米)</New></Element>
+	<Element><Old>PatrolRange</Old><New>巡逻半径(0.01米)</New></Element>
+	<Element><Old>ChaseRange</Old><New>追击半径(0.01米)</New></Element>
+	<Element><Old>DayViewRange</Old><New>视野半径(0.01米)</New></Element>
+	<Element><Old>ViewRange</Old><New>视野半径(0.01米)</New></Element>
+	<Element><Old>ViewMask</Old><New>视野通道</New></Element>
+	<Element><Old>ShoutRange</Old><New>呼叫范围(0.01米)</New></Element>	
+	<Element><Old>Corpse</Old><New>尸体</New></Element>
+	<Element><Old>CorpseTime</Old><New>尸体时间(0.01秒)</New></Element>
+	<Element><Old>ReliveTime</Old><New>重生时间(0.01秒)</New></Element>
+	<Element><Old>RunSpd</Old><New>跑动速度(0.01米/秒)</New></Element>
+	<Element><Old>KnockBackRange</Old><New>击退距离(0.01米)</New></Element>
+	<Element><Old>KnockBackSpd</Old><New>击退速度(0.01米/秒)</New></Element>
+	<Element><Old>AttackRange</Old><New>攻击距离(0.01米)</New></Element>
+	<Element><Old>AttackMinRange</Old><New>最小攻击距离(0.01米)</New></Element>
+	<Element><Old>AttackMaxRange</Old><New>最大攻击距离(0.01米)</New></Element>
+	<Element><Old>ActionSpan</Old><New>攻击时间间隔(0.01秒)</New></Element>
+	<Element><Old>ActionDuration</Old><New>行为/攻击时长(0.01秒)</New></Element>
+	<Element><Old>AttackHitTime</Old><New>攻击关键帧(0.01秒)</New></Element>
+	<Element><Old>AttackHitTime0</Old><New>攻击关键帧0(0.01秒)</New></Element>
+	<Element><Old>AttackHitTime1</Old><New>攻击关键帧1(0.01秒)</New></Element>
+	<Element><Old>AttackHitTime2</Old><New>攻击关键帧2(0.01秒)</New></Element>
+	
+	<Element><Old>MeleeAttackVisual</Old><New>近程攻击显示</New></Element>
+	<Element><Old>MeleeHitedVisual</Old><New>近程攻击受击显示</New></Element>
+	<Element><Old>RangeAttackVisual</Old><New>远程攻击显示</New></Element>
+	<Element><Old>RangeHitedVisual</Old><New>远程攻击受击显示</New></Element>
+	
+	<Element><Old>HomeRecover</Old><New>回家恢复</New></Element>
+	
+	<Element><Old>Damage</Old><New>伤害</New></Element>
+	<Element><Old>DamageType</Old><New>伤害类型</New></Element>
+	<Element><Old>DAMAGE_TYPE0</Old><New>物理伤害</New></Element>
+	<Element><Old>DAMAGE_TYPE1</Old><New>法术伤害</New></Element>
+	
+	<Element><Old>DamageScale</Old><New>伤害比例(0.01秒)</New></Element>
+	<Element><Old>DamageScale100</Old><New>伤害比例(0.01秒)</New></Element>
+	<Element><Old>AttackVisual</Old><New>攻击显示</New></Element>
+	<Element><Old>AttackVisual0</Old><New>攻击显示0</New></Element>
+	<Element><Old>AttackVisual1</Old><New>攻击显示1</New></Element>
+	<Element><Old>HitTime</Old><New>攻击关键帧(0.01秒)</New></Element>
+	<Element><Old>HitTime1</Old><New>攻击关键帧1(0.01秒)</New></Element>
+	<Element><Old>HitTime2</Old><New>攻击关键帧2(0.01秒)</New></Element>
+	<Element><Old>HitedVisual</Old><New>被攻击显示</New></Element>
+	
+	<Element><Old>Attribute</Old><New>属性</New></Element>
+	<Element><Old>Battle</Old><New>战斗</New></Element>
+	
+	<Element><Old>Faction</Old><New>阵营</New></Element>
+	<Element><Old>Factions</Old><New>阵营</New></Element>
+	<Element><Old>Space_Faction</Old><New>地图阵营</New></Element>
+	<Element><Old>FactionOwn</Old><New>阵营占领</New></Element>
+	<Element><Old>FactionReset</Old><New>阵营重置</New></Element>
+	<Element><Old>ViewFactionMask</Old><New>视野阵营</New></Element>
+	<Element><Old>ThreatFactionMask</Old><New>仇恨阵营</New></Element>
+	
+	<Element><Old>Sex</Old><New>性别</New></Element>
+	<Element><Old>Gender</Old><New>性别</New></Element>
+	<Element><Old>DefaultGender</Old><New>默认/缺省性别</New></Element>
+	
+	<Element><Old>X</Old><New>位置X(0.01米)</New></Element>
+	<Element><Old>Y</Old><New>位置Y(0.01米)</New></Element>
+	<Element><Old>Z</Old><New>位置Z(0.01米)</New></Element>
+	<Element><Old>Map</Old><New>地图</New></Element>
+	<Element><Old>MinMap</Old><New>小地图</New></Element>
+	<Element><Old>NavMap</Old><New>寻路地图</New></Element>
+	<Element><Old>MapID</Old><New>地图ID</New></Element>
+	<Element><Old>MapPos</Old><New>地图上的点</New></Element>
+	<Element><Old>Space</Old><New>地图/3D空间</New></Element>
+	<Element><Old>Spaces</Old><New>地图集合</New></Element>
+	<Element><Old>SpaceList</Old><New>地图集合</New></Element>
+	<Element><Old>SpaceID</Old><New>地图ID</New></Element>
+	<Element><Old>SpaceConfig</Old><New>地图模板</New></Element>
+	<Element><Old>SpacePos</Old><New>地图上的点</New></Element>
+	<Element><Old>SpaceObject</Old><New>地图物件</New></Element>
+	<Element><Old>SpaceObjects</Old><New>地图物件</New></Element>
+	<Element><Old>Pos</Old><New>点/位置</New></Element>
+	<Element><Old>PosList</Old><New>点/位置</New></Element>
+	<Element><Old>Position</Old><New>点/位置</New></Element>
+	<Element><Old>Positions</Old><New>点/位置</New></Element>
+	<Element><Old>StartPos</Old><New>开始点/位置</New></Element>
+	<Element><Old>EndPos</Old><New>结束点/位置</New></Element>
+	<Element><Old>NPCBirthPos</Old><New>NPC出生点</New></Element>
+	<Element><Old>NPCBirthPosition</Old><New>NPC出生点</New></Element>
+	<Element><Old>NPCBirthPositions</Old><New>NPC出生点</New></Element>
+	<Element><Old>SpaceObjectBirthPos</Old><New>地图物件出生点</New></Element>
+	<Element><Old>SpaceObjectBirthPosition</Old><New>地图物件出生点</New></Element>
+	<Element><Old>SpaceObjectBirthPositions</Old><New>地图物件出生点</New></Element>
+	<Element><Old>Area</Old><New>区域</New></Element>
+	<Element><Old>Navigate</Old><New>寻路</New></Element>
+	<Element><Old>PassBlock</Old><New>穿越障碍</New></Element>
+	
+	<Element><Old>Loot</Old><New>掉落</New></Element>
+	<Element><Old>Loots</Old><New>掉落</New></Element>
+	<Element><Old>LootXP</Old><New>掉落经验</New></Element>
+	<Element><Old>NextExp</Old><New>升级经验</New></Element>
+	<Element><Old>LootItem</Old><New>掉落物品</New></Element>
+	<Element><Old>LootItems</Old><New>掉落物品</New></Element>
+	<Element><Old>PublicLoot</Old><New>公开掉落</New></Element>
+	<Element><Old>PrivateLoot</Old><New>私有掉落</New></Element>
+	<Element><Old>VisualLootItems</Old><New>(显示)掉落物品</New></Element>
+	
+	<Element><Old>KilledLoot</Old><New>击杀掉落</New></Element>
+	<Element><Old>DieLoot</Old><New>死亡掉落</New></Element>
+	<Element><Old>FirstDamageLoot</Old><New>第一次伤害掉落</New></Element>
+	<Element><Old>DamageLootScale10000</Old><New>伤害掉落比例(1/10000)</New></Element>
+	<Element><Old>DamageLootProbability</Old><New>伤害掉落概率(1/10000)</New></Element>
+	<Element><Old>DamageLoot</Old><New>伤害掉落</New></Element>
+	
+	<Element><Old>EliteLevel</Old><New>精英等级</New></Element>
+	
+	<Element><Old>JinZi</Old><New>金子</New></Element>
+	<Element><Old>JinPiao</Old><New>金票</New></Element>
+	<Element><Old>YinZi</Old><New>银子</New></Element>
+	<Element><Old>YinPiao</Old><New>银票</New></Element>
+	
+	<Element><Old>XianLing</Old><New>仙灵</New></Element>
+	<Element><Old>LingPai</Old><New>令牌</New></Element>
+	
+	<Element><Old>GuildHonor</Old><New>行会贡献</New></Element>
+	<Element><Old>GuildDailyContributeBangYinMax</Old><New>行会每日贡献绑银上限</New></Element>
+	
+	
+	<Element><Old>DailyBangYin</Old><New>每日绑银</New></Element>
+	<Element><Old>DailyXianLing</Old><New>每日仙灵</New></Element>
+	<Element><Old>DailyHonor</Old><New>每日声望</New></Element>
+	
+	<Element><Old>Honor</Old><New>声望</New></Element>
+	<Element><Old>Honour</Old><New>声望</New></Element>
+	<Element><Old>ReqHonor</Old><New>所需声望</New></Element>
+	<Element><Old>ReqHonour</Old><New>所需声望</New></Element>
+	
+	<Element><Old>Ex</Old><New>经验/积分</New></Element>
+	<Element><Old>Exp</Old><New>经验/积分</New></Element>
+	<Element><Old>XP</Old><New>经验/积分</New></Element>
+	
+	<Element><Old>Difficult</Old><New>难度系数</New></Element>
+	<Element><Old>DifficultScale100</Old><New>难度系数(0.01)</New></Element>
+	
+	<Element><Old>TypeDescription</Old><New>类型描述</New></Element>
+	
+	
+	<Element><Old>Spell</Old><New>技能</New></Element>
+	<Element><Old>SpellType</Old><New>技能类型</New></Element>
+	<Element><Old>SpellDelay</Old><New>技能延迟</New></Element>
+	<Element><Old>SPSpell</Old><New>怒气技能</New></Element>
+	<Element><Old>SPSpells</Old><New>怒气技能</New></Element>
+	<Element><Old>AutoSpell</Old><New>被动技能</New></Element>
+	<Element><Old>MeleeSpell</Old><New>近战(主)技能</New></Element>
+	<Element><Old>RangeSpell</Old><New>远程(主)技能</New></Element>
+	<Element><Old>MeleeAttack</Old><New>近战攻击</New></Element>
+	<Element><Old>RangeAttack</Old><New>远程攻击</New></Element>
+	<Element><Old>ReqSpellLevel</Old><New>需要技能等级</New></Element>
+	
+	<Element><Old>FaceOperate</Old><New>朝向控制</New></Element>
+	<Element><Old>Aim</Old><New>自动朝向</New></Element>
+	
+	<Element><Old>Item</Old><New>物品</New></Element>
+	<Element><Old>Items</Old><New>物品</New></Element>
+	<Element><Old>Item1s</Old><New>物品1</New></Element>
+	<Element><Old>Item2s</Old><New>物品2</New></Element>
+	<Element><Old>OptionItems</Old><New>可选物品</New></Element>
+	<Element><Old>ItemCnt</Old><New>物品数量</New></Element>
+	<Element><Old>ItemCount</Old><New>物品数量</New></Element>
+	<Element><Old>SrcItem</Old><New>原物品</New></Element>
+	<Element><Old>DestItem</Old><New>目标物品</New></Element>
+	<Element><Old>AdditionItem</Old><New>附加物品</New></Element>
+	<Element><Old>AdditionItems</Old><New>附加物品</New></Element>
+	
+	<Element><Old>StartNPC</Old><New>开始NPC</New></Element>
+	<Element><Old>EndNPC</Old><New>结束NPC</New></Element>
+	
+	<Element><Old>Quest</Old><New>任务</New></Element>
+	<Element><Old>Quests</Old><New>任务</New></Element>
+	<Element><Old>PreQuest</Old><New>前置任务</New></Element>
+	<Element><Old>PreQuestAll</Old><New>前置任务(所有)</New></Element>
+	<Element><Old>PreQuestAny</Old><New>前置任务(任一)</New></Element>
+	<Element><Old>NextQuest</Old><New>后续任务</New></Element>
+	<Element><Old>ReqQuest</Old><New>需要任务</New></Element>
+	<Element><Old>ReqWorkingQuest</Old><New>需要Working任务</New></Element>
+	<Element><Old>ReqReceivedQuest</Old><New>需要Received任务</New></Element>
+	
+	<Element><Old>Complete</Old><New>完成</New></Element>
+	<Element><Old>CompleteNotifyType</Old><New>完成提示方式</New></Element>
+	<Element><Old>COMFIRM</Old><New>确认</New></Element>	
+	
+	<Element><Old>InitData</Old><New>初始数据</New></Element>
+	<Element><Old>LevelData</Old><New>级别数据</New></Element>
+	
+	<Element><Old>MinX</Old><New>最小X(0.01米)</New></Element>
+	<Element><Old>MinY</Old><New>最小Y(0.01米)</New></Element>
+	<Element><Old>WidthX</Old><New>X方向宽度(0.01米)</New></Element>
+	<Element><Old>WidthY</Old><New>Y方向宽度(0.01米)</New></Element>
+	<Element><Old>CellWith</Old><New>逻辑分块大小(0.01米)</New></Element>
+	<Element><Old>Enter</Old><New>进入</New></Element>
+	<Element><Old>EnterX</Old><New>入口X(0.01米)</New></Element>
+	<Element><Old>EnterY</Old><New>入口Y(0.01米)</New></Element>
+	<Element><Old>EnterZ</Old><New>入口Z(0.01米)</New></Element>
+	<Element><Old>Yaw</Old><New>朝向(-314/314)</New></Element>
+	<Element><Old>Range</Old><New>半径/范围/远程(0.01米)</New></Element>
+	<Element><Old>MinRange</Old><New>最小范围(0.01米)</New></Element>
+	<Element><Old>MaxRange</Old><New>最大范围(0.01米)</New></Element>
+	
+	<Element><Old>LiveCount</Old><New>生命次数(0永远重生)</New></Element>
+	
+	
+	<Element><Old>MapPKType</Old><New>地图PK类型</New></Element>
+	<Element><Old>MapPK</Old><New>地图PK</New></Element>
+	<Element><Old>SAFETY_ZONE</Old><New>安全区域</New></Element>
+	<Element><Old>FREE_ZONE</Old><New>自由区域</New></Element>
+	<Element><Old>PLAYER_ZONE</Old><New>PK模式区域</New></Element>
+	<Element><Old>PK_ZONE</Old><New>PK区域</New></Element>
+	<Element><Old>FACTION_ZONE</Old><New>阵营区域</New></Element>
+	<Element><Old>GUILD_ZONE</Old><New>工会区域</New></Element>
+	
+	<Element><Old>PKPunish</Old><New>PK惩罚</New></Element>
+	
+	
+	<Element><Old>File</Old><New>资源</New></Element>
+	<Element><Old>Section</Old><New>资源块</New></Element>
+	<Element><Old>Link0</Old><New>绑定0</New></Element>
+	<Element><Old>Link1</Old><New>绑定1</New></Element>
+	<Element><Old>SkinMesh</Old><New>蒙皮</New></Element>
+	<Element><Old>LinkMesh</Old><New>挂接</New></Element>
+	
+	
+	<Element><Old>CompleteText</Old><New>完成条件描述</New></Element>
+	<Element><Old>ReceiveText</Old><New>接受对话</New></Element>
+	<Element><Old>CommitText</Old><New>提交描述</New></Element>
+	<Element><Old>DetailText</Old><New>详细描述</New></Element>
+	
+	
+	<Element><Old>Desc</Old><New>描述</New></Element>
+	<Element><Old>Description</Old><New>描述</New></Element>
+	<Element><Old>Icon</Old><New>图标</New></Element>
+	<Element><Old>Icon2D</Old><New>2D图标</New></Element>
+	<Element><Old>Icon3D</Old><New>3D图标</New></Element>
+	<Element><Old>Photo</Old><New>头像</New></Element>
+	<Element><Old>MeleeAttackHitEffectVisual</Old><New>近战攻击效果</New></Element>
+	<Element><Old>MeleeAttackedHitEffectVisual</Old><New>近战被攻击目标效果</New></Element>
+	<Element><Old>MeleeAttackedHitEffectAtSelfVisual</Old><New>近战受击效果</New></Element>
+	<Element><Old>AttackedHitEffectAtTargetVisual</Old><New>被攻击目标效果</New></Element>
+	<Element><Old>AttackHitEffectVisual</Old><New>攻击效果</New></Element>
+	
+	<Element><Old>WorldMap</Old><New>世界地图</New></Element>
+	<Element><Old>WorldMapPos</Old><New>世界地图坐标点</New></Element>
+	<Element><Old>WorldMapPosition</Old><New>世界地图坐标点</New></Element>
+	<Element><Old>WorldMapPosX</Old><New>世界地图坐标X(像素)</New></Element>
+	<Element><Old>WorldMapPosY</Old><New>世界地图坐标Y(像素)</New></Element>
+	<Element><Old>WorldMapPosZ</Old><New>世界地图坐标Z(像素)</New></Element>
+	
+	<Element><Old>Coordinate</Old><New>坐标系</New></Element>
+	
+	<Element><Old>Trigger</Old><New>触发器/点</New></Element>
+	<Element><Old>WorldMapTrigger</Old><New>世界地图触发点</New></Element>
+	<Element><Old>WorldMapTriggers</Old><New>世界地图触发点</New></Element>
+	<Element><Old>TransportTrigger</Old><New>地图跳转触发点</New></Element>
+	<Element><Old>TransportTriggers</Old><New>地图跳转触发点</New></Element>
+	<Element><Old>TransportPos</Old><New>地图跳转目的地</New></Element>
+	
+	<Element><Old>CompleteRecord</Old><New>完成记录</New></Element>	
+	<Element><Old>CompleteRecords</Old><New>完成记录</New></Element>	
+	
+	<Element><Old>BodyScale</Old><New>身体缩放(0==100)</New></Element>
+	<Element><Old>BodyLevelScale</Old><New>身体等级缩放(0==100)</New></Element>
+	<Element><Old>EffectScale</Old><New>属性效果比例(0==100)</New></Element>
+	<Element><Old>WalkReferenceSpeed</Old><New>走路参考速度(0.01米/秒)</New></Element>
+	<Element><Old>RunReferenceSpeed</Old><New>跑步参考速度(0.01米/秒)</New></Element>
+	<Element><Old>WalkRunBorderSpeed</Old><New>走跑切换速度(0.01米/秒)</New></Element>
+	<Element><Old>RunSpeedSup</Old><New>跑步速度上限(0.01米/秒)</New></Element>
+	<Element><Old>RotateSpeed</Old><New>转身速度(0.01弧度/秒)</New></Element>
+	<Element><Old>TangercyType</Old><New>贴地方式</New></Element>
+	
+	<Element><Old>BodyResource</Old><New>身体资源</New></Element>
+	<Element><Old>Skeleton</Old><New>骨架+动画</New></Element>
+	<Element><Old>Mesh</Old><New>蒙皮</New></Element>
+	<Element><Old>Material</Old><New>材质球</New></Element>
+	<Element><Old>BodyItem</Old><New>玩家类型身体配置</New></Element>
+	<Element><Old>MoveMixNode</Old><New>移动混合位置</New></Element>
+	
+	<Element><Old>WeaponType</Old><New>武器类型</New></Element>
+	
+	<Element><Old>Pick</Old><New>点选</New></Element>
+	<Element><Old>Pickable</Old><New>可点选</New></Element>
+	<Element><Old>PickBound</Old><New>[Pick]包围盒</New></Element>
+	<Element><Old>XMax</Old><New>X宽度(0.01米)</New></Element>
+	<Element><Old>YMax</Old><New>Y宽度(0.01米)</New></Element>
+	<Element><Old>ZMax</Old><New>Z高度(0.01米)</New></Element>
+	<Element><Old>MinScale100</Old><New>小尺寸缩放值(0.01)</New></Element>
+	
+	<Element><Old>CasterRange</Old><New>释放者效果范围(0.01米)</New></Element>
+	<Element><Old>CasterEffect</Old><New>释放者效果资源</New></Element>
+	<Element><Old>FocusRange</Old><New>目标效果范围(0.01米)</New></Element>
+	<Element><Old>FocusEffect</Old><New>目标效果资源</New></Element>
+	
+	
+	<Element><Old>LevelXP</Old><New>等级(升级)经验</New></Element>
+	<Element><Old>OnceXP</Old><New>单次经验</New></Element>
+	<Element><Old>AddValue</Old><New>增加值</New></Element>
+	<Element><Old>AddSpeed</Old><New>增加速度</New></Element>
+	
+	
+	<Element><Old>Anim</Old><New>动画</New></Element>
+	<Element><Old>Anims</Old><New>动画</New></Element>
+	<Element><Old>Animation</Old><New>动画</New></Element>
+	<Element><Old>Animations</Old><New>动画</New></Element>
+	<Element><Old>AnimLoop</Old><New>动画循环</New></Element>
+	
+	<Element><Old>AnimWalk</Old><New>动画(走)</New></Element>
+	<Element><Old>AnimRun</Old><New>动画(跑)</New></Element>
+	<Element><Old>AnimAttackIdel</Old><New>动画(战斗待机)</New></Element>
+	<Element><Old>AnimAttack1</Old><New>动画(攻击1)</New></Element>
+	<Element><Old>AnimAttack2</Old><New>动画(攻击2)</New></Element>
+	<Element><Old>AnimAttack3</Old><New>动画(攻击3)</New></Element>
+	
+	<Element><Old>Express</Old><New>特效</New></Element>
+	<Element><Old>Travel</Old><New>飞行</New></Element>
+	<Element><Old>Traveller</Old><New>飞行物</New></Element>
+	<Element><Old>TravelExpress</Old><New>飞行特效</New></Element>
+	<Element><Old>TravellerExpress</Old><New>飞行特效</New></Element>
+	
+	<Element><Old>ReqAuraState</Old><New>必须具备的光环状态</New></Element>
+	<Element><Old>NotAuraState</Old><New>不能具备的光环状态</New></Element>
+	<Element><Old>ReqActionState</Old><New>必须具备的行为状态</New></Element>
+	<Element><Old>NotActionState</Old><New>不能具备的行为状态</New></Element>
+	
+	<Element><Old>casterRefValue</Old><New>释放者参考值</New></Element>
+	<Element><Old>targetRefValue</Old><New>目标自身参考值</New></Element>
+	
+	<Element><Old>casterMask</Old><New>释放者周围目标</New></Element>
+	<Element><Old>casterEffectRange</Old><New>释放者周围的范围(0.01米)</New></Element>
+	<Element><Old>targetMask</Old><New>目标周围目标</New></Element>
+	<Element><Old>targetEffectRange</Old><New>目标周围的范围(0.01米)</New></Element>
+	<Element><Old>maxAffectTargets</Old><New>效果数量上限</New></Element>
+	
+	
+	<Element><Old>distance</Old><New>距离(0.01米)</New></Element>
+	<Element><Old>direction</Old><New>朝向</New></Element>
+	<Element><Old>speed</Old><New>速度(0.01米/秒)</New></Element>
+	<Element><Old>visual</Old><New>显示</New></Element>
+	<Element><Old>VisualScale100</Old><New>显示比例(0.01)</New></Element>
+	
+	<Element><Old>Template</Old><New>模板</New></Element>
+	<Element><Old>effectSign</Old><New>正负效果</New></Element>
+	<Element><Old>delay</Old><New>延迟(0.01秒)</New></Element>
+	<Element><Old>spreadSpeed</Old><New>传播速度(0.01米/秒)</New></Element>	
+	<Element><Old>selectorChannel</Old><New>选择器</New></Element>
+	<Element><Old>valueSet</Old><New>值</New></Element>
+	
+	<Element><Old>effectChannel</Old><New>效果通道[并发处理]</New></Element>
+	<Element><Old>effectChannelWeight</Old><New>效果通道优先级</New></Element>
+	<Element><Old>Tick</Old><New>周期性更新</New></Element>
+	<Element><Old>tickCnt</Old><New>周期次数</New></Element>
+	<Element><Old>tickCount</Old><New>周期次数</New></Element>
+	<Element><Old>amplitude</Old><New>周期(0.01秒)</New></Element>
+	
+	<Element><Old>effectCondition</Old><New>起作用的条件</New></Element>
+	<Element><Old>effectState</Old><New>起作用的状态</New></Element>
+	<Element><Old>endCondition</Old><New>结束的条件</New></Element>
+	<Element><Old>endState</Old><New>结束的状态</New></Element>
+	<Element><Old>actionStateMask</Old><New>[附加]行为状态</New></Element>
+	<Element><Old>auraStateMask</Old><New>[附加]光环状态</New></Element>
+	<Element><Old>focusTargetMask</Old><New>目标</New></Element>
+	<Element><Old>focusNatureIgnoreMask</Old><New>目标忽略的自然类型</New></Element>
+	<Element><Old>facingFlag</Old><New>自动朝向</New></Element>
+	<Element><Old>addStateMask</Old><New>启动状态</New></Element>
+	<Element><Old>delStateMask</Old><New>结束状态</New></Element>
+	
+	<Element><Old>sendWork</Old><New>施法位移</New></Element>
+	
+	<Element><Old>casterCondition</Old><New>释放者属性条件</New></Element>
+	<Element><Old>casterState</Old><New>释放者状态条件</New></Element>
+	<Element><Old>focusCondition</Old><New>目标属性条件</New></Element>
+	<Element><Old>focusState</Old><New>目标状态条件</New></Element>
+	
+	
+	<Element><Old>prepareTime</Old><New>蓄力时间(0.01秒)</New></Element>
+	<Element><Old>castTime</Old><New>释放前摇(0.01秒)</New></Element>
+	<Element><Old>castCnt</Old><New>释放次数</New></Element>
+	<Element><Old>castEndTime</Old><New>释放后摇(0.01秒)</New></Element>
+	<Element><Old>actCoolTime</Old><New>释放结束时间(0.01秒)</New></Element>
+	
+	<Element><Old>cost</Old><New>消耗/成本</New></Element>
+	<Element><Old>targetSelect</Old><New>目标选择器</New></Element>
+	<Element><Old>htEffectInfo</Old><New>命中效果</New></Element>
+	<Element><Old>htEffectInfos</Old><New>命中效果</New></Element>
+	<Element><Old>ScriptHitEffect</Old><New>脚本HitEffect</New></Element>
+	<Element><Old>auraInfo</Old><New>光环效果</New></Element>
+	<Element><Old>auraInfos</Old><New>光环效果</New></Element>
+	<Element><Old>maxAura</Old><New>最大光环个数</New></Element>
+	<Element><Old>maxAuras</Old><New>最大光环个数</New></Element>
+	<Element><Old>maxAuraDurationOverlap</Old><New>最大光环个数时间叠加</New></Element>
+	<Element><Old>ScriptAura</Old><New>脚本Aura</New></Element>
+	
+	<Element><Old>delayTime</Old><New>延迟时间(0.01秒)</New></Element>
+	<Element><Old>fadeTime</Old><New>退出时间(0.01秒)</New></Element>
+	<Element><Old>fadeType</Old><New>退出类型</New></Element>
+	<Element><Old>attachPos</Old><New>绑定部位</New></Element>
+	<Element><Old>attachType</Old><New>绑定类型</New></Element>
+	<Element><Old>srcPos</Old><New>发射部位</New></Element>
+	<Element><Old>destPos</Old><New>目标部位</New></Element>
+	<Element><Old>gravity</Old><New>重力(1G = 980)</New></Element>
+	<Element><Old>reserveRes</Old><New>残留资源</New></Element>
+	<Element><Old>reserveTime</Old><New>残留时间(0.01秒)</New></Element>
+	<Element><Old>reserveDirection</Old><New>残留方向</New></Element>
+	<Element><Old>Shake</Old><New>振动</New></Element>
+	<Element><Old>hitShake</Old><New>振动</New></Element>
+	<Element><Old>CameraShake</Old><New>相机振动</New></Element>
+	<Element><Old>weight</Old><New>权重</New></Element>
+	<Element><Old>priority</Old><New>优先级</New></Element>
+	<Element><Old>displayerType</Old><New>显示类型</New></Element>
+	<Element><Old>durationVisual</Old><New>持久效果</New></Element>
+	<Element><Old>auraVisual</Old><New>光环效果</New></Element>
+	<Element><Old>hiteffectVisual</Old><New>命中效果</New></Element>
+	
+	<Element><Old>Time</Old><New>时间(0.01秒)</New></Element>
+	<Element><Old>AccumulateTimeType</Old><New>累计时间类型</New></Element>
+	<Element><Old>Day</Old><New>天</New></Element>
+	<Element><Old>Week</Old><New>周</New></Element>
+	<Element><Old>Month</Old><New>月</New></Element>
+	
+	<Element><Old>Points</Old><New>点/位置</New></Element>
+	<Element><Old>PointList</Old><New>线路</New></Element>
+	<Element><Old>Route</Old><New>线路</New></Element>
+	<Element><Old>Routes</Old><New>线路</New></Element>
+	<Element><Old>RouteClip</Old><New>线路抄近道</New></Element>
+	
+	<Element><Old>EnterPos</Old><New>出生点/位置</New></Element>
+	<Element><Old>Revive</Old><New>复活点/位置</New></Element>
+	<Element><Old>ReviveType</Old><New>复活方式</New></Element>
+	<Element><Old>ReviveProtected</Old><New>复活保护</New></Element>
+	
+	<Element><Old>BirthSpan</Old><New>出生间隔(0.01秒)</New></Element>
+	<Element><Old>BirthPosition</Old><New>出生点</New></Element>
+	<Element><Old>BirthPositions</Old><New>出生点</New></Element>
+	<Element><Old>BirthPosCount</Old><New>出生点个数</New></Element>
+	
+	<Element><Old>Badge</Old><New>徽章</New></Element>
+	<Element><Old>LevelUp</Old><New>升级</New></Element>
+	<Element><Old>Member</Old><New>成员</New></Element>
+	<Element><Old>MemberCount</Old><New>成员数目</New></Element>
+	<Element><Old>MemberInPartyCount</Old><New>匹配成员数目</New></Element>
+	
+	<Element><Old>Guard</Old><New>卫兵</New></Element>
+	<Element><Old>Guards</Old><New>卫兵</New></Element>
+	
+	
+	<Element><Old>ActionDuration</Old><New>行为/攻击时长(0.01f)</New></Element>
+	
+	
+	<Element><Old>DistanceScale</Old><New>距离系数(0.01)</New></Element>
+	<Element><Old>HPReservePercScale</Old><New>HP系数(0.01)</New></Element>	
+	
+
+	<Element><Old>IGNORE_ROTATE</Old><New>忽略旋转</New></Element>
+	<Element><Old>IGNORE_SCALE</Old><New>忽略缩放</New></Element>
+	
+	
+	<Element><Old>GossipID</Old><New>话/说话</New></Element>
+	<Element><Old>Gossip</Old><New>话/说话</New></Element>
+	<Element><Old>Idel</Old><New>空闲</New></Element>
+	<Element><Old>Idel0</Old><New>空闲</New></Element>
+	<Element><Old>Idel1</Old><New>空闲</New></Element>
+	<Element><Old>Attack</Old><New>战斗</New></Element>
+	<Element><Old>Attack0</Old><New>战斗</New></Element>
+	<Element><Old>Attack1</Old><New>战斗</New></Element>
+	<Element><Old>Flee</Old><New>逃跑</New></Element>
+	<Element><Old>Die</Old><New>死亡</New></Element>
+		
+	<Element><Old>MountVisual</Old><New>坐骑外观</New></Element>
+	<Element><Old>VisualMount</Old><New>坐骑外观</New></Element>
+	
+	
+	<Element><Old>ItemSlotType</Old><New>物品部位类型</New></Element>
+	<Element><Old>ItemLevel</Old><New>物品等级</New></Element>
+	
+	<Element><Old>SelfUseItemLevel</Old><New>自身物品等级</New></Element>
+	<Element><Old>TeamUseItemLevel</Old><New>全队物品等级</New></Element>
+	
+	<Element><Old>SelfLevel</Old><New>自身等级</New></Element>
+	<Element><Old>TeamLevel</Old><New>全队等级</New></Element>
+	<Element><Old>TianFuLevel</Old><New>天赋等级</New></Element>
+	<Element><Old>MountLevel</Old><New>坐骑等级</New></Element>	
+	<Element><Old>XingZhenLevel</Old><New>星阵等级</New></Element>
+	<Element><Old>BeiDouStarLevel</Old><New>北斗星等级</New></Element>
+	<Element><Old>YaoQianShuLevel</Old><New>摇钱树等级</New></Element>
+	<Element><Old>FightPower</Old><New>战斗力</New></Element>
+	
+	<Element><Old>GuildLevel</Old><New>工会等级</New></Element>
+	<Element><Old>GuildPoint</Old><New>工会据点</New></Element>
+	<Element><Old>ArenaRank</Old><New>竞技场排名</New></Element>
+	<Element><Old>DotaSpaceAccumulateKillPlayerCount</Old><New>神域地图杀敌数量</New></Element>
+	<Element><Old>BigSpaceKillBossCount</Old><New>公共地图杀Boss数量</New></Element>
+	
+	<Element><Old>VIPLevel</Old><New>VIP等级</New></Element>
+	<Element><Old>FriendCount</Old><New>好友数量</New></Element>
+	
+	
+	<Element><Old>Discount</Old><New>折扣(0:没有折扣 100:免费)</New></Element>
+	<Element><Old>JinZiStoneReplace</Old><New>金子卡替换</New></Element>
+	<Element><Old>JinZiStoneDiscount</Old><New>金子卡折扣</New></Element>
+	<Element><Old>Slot</Old><New>栏位</New></Element>
+	<Element><Old>Refresh</Old><New>刷新</New></Element>
+	<Element><Old>ImmediateComplete</Old><New>立刻完成</New></Element>
+	<Element><Old>DoubleReceive</Old><New>双倍收益</New></Element>
+	<Element><Old>QaulityUp</Old><New>提升品质</New></Element>
+	
+	<Element><Old>SpecialWash</Old><New>定向洗练</New></Element>
+	<Element><Old>BangYinEnhance</Old><New>绑银培养</New></Element>
+	<Element><Old>JinZiEnhance</Old><New>金子培养</New></Element>
+	<Element><Old>EndCoolingDown</Old><New>结束冷却</New></Element>
+	<Element><Old>Batch</Old><New>批量处理</New></Element>
+	<Element><Old>ComposeBatch</Old><New>批量合成</New></Element>
+	<Element><Old>DecomposeBatch</Old><New>批量分解</New></Element>
+	<Element><Old>DecotationPerfectDecompose</Old><New>首饰完美分解</New></Element>
+	<Element><Old>ResetCount</Old><New>重置次数</New></Element>
+	<Element><Old>BatchPass</Old><New>批量通关</New></Element>
+	<Element><Old>XPScale</Old><New>经验加成</New></Element>
+	<Element><Old>SmallSpaceBuyCount</Old><New>副本购买次数</New></Element>
+	<Element><Old>SmallSpace0BuyCount</Old><New>探索副本购买次数</New></Element>
+	<Element><Old>SmallSpace1BuyCount</Old><New>英雄副本购买次数</New></Element>
+	<Element><Old>BagSlotCount</Old><New>背包栏位</New></Element>
+	<Element><Old>Market</Old><New>商店</New></Element>
+	<Element><Old>DailyQuest</Old><New>每日任务</New></Element>
+	<Element><Old>Equip</Old><New>装备</New></Element>
+	<Element><Old>BeiDouStar</Old><New>北斗星</New></Element>
+	<Element><Old>YaoQianShu</Old><New>摇钱树</New></Element>
+	<Element><Old>JinZiReset</Old><New>金子重置</New></Element>
+	<Element><Old>BatchReset</Old><New>批量重置</New></Element>
+	<Element><Old>LootCount</Old><New>掉落次数</New></Element>
+	<Element><Old>BatchLoot</Old><New>批量摇钱</New></Element>
+	<Element><Old>DayOnlineReward1Count</Old><New>每日在线顶级奖励</New></Element>
+	<Element><Old>DAY_ONLINE_REWARD</Old><New>每日在线奖励</New></Element>
+	<Element><Old>MillstoneSpace</Old><New>通天塔</New></Element>
+	<Element><Old>DailyGift</Old><New>每日礼包</New></Element>
+	
+	<Element><Old>StepXP</Old><New>单次经验</New></Element>
+	
+	<Element><Old>DouShen</Old><New>斗神</New></Element>
+	<Element><Old>Advance</Old><New>高级</New></Element>
+	<Element><Old>CatchCount</Old><New>抓捕次数</New></Element>
+	<Element><Old>CatchType</Old><New>抓捕方式</New></Element>
+	<Element><Old>RevoltCount</Old><New>反抗次数</New></Element>
+	<Element><Old>Exploit</Old><New>压榨</New></Element>
+	<Element><Old>ProtectChangECount</Old><New>保护嫦娥次数</New></Element>
+	<Element><Old>WatchBoss</Old><New>野外boss观测</New></Element>
+	<Element><Old>WeaponVisual</Old><New>武器特效</New></Element>
+	<Element><Old>ServantCount</Old><New>伙伴个数</New></Element>
+	<Element><Old>SpaceServantCount</Old><New>出战伙伴个数</New></Element>
+	<Element><Old>WishCount</Old><New>许愿个数</New></Element>
+	<Element><Old>Revert</Old><New>还原/倒回</New></Element>
+	
+	<Element><Old>TianFu</Old><New>天赋</New></Element>
+	<Element><Old>TIAN_FU</Old><New>天赋</New></Element>
+	<Element><Old>TianFuSkill</Old><New>天赋技能</New></Element>
+	
+	<Element><Old>Enhance0</Old><New>基本培养</New></Element>
+	<Element><Old>Enhance1</Old><New>高级培养</New></Element>
+	<Element><Old>PerfectTransportXP</Old><New>完美继承</New></Element>
+	
+	
+	
+	<Element><Old>RESPONSE_GUILD</Old><New>回复引导</New></Element>
+	<Element><Old>RESPONSE_SCRIPT</Old><New>回复自定义</New></Element>
+	<Element><Old>USE_ITEM</Old><New>使用物品</New></Element>
+	<Element><Old>ENHANCE_MOUNT</Old><New>坐骑培养</New></Element>
+	<Element><Old>BEI_DOU_STAR</Old><New>北斗</New></Element>
+	<Element><Old>MING_GE</Old><New>命格</New></Element>
+	
+	
+	<!--宏定义-->
+	
+	<Element><Old>NONE</Old><New>无</New></Element>
+	<Element><Old>SELF</Old><New>自己</New></Element>
+	
+	<Element><Old>LOCAL_UP</Old><New>局部朝上</New></Element>
+	
+	<Element><Old>POINT</Old><New>单立足点[人]</New></Element>
+	<Element><Old>LINE</Old><New>双立足点[马]</New></Element>
+	<Element><Old>PLANE</Old><New>四立足点[鳄鱼]</New></Element>
+	
+	<Element><Old>ROUND</Old><New>圆形</New></Element>
+	<Element><Old>RECT</Old><New>矩形(宽度/向前长度)</New></Element>
+	<Element><Old>SECTOR</Old><New>扇形(弧度/半径)</New></Element>
+	
+	<Element><Old>THIS_SELF</Old><New>[目标是]自己</New></Element>
+	<Element><Old>THIS_FRIEND</Old><New>[目标是]朋友</New></Element>
+	<Element><Old>THIS_ENEMY</Old><New>[目标是]敌人</New></Element>
+	<Element><Old>THIS_NEUTRAL</Old><New>[目标是]中立</New></Element>
+	<Element><Old>THIS_TEAM</Old><New>[目标是]队伍/队伍成员</New></Element>
+	<Element><Old>ROUND_SELF</Old><New>周围的自己</New></Element>
+	<Element><Old>ROUND_FRIEND</Old><New>周围的朋友</New></Element>
+	<Element><Old>ROUND_ENEMY</Old><New>周围的敌人</New></Element>
+	<Element><Old>ROUND_NEUTRAL</Old><New>周围的中立者</New></Element>
+	<Element><Old>ROUND_TEAM</Old><New>周围的队伍成员</New></Element>
+	
+	
+	<Element><Old>TARGET</Old><New>目标</New></Element>
+	<Element><Old>FRIEND</Old><New>好友</New></Element>
+	<Element><Old>ENEMY</Old><New>敌人</New></Element>
+	<Element><Old>NEUTRAL</Old><New>中立</New></Element>
+	<Element><Old>TEAM</Old><New>队伍/队伍成员</New></Element>
+	<Element><Old>GROUND</Old><New>地面</New></Element>
+	
+	
+	<Element><Old>SELF_FRONT_GROUND</Old><New>前方的地面</New></Element>
+	<Element><Old>SELF_FRONT_OBJECT</Old><New>前方的对象</New></Element>
+	<Element><Old>SELF_TARGET</Old><New>自己到目标[方向]</New></Element>
+	<Element><Old>TARGET_SELF</Old><New>目标到自己[方向]</New></Element>
+	
+	<Element><Old>GOOD</Old><New>利/好</New></Element>
+	<Element><Old>BAD</Old><New>弊/坏</New></Element>
+	
+	<Element><Old>CASTED</Old><New>释放</New></Element>
+	<Element><Old>AUTO</Old><New>自动</New></Element>
+	<Element><Old>AutoAdd</Old><New>自动添加</New></Element>
+	
+	<Element><Old>FREE</Old><New>自由</New></Element>
+	<Element><Old>FORCE</Old><New>强制/受力</New></Element>
+	<Element><Old>BORROW</Old><New>借的/没有所有权</New></Element>
+	<Element><Old>PERSISTENT</Old><New>存档</New></Element>
+	<Element><Old>UN_PERSISTENT</Old><New>不存档</New></Element>
+	
+	<Element><Old>NONE_ACTION</Old><New>无行为</New></Element>
+
+	
+	<Element><Old>EFFECT_SELECTOR_0</Old><New>效果选择器0</New></Element>
+	<Element><Old>EFFECT_SELECTOR_1</Old><New>效果选择器1</New></Element>
+	<Element><Old>EFFECT_SELECTOR_2</Old><New>效果选择器2</New></Element>
+	
+	<Element><Old>VALUE_MOD</Old><New>属性调节</New></Element>
+	<Element><Old>VALUE_TICK</Old><New>周期性TICK属性变化</New></Element>
+	<Element><Old>VALUE_INHERIT</Old><New>属性继承</New></Element>
+	<Element><Old>VALUE_TRANSIT</Old><New>属性转移</New></Element>
+	<Element><Old>TRANSPORT_TARGET</Old><New>瞬间转移目标</New></Element>
+	<Element><Old>CHARGE_TARGET</Old><New>快速移动目标</New></Element>
+	<Element><Old>RADIATE</Old><New>辐射</New></Element>
+	<Element><Old>SPELL_TARGET</Old><New>朝目标施法</New></Element>
+	<Element><Old>VALUE_MAPPING</Old><New>属性重定向</New></Element>
+	
+	<Element><Old>DMG</Old><New>伤害</New></Element>
+	<Element><Old>SUMMON_NPC</Old><New>朝目标施法</New></Element>
+	
+	<Element><Old>ADD_ITEM</Old><New>添加物品</New></Element>
+	<Element><Old>ADD_SPELL</Old><New>添加技能</New></Element>
+	<Element><Old>ADD_QUEST</Old><New>添加任务</New></Element>
+	<Element><Old>TAXI</Old><New>出租车/乘坐飞行</New></Element>
+	<Element><Old>MOD_THREAT</Old><New>修改仇恨值</New></Element>
+	<Element><Old>DIS_DAMAGE</Old><New>抵消伤害</New></Element>
+	<Element><Old>MOUNT</Old><New>坐骑</New></Element>
+	<Element><Old>AVATAR</Old><New>外观/换装</New></Element>
+	<Element><Old>TICK_THREAT</Old><New>修改仇恨值</New></Element>
+	<Element><Old>SPACE_LOOT_SCALE</Old><New>地图掉落系数</New></Element>
+	
+	<Element><Old>TRANSPORT</Old><New>传送/瞬间转移</New></Element>
+	<Element><Old>CHARGE</Old><New>快速转移</New></Element>
+	
+	<Element><Old>BIG_SPACE</Old><New>世界地图</New></Element>
+	<Element><Old>DOTA_SPACE</Old><New>神域</New></Element>
+	<Element><Old>DARK_SPACE</Old><New>恶魔广场</New></Element>
+	<Element><Old>AVITVITY_SPACE</Old><New>活动地图</New></Element>
+	<Element><Old>SMALL_SPACE</Old><New>副本地图</New></Element>
+	<Element><Old>SMALL_SPACE_PUBLIC</Old><New>多人副本地图</New></Element>
+	<Element><Old>SMALL_SPACE_STORY</Old><New>剧情副本</New></Element>
+	<Element><Old>SMALL_SPACE_CONDITION</Old><New>成就副本</New></Element>
+	<Element><Old>SMALL_SPACE_MILLSTONE</Old><New>通天塔副本</New></Element>
+	<Element><Old>GM_SPACE</Old><New>GM地图</New></Element>
+	
+	<Element><Old>KILL_NPC</Old><New>杀怪</New></Element>
+	<Element><Old>KILL_NPC_CLASS</Old><New>杀怪种类</New></Element>
+	<Element><Old>JION_KILL_NPC</Old><New>联合杀怪</New></Element>
+	<Element><Old>COLLECT_ITEM</Old><New>收集物品</New></Element>
+	<Element><Old>ITEM_USE</Old><New>使用物品</New></Element>
+	<Element><Old>SPELL_USE</Old><New>使用技能</New></Element>
+	<Element><Old>GATHER</Old><New>采集</New></Element>
+	
+	<Element><Old>DOTA</Old><New>神域</New></Element>
+	<Element><Old>DOTA_KILL_SELF_FACTION_MOSTER</Old><New>杀自己阵营区域的野怪</New></Element>
+	<Element><Old>DOTA_KILL_PATROL</Old><New>杀敌方阵营的阵营怪</New></Element>
+	<Element><Old>DOTA_KILL_GUARD</Old><New>杀敌方阵营的守卫</New></Element>
+	<Element><Old>DOTA_KILL_PLAYER</Old><New>杀死敌方阵营玩家</New></Element>
+	<Element><Old>DOTA_KILL_OTHER_FACTION_MOSTER</Old><New>杀死敌方阵营的野怪</New></Element>
+
+	
+	
+	<Element><Old>MASTER</Old><New>主线</New></Element>
+	<Element><Old>LATERAL</Old><New>支线</New></Element>
+	<Element><Old>DAILY</Old><New>每日</New></Element>
+	<Element><Old>EPIC</Old><New>史诗</New></Element>
+	<Element><Old>OCCUPATION</Old><New>职业</New></Element>
+	<Element><Old>SKILL</Old><New>[生活]技能</New></Element>
+	<Element><Old>SPECIALITY</Old><New>专业</New></Element>
+	<Element><Old>GUILD</Old><New>工会</New></Element>
+	<Element><Old>ACTIVITY</Old><New>活动</New></Element>
+	
+	<Element><Old>RUBBISH</Old><New>杂碎</New></Element>
+	<Element><Old>BENCH</Old><New>跟班</New></Element>
+	<Element><Old>NORMAL</Old><New>一般</New></Element>
+	<Element><Old>CAPTAIN</Old><New>队长</New></Element>
+	<Element><Old>RARE</Old><New>稀有</New></Element>
+	<Element><Old>ELITE</Old><New>精英</New></Element>
+	<Element><Old>LEADER</Old><New>首领</New></Element>
+	<Element><Old>SMALL_BOSS</Old><New>小boss</New></Element>
+	<Element><Old>BIG_BOSS</Old><New>大boss</New></Element>
+	<Element><Old>WORLD_BOSS</Old><New>宇宙boss</New></Element>
+	<Element><Old>DOTA_SCORE_BOSS</Old><New>神域积分boss</New></Element>
+	
+	<Element><Old>PASSIVE</Old><New>被动</New></Element>
+	<Element><Old>ACTIVE</Old><New>激活/启用/主动</New></Element>
+	<Element><Old>DEACTIVE</Old><New>非激活/不启用</New></Element>
+	
+	<Element><Old>WEAPON</Old><New>武器</New></Element>
+	<Element><Old>WEAPON_EX</Old><New>超级武器</New></Element>
+	<Element><Old>BODY</Old><New>身体</New></Element>
+	<Element><Old>DRESS</Old><New>时装</New></Element>
+	<Element><Old>CLOAK</Old><New>披风</New></Element>
+	<Element><Old>HELMET</Old><New>头盔</New></Element>
+	<Element><Old>RING</Old><New>戒指</New></Element>
+	<Element><Old>SHOES</Old><New>鞋子</New></Element>
+	
+	<Element><Old>XIANG_LIAN</Old><New>项链</New></Element>
+	<Element><Old>YU_PEI</Old><New>玉佩</New></Element>
+	<Element><Old>ER_HUAN</Old><New>耳环</New></Element>
+	<Element><Old>SHOU_ZHUO</Old><New>手镯</New></Element>
+	<Element><Old>JIE_ZHI</Old><New>戒指</New></Element>
+	<Element><Old>CHU_FA</Old><New>触发</New></Element>
+	<Element><Old>TE_SHU</Old><New>特殊</New></Element>
+	<Element><Old>SHU_XING</Old><New>属性</New></Element>
+	
+	<Element><Old>JUNK</Old><New>垃圾</New></Element>
+	<Element><Old>ARMOR</Old><New>防具</New></Element>
+	<Element><Old>CONSUMABLE</Old><New>消耗品</New></Element>
+	<Element><Old>ELEMENT</Old><New>原料</New></Element>
+	<Element><Old>GEM</Old><New>宝石</New></Element>
+	<Element><Old>WEAPON_GEM</Old><New>超级宝石</New></Element>
+	<Element><Old>GIFT</Old><New>礼包</New></Element>
+	<Element><Old>ELIXIR</Old><New>丹药</New></Element>
+	<Element><Old>SPELL_STONE</Old><New>技能石</New></Element>
+	<Element><Old>DECORATION</Old><New>饰品</New></Element>
+	<Element><Old>DECORATION_JOKER</Old><New>首饰符</New></Element>
+	<Element><Old>XP_STONE</Old><New>经验丹</New></Element>
+	<Element><Old>XP_SCALE_STONE</Old><New>经验倍增卡</New></Element>
+	<Element><Old>BAG_SLOT_STONE</Old><New>背包扩充卡</New></Element>
+	<Element><Old>SERVANT_STONE</Old><New>伙伴碎片</New></Element>
+	<Element><Old>SERVANT_XP_STONE</Old><New>伙伴经验丹</New></Element>
+	<Element><Old>SERVANT_XP_SCALE_STONE</Old><New>伙伴经验倍增卡</New></Element>
+	<Element><Old>ServantStone</Old><New>伙伴碎片</New></Element>
+	<Element><Old>ITEM_FRAGMENT</Old><New>物品碎片</New></Element>
+	<Element><Old>MOUNT_YUANBAO_STONE</Old><New>坐骑金子</New></Element>
+	<Element><Old>WEAPON_XP_STONE</Old><New>神器神油</New></Element>
+	<Element><Old>YAOQIANSHU_WATER</Old><New>摇钱树露水</New></Element>
+	<Element><Old>HONOR_STONE</Old><New>声望卡</New></Element>
+	<Element><Old>XIANLING_STONE</Old><New>仙灵卡</New></Element>
+	<Element><Old>JINZI_STONE</Old><New>金子卡</New></Element>
+	<Element><Old>JINPIAO_STONE</Old><New>金票卡</New></Element>
+	<Element><Old>YINPIAO_STONE</Old><New>银票卡</New></Element>
+	<Element><Old>YINZI_STONE</Old><New>银子卡</New></Element>
+	<Element><Old>OWN_SPELL_STONE</Old><New>技能石</New></Element>
+	<Element><Old>OWN_SPELL_POINT_STONE</Old><New>技能点卡</New></Element>
+	<Element><Old>OWN_SPELL_EFFECT_POINT_STONE</Old><New>技能效果点卡</New></Element>
+	<Element><Old>QUEST_STONE</Old><New>任务卷轴</New></Element>
+	<Element><Old>GUILD_STONE</Old><New>行会建设卡</New></Element>
+	<Element><Old>GUILD_BADGE_STONE</Old><New>行会徽章</New></Element>
+	<Element><Old>TRANSPORT_STONE</Old><New>传送石</New></Element>
+	<Element><Old>ENHANCE_STONE</Old><New>强化石</New></Element>
+	<Element><Old>VIP_XP_STONE</Old><New>VIP经验卡</New></Element>
+	<Element><Old>TIANFU_STONE</Old><New>天赋碎片</New></Element>
+	<Element><Old>TIANFU_BANGYIN_STONE</Old><New>天赋绑银替换卡</New></Element>
+	<Element><Old>ENERGY_STONE</Old><New>能量石</New></Element>
+	<Element><Old>STORY_SPACE_ENTER_STONE</Old><New>剧情副本重置卡</New></Element>
+	<Element><Old>OMNIPOTENT_ELEMENT</Old><New>万能材料</New></Element>
+	<Element><Old>VIP_TEMPORARY_STONE</Old><New>VIP体验卡</New></Element>
+	<Element><Old>MOUNT_VISUAL_TEMPORARY_STONE</Old><New>坐骑外观卡</New></Element>
+	<Element><Old>LOOT_FRAGMENT</Old><New>Loot碎片</New></Element>	
+	<Element><Old>GUILD_SPELL_STONE</Old><New>行会技能石</New></Element>
+	<Element><Old>LINK_STONE</Old><New>连珠</New></Element>
+	<Element><Old>LONGZHU_STONE</Old><New>龙珠</New></Element>
+	<Element><Old>LEVEL_UP_STONE</Old><New>升级丹</New></Element>
+	<Element><Old>MOUNT_STONE</Old><New>坐骑卷轴</New></Element>
+	<Element><Old>PET_STONE</Old><New>宠物卷轴</New></Element>
+	<Element><Old>PET_INSTANCE</Old><New>宠物蛋</New></Element>
+	<Element><Old>PET_GANYING_STONE</Old><New>宠物饲料(感应值)</New></Element>
+	<Element><Old>PET_XP_STONE</Old><New>宠物经验丹(经验)</New></Element>
+	<Element><Old>PET_JINGYUAN_STONE</Old><New>宠物精元丹(精元)</New></Element>
+	<Element><Old>PET_JINHUA_SKILL_STONE</Old><New>宠物进化技能书(随机覆盖进化技能)</New></Element>
+	<Element><Old>PET_FUSHEN_SKILL_STONE</Old><New>宠物附身技能书(学习(不是同类)+获取经验(同类))</New></Element>
+	<Element><Old>COLOR_STONE</Old><New>染料</New></Element>
+	<Element><Old>POWER_STONE</Old><New>体力丹</New></Element>
+	<Element><Old>REPAIR_STONE</Old><New>修理卡</New></Element>
+	<Element><Old>REPAIR_ADVANCE_STONE</Old><New>高级修理卡</New></Element>
+	<Element><Old>DECORATION_XP_STONE</Old><New>饰品经验卷轴</New></Element>
+	<Element><Old>EQUIP_DRESS_STONE</Old><New>装备外形卷轴</New></Element>
+
+	<Element><Old>GIFT_BOX</Old><New>宝箱</New></Element>
+	<Element><Old>GiftBox</Old><New>宝箱</New></Element>
+	<Element><Old>GiftBoxCount</Old><New>宝箱个数</New></Element>
+	
+	<Element><Old>Span</Old><New>间隔</New></Element>
+	<Element><Old>RecoverSpan</Old><New>重生/复原.间隔</New></Element>
+	<Element><Old>TickSpan</Old><New>Tick间隔</New></Element>
+	
+	<Element><Old>AXE</Old><New>斧子</New></Element>
+	<Element><Old>SWORD</Old><New>单手剑</New></Element>
+	<Element><Old>SWORD2</Old><New>双手剑</New></Element>
+	<Element><Old>DEFAULT</Old><New>默认/无</New></Element>
+	<Element><Old>CAST</Old><New>释放/使用</New></Element>
+	
+	<Element><Old>Color</Old><New>颜色</New></Element>
+	<Element><Old>WHITE</Old><New>白[物品:0个附加属性]</New></Element>
+	<Element><Old>GREEN</Old><New>绿[物品:1个附加属性]</New></Element>
+	<Element><Old>BLUE</Old><New>蓝[物品:2个附加属性]</New></Element>
+	<Element><Old>PURPLE</Old><New>紫[物品:3个附加属性]</New></Element>
+	<Element><Old>ORANGE</Old><New>橙[物品:4个附加属性]</New></Element>
+	<Element><Old>PINK</Old><New>粉[物品:5个附加属性]</New></Element>
+	
+	<Element><Old>ROOT</Old><New>根</New></Element>
+	<Element><Old>WING</Old><New>翅膀</New></Element>
+	<Element><Old>SCABBARD</Old><New>御剑</New></Element>
+	<Element><Old>LEFT_HAND</Old><New>左手</New></Element>
+	<Element><Old>RIGHT_HAND</Old><New>右手</New></Element>
+	<Element><Old>LEFT_WEAPON</Old><New>左手武器</New></Element>
+	<Element><Old>RIGHT_WEAPON</Old><New>右手武器</New></Element>
+	<Element><Old>TOP</Old><New>顶点</New></Element>
+	<Element><Old>CHEST</Old><New>胸</New></Element>
+	<Element><Old>MIDDLE</Old><New>中点</New></Element>
+	<Element><Old>BOTTOM</Old><New>底</New></Element>
+	<Element><Old>WEAPON_TRAIL</Old><New>武器拖尾</New></Element>
+	
+	
+	<Element><Old>WARRIOR</Old><New>战士</New></Element>
+	<Element><Old>MAGE</Old><New>法师</New></Element>
+	<Element><Old>RANGER</Old><New>弓手</New></Element>
+	
+	<Element><Old>MALE_WARRIOR</Old><New>男战士</New></Element>
+	<Element><Old>MALE_MAGE</Old><New>男法师</New></Element>
+	<Element><Old>MALE_RANGER</Old><New>男弓手</New></Element>
+	<Element><Old>FEMALE_WARRIOR</Old><New>女战士</New></Element>
+	<Element><Old>FEMALE_MAGE</Old><New>女法师</New></Element>
+	<Element><Old>FEMALE_RANGER</Old><New>女弓手</New></Element>
+	
+	<Element><Old>AUTO_ATTACK</Old><New>自动攻击</New></Element>
+	<Element><Old>ATTACKING</Old><New>战斗状态</New></Element>
+	<Element><Old>ATTACKED</Old><New>被攻击</New></Element>
+	<Element><Old>DEAD</Old><New>死亡</New></Element>
+	<Element><Old>SWOON</Old><New>眩晕</New></Element>
+	<Element><Old>MOVING</Old><New>移动(中)</New></Element>
+	<Element><Old>DIS_AUTO_ATTACK</Old><New>禁止攻击</New></Element>
+	<Element><Old>DIS_ATTACKED</Old><New>禁止被攻击(导致AI回家/部分负面光环关闭)</New></Element>
+	<Element><Old>DIS_DAMAGED</Old><New>禁止被伤害</New></Element>
+	<Element><Old>DIS_DEAD</Old><New>禁止死亡[不能死亡]</New></Element>
+	<Element><Old>DIS_MOVE</Old><New>禁止移动</New></Element>
+	<Element><Old>DIS_NPC_TALK</Old><New>禁止和NPC对话</New></Element>
+	<Element><Old>DIS_SAY</Old><New>禁止说话</New></Element>
+	<Element><Old>DIS_HPRESERVE</Old><New>禁止使用血包</New></Element>
+	<Element><Old>DIS_MOUNT</Old><New>禁止使用坐骑</New></Element>
+	<Element><Old>DIS_OPERATE_SERVANT</Old><New>禁止操作伙伴</New></Element>
+	<Element><Old>DIS_REVIVE</Old><New>禁止复活</New></Element>
+	<Element><Old>DIS_SMALL_SPACE</Old><New>禁止进入副本</New></Element>
+	<Element><Old>DIS_LISTEN</Old><New>禁止听觉</New></Element>
+	<Element><Old>DIS_FLY</Old><New>禁止飞行</New></Element>
+	<Element><Old>DIS_PK</Old><New>禁止切磋</New></Element>
+	<Element><Old>DIS_REIVE_SERVANT</Old><New>禁止复活伙伴</New></Element>
+	
+	<Element><Old>ENTER_ATTACK</Old><New>进入战斗</New></Element>
+	<Element><Old>EXIT_ATTACK</Old><New>退出战斗</New></Element>	
+	
+	<Element><Old>LIGHT</Old><New>光明</New></Element>
+	<Element><Old>DARK</Old><New>黑暗</New></Element>
+	<Element><Old>DOTA_LIGHT</Old><New>DOTA_神</New></Element>
+	<Element><Old>DOTA_DARK</Old><New>DOTA_魔</New></Element>
+	
+	
+	
+	<Element><Old>MoveSpeed</Old><New>移动速度</New></Element>
+	<Element><Old>MoveSpeed0</Old><New>移动速度0</New></Element>
+	<Element><Old>MoveSpeed1</Old><New>移动速度1</New></Element>
+	<Element><Old>MoveSpeed2</Old><New>移动速度2</New></Element>
+	<Element><Old>MoveSpeed3</Old><New>移动速度3</New></Element>
+	<Element><Old>MoveSpeed4</Old><New>移动速度4</New></Element>
+	
+	<Element><Old>ActionSpan</Old><New>攻击时间间隔</New></Element>
+	<Element><Old>ActionSpan0</Old><New>攻击时间间隔0</New></Element>
+	<Element><Old>ActionSpan1</Old><New>攻击时间间隔1</New></Element>
+	<Element><Old>ActionSpan2</Old><New>攻击时间间隔2</New></Element>
+	<Element><Old>ActionSpan3</Old><New>攻击时间间隔3</New></Element>
+	<Element><Old>ActionSpan4</Old><New>攻击时间间隔4</New></Element>
+	
+	<Element><Old>ViewRange</Old><New>视野</New></Element>
+	<Element><Old>ViewRange0</Old><New>视野0</New></Element>
+	<Element><Old>ViewRange1</Old><New>视野1</New></Element>
+	<Element><Old>ViewRange2</Old><New>视野2</New></Element>
+	<Element><Old>ViewRange3</Old><New>视野3</New></Element>
+	<Element><Old>ViewRange4</Old><New>视野4</New></Element>
+	
+	<Element><Old>VisibilityRange</Old><New>显示距离</New></Element>
+	<Element><Old>VisibilityRange0</Old><New>显示距离0</New></Element>
+	<Element><Old>VisibilityRange1</Old><New>显示距离1</New></Element>
+	<Element><Old>VisibilityRange2</Old><New>显示距离2</New></Element>
+	<Element><Old>VisibilityRange3</Old><New>显示距离3</New></Element>
+	<Element><Old>VisibilityRange4</Old><New>显示距离4</New></Element>
+	
+	<Element><Old>HPMax</Old><New>HP最大</New></Element>
+	<Element><Old>HPMax0</Old><New>HP最大0</New></Element>
+	<Element><Old>HPMax1</Old><New>HP最大1</New></Element>
+	<Element><Old>HPMax2</Old><New>HP最大2</New></Element>
+	<Element><Old>HPMax3</Old><New>HP最大3</New></Element>
+	<Element><Old>HPMax4</Old><New>HP最大4</New></Element>
+	
+	<Element><Old>HPRecover</Old><New>HP恢复</New></Element>
+	<Element><Old>HPRecover0</Old><New>HP恢复0</New></Element>
+	<Element><Old>HPRecover1</Old><New>HP恢复1</New></Element>
+	<Element><Old>HPRecover2</Old><New>HP恢复2</New></Element>
+	<Element><Old>HPRecover3</Old><New>HP恢复3</New></Element>
+	<Element><Old>HPRecover4</Old><New>HP恢复4</New></Element>
+	<Element><Old>HPPercent</Old><New>HP百分比</New></Element>
+	<Element><Old>Rage</Old><New>怒气</New></Element>
+	
+	<Element><Old>RageMax</Old><New>怒气最大</New></Element>
+	<Element><Old>RageMax0</Old><New>怒气最大0</New></Element>
+	<Element><Old>RageMax1</Old><New>怒气最大1</New></Element>
+	<Element><Old>RageMax2</Old><New>怒气最大2</New></Element>
+	<Element><Old>RageMax3</Old><New>怒气最大3</New></Element>
+	<Element><Old>RageMax4</Old><New>怒气最大4</New></Element>
+	
+	<Element><Old>RageRecover</Old><New>怒气恢复</New></Element>
+	<Element><Old>RageRecover0</Old><New>怒气恢复0</New></Element>
+	<Element><Old>RageRecover1</Old><New>怒气恢复1</New></Element>
+	<Element><Old>RageRecover2</Old><New>怒气恢复2</New></Element>
+	<Element><Old>RageRecover3</Old><New>怒气恢复3</New></Element>
+	<Element><Old>RageRecover4</Old><New>怒气恢复4</New></Element>
+	<Element><Old>RagePercent</Old><New>怒气百分比</New></Element>
+	<Element><Old>Mana</Old><New>法力</New></Element>
+	
+	<Element><Old>ManaMax</Old><New>法力最大</New></Element>
+	<Element><Old>ManaMax0</Old><New>法力最大0</New></Element>
+	<Element><Old>ManaMax1</Old><New>法力最大1</New></Element>
+	<Element><Old>ManaMax2</Old><New>法力最大2</New></Element>
+	<Element><Old>ManaMax3</Old><New>法力最大3</New></Element>
+	<Element><Old>ManaMax4</Old><New>法力最大4</New></Element>
+	
+	<Element><Old>ManaRecover</Old><New>法力恢复</New></Element>
+	<Element><Old>ManaRecover0</Old><New>法力恢复0</New></Element>
+	<Element><Old>ManaRecover1</Old><New>法力恢复1</New></Element>
+	<Element><Old>ManaRecover2</Old><New>法力恢复2</New></Element>
+	<Element><Old>ManaRecover3</Old><New>法力恢复3</New></Element>
+	<Element><Old>ManaRecover4</Old><New>法力恢复4</New></Element>
+	<Element><Old>ManaPercent</Old><New>法力百分比</New></Element>
+	<Element><Old>Energy</Old><New>气力</New></Element>
+	
+	<Element><Old>EnergyMax</Old><New>气力最大</New></Element>
+	<Element><Old>EnergyMax0</Old><New>气力最大0</New></Element>
+	<Element><Old>EnergyMax1</Old><New>气力最大1</New></Element>
+	<Element><Old>EnergyMax2</Old><New>气力最大2</New></Element>
+	<Element><Old>EnergyMax3</Old><New>气力最大3</New></Element>
+	<Element><Old>EnergyMax4</Old><New>气力最大4</New></Element>
+	
+	<Element><Old>EnergyRecover</Old><New>气力恢复</New></Element>
+	<Element><Old>EnergyRecover0</Old><New>气力恢复0</New></Element>
+	<Element><Old>EnergyRecover1</Old><New>气力恢复1</New></Element>
+	<Element><Old>EnergyRecover2</Old><New>气力恢复2</New></Element>
+	<Element><Old>EnergyRecover3</Old><New>气力恢复3</New></Element>
+	<Element><Old>EnergyRecover4</Old><New>气力恢复4</New></Element>
+	<Element><Old>EnergyPercent</Old><New>气力百分比</New></Element>
+	
+	<Element><Old>DouZhi</Old><New>斗志</New></Element>
+	<Element><Old>DouZhi0</Old><New>斗志0</New></Element>
+	<Element><Old>DouZhi1</Old><New>斗志1</New></Element>
+	<Element><Old>DouZhi2</Old><New>斗志2</New></Element>
+	<Element><Old>DouZhi3</Old><New>斗志3</New></Element>
+	<Element><Old>DouZhi4</Old><New>斗志4</New></Element>
+	
+	<Element><Old>JinGu</Old><New>筋骨</New></Element>
+	<Element><Old>JinGu0</Old><New>筋骨0</New></Element>
+	<Element><Old>JinGu1</Old><New>筋骨1</New></Element>
+	<Element><Old>JinGu2</Old><New>筋骨2</New></Element>
+	<Element><Old>JinGu3</Old><New>筋骨3</New></Element>
+	<Element><Old>JinGu4</Old><New>筋骨4</New></Element>
+	
+	<Element><Old>TiPo</Old><New>体魄</New></Element>
+	<Element><Old>TiPo0</Old><New>体魄0</New></Element>
+	<Element><Old>TiPo1</Old><New>体魄1</New></Element>
+	<Element><Old>TiPo2</Old><New>体魄2</New></Element>
+	<Element><Old>TiPo3</Old><New>体魄3</New></Element>
+	<Element><Old>TiPo4</Old><New>体魄4</New></Element>
+	
+	<Element><Old>ShenFa</Old><New>身法</New></Element>
+	<Element><Old>ShenFa0</Old><New>身法0</New></Element>
+	<Element><Old>ShenFa1</Old><New>身法1</New></Element>
+	<Element><Old>ShenFa2</Old><New>身法2</New></Element>
+	<Element><Old>ShenFa3</Old><New>身法3</New></Element>
+	<Element><Old>ShenFa4</Old><New>身法4</New></Element>
+	
+	<Element><Old>JingZhun</Old><New>精准</New></Element>
+	<Element><Old>JingZhun0</Old><New>精准0</New></Element>
+	<Element><Old>JingZhun1</Old><New>精准1</New></Element>
+	<Element><Old>JingZhun2</Old><New>精准2</New></Element>
+	<Element><Old>JingZhun3</Old><New>精准3</New></Element>
+	<Element><Old>JingZhun4</Old><New>精准4</New></Element>
+	
+	<Element><Old>FireDamage</Old><New>火属性提升</New></Element>
+	<Element><Old>FireDamage0</Old><New>火属性提升0</New></Element>
+	<Element><Old>FireDamage1</Old><New>火属性提升1</New></Element>
+	<Element><Old>FireDamage2</Old><New>火属性提升2</New></Element>
+	<Element><Old>FireDamage3</Old><New>火属性提升3</New></Element>
+	<Element><Old>FireDamage4</Old><New>火属性提升4</New></Element>
+	
+	<Element><Old>FireDefence</Old><New>火属性抗性</New></Element>
+	<Element><Old>FireDefence0</Old><New>火属性抗性0</New></Element>
+	<Element><Old>FireDefence1</Old><New>火属性抗性1</New></Element>
+	<Element><Old>FireDefence2</Old><New>火属性抗性2</New></Element>
+	<Element><Old>FireDefence3</Old><New>火属性抗性3</New></Element>
+	<Element><Old>FireDefence4</Old><New>火属性抗性4</New></Element>
+	
+	<Element><Old>FrostDamage</Old><New>冰属性提升</New></Element>
+	<Element><Old>FrostDamage0</Old><New>冰属性提升0</New></Element>
+	<Element><Old>FrostDamage1</Old><New>冰属性提升1</New></Element>
+	<Element><Old>FrostDamage2</Old><New>冰属性提升2</New></Element>
+	<Element><Old>FrostDamage3</Old><New>冰属性提升3</New></Element>
+	<Element><Old>FrostDamage4</Old><New>冰属性提升4</New></Element>
+	
+	<Element><Old>FrostDefence</Old><New>冰属性抗性</New></Element>
+	<Element><Old>FrostDefence0</Old><New>冰属性抗性0</New></Element>
+	<Element><Old>FrostDefence1</Old><New>冰属性抗性1</New></Element>
+	<Element><Old>FrostDefence2</Old><New>冰属性抗性2</New></Element>
+	<Element><Old>FrostDefence3</Old><New>冰属性抗性3</New></Element>
+	<Element><Old>FrostDefence4</Old><New>冰属性抗性4</New></Element>
+	
+	<Element><Old>ThunderDamage</Old><New>电属性提升</New></Element>
+	<Element><Old>ThunderDamage0</Old><New>电属性提升0</New></Element>
+	<Element><Old>ThunderDamage1</Old><New>电属性提升1</New></Element>
+	<Element><Old>ThunderDamage2</Old><New>电属性提升2</New></Element>
+	<Element><Old>ThunderDamage3</Old><New>电属性提升3</New></Element>
+	<Element><Old>ThunderDamage4</Old><New>电属性提升4</New></Element>
+	
+	<Element><Old>ThunderDefence</Old><New>电属性抗性</New></Element>
+	<Element><Old>ThunderDefence0</Old><New>电属性抗性0</New></Element>
+	<Element><Old>ThunderDefence1</Old><New>电属性抗性1</New></Element>
+	<Element><Old>ThunderDefence2</Old><New>电属性抗性2</New></Element>
+	<Element><Old>ThunderDefence3</Old><New>电属性抗性3</New></Element>
+	<Element><Old>ThunderDefence4</Old><New>电属性抗性4</New></Element>
+	
+	<Element><Old>WindDamage</Old><New>风属性提升</New></Element>
+	<Element><Old>WindDamage0</Old><New>风属性提升0</New></Element>
+	<Element><Old>WindDamage1</Old><New>风属性提升1</New></Element>
+	<Element><Old>WindDamage2</Old><New>风属性提升2</New></Element>
+	<Element><Old>WindDamage3</Old><New>风属性提升3</New></Element>
+	<Element><Old>WindDamage4</Old><New>风属性提升4</New></Element>
+	
+	<Element><Old>WindDefence</Old><New>风属性抗性</New></Element>
+	<Element><Old>WindDefence0</Old><New>风属性抗性0</New></Element>
+	<Element><Old>WindDefence1</Old><New>风属性抗性1</New></Element>
+	<Element><Old>WindDefence2</Old><New>风属性抗性2</New></Element>
+	<Element><Old>WindDefence3</Old><New>风属性抗性3</New></Element>
+	<Element><Old>WindDefence4</Old><New>风属性抗性4</New></Element>
+	
+	<Element><Old>PoisonDamage</Old><New>毒属性提升</New></Element>
+	<Element><Old>PoisonDamage0</Old><New>毒属性提升0</New></Element>
+	<Element><Old>PoisonDamage1</Old><New>毒属性提升1</New></Element>
+	<Element><Old>PoisonDamage2</Old><New>毒属性提升2</New></Element>
+	<Element><Old>PoisonDamage3</Old><New>毒属性提升3</New></Element>
+	<Element><Old>PoisonDamage4</Old><New>毒属性提升4</New></Element>
+	
+	<Element><Old>PoisonDefence</Old><New>毒属性抗性</New></Element>
+	<Element><Old>PoisonDefence0</Old><New>毒属性抗性0</New></Element>
+	<Element><Old>PoisonDefence1</Old><New>毒属性抗性1</New></Element>
+	<Element><Old>PoisonDefence2</Old><New>毒属性抗性2</New></Element>
+	<Element><Old>PoisonDefence3</Old><New>毒属性抗性3</New></Element>
+	<Element><Old>PoisonDefence4</Old><New>毒属性抗性4</New></Element>
+	
+	<Element><Old>ArcaneDamage</Old><New>秘法属性提升</New></Element>
+	<Element><Old>ArcaneDamage0</Old><New>秘法属性提升0</New></Element>
+	<Element><Old>ArcaneDamage1</Old><New>秘法属性提升1</New></Element>
+	<Element><Old>ArcaneDamage2</Old><New>秘法属性提升2</New></Element>
+	<Element><Old>ArcaneDamage3</Old><New>秘法属性提升3</New></Element>
+	<Element><Old>ArcaneDamage4</Old><New>秘法属性提升4</New></Element>
+	
+	<Element><Old>ArcaneDefence</Old><New>秘法属性抗性</New></Element>
+	<Element><Old>ArcaneDefence0</Old><New>秘法属性抗性0</New></Element>
+	<Element><Old>ArcaneDefence1</Old><New>秘法属性抗性1</New></Element>
+	<Element><Old>ArcaneDefence2</Old><New>秘法属性抗性2</New></Element>
+	<Element><Old>ArcaneDefence3</Old><New>秘法属性抗性3</New></Element>
+	<Element><Old>ArcaneDefence4</Old><New>秘法属性抗性4</New></Element>
+	
+	<Element><Old>HolyDamage</Old><New>神圣属性提升</New></Element>
+	<Element><Old>HolyDamage0</Old><New>神圣属性提升0</New></Element>
+	<Element><Old>HolyDamage1</Old><New>神圣属性提升1</New></Element>
+	<Element><Old>HolyDamage2</Old><New>神圣属性提升2</New></Element>
+	<Element><Old>HolyDamage3</Old><New>神圣属性提升3</New></Element>
+	<Element><Old>HolyDamage4</Old><New>神圣属性提升4</New></Element>
+	
+	<Element><Old>HolyDefence</Old><New>神圣属性抗性</New></Element>
+	<Element><Old>HolyDefence0</Old><New>神圣属性抗性0</New></Element>
+	<Element><Old>HolyDefence1</Old><New>神圣属性抗性1</New></Element>
+	<Element><Old>HolyDefence2</Old><New>神圣属性抗性2</New></Element>
+	<Element><Old>HolyDefence3</Old><New>神圣属性抗性3</New></Element>
+	<Element><Old>HolyDefence4</Old><New>神圣属性抗性4</New></Element>
+	
+	<Element><Old>AttackPower</Old><New>攻击力</New></Element>
+	<Element><Old>AttackPower0</Old><New>攻击力0</New></Element>
+	<Element><Old>AttackPower1</Old><New>攻击力1</New></Element>
+	<Element><Old>AttackPower2</Old><New>攻击力2</New></Element>
+	<Element><Old>AttackPower3</Old><New>攻击力3</New></Element>
+	<Element><Old>AttackPower4</Old><New>攻击力4</New></Element>
+	
+	<Element><Old>DefencePower</Old><New>防御力</New></Element>
+	<Element><Old>DefencePower0</Old><New>防御力0</New></Element>
+	<Element><Old>DefencePower1</Old><New>防御力1</New></Element>
+	<Element><Old>DefencePower2</Old><New>防御力2</New></Element>
+	<Element><Old>DefencePower3</Old><New>防御力3</New></Element>
+	<Element><Old>DefencePower4</Old><New>防御力4</New></Element>
+	
+	<Element><Old>DisDefencePower</Old><New>无视防御点数</New></Element>
+	<Element><Old>DisDefencePower0</Old><New>无视防御点数0</New></Element>
+	<Element><Old>DisDefencePower1</Old><New>无视防御点数1</New></Element>
+	<Element><Old>DisDefencePower2</Old><New>无视防御点数2</New></Element>
+	<Element><Old>DisDefencePower3</Old><New>无视防御点数3</New></Element>
+	<Element><Old>DisDefencePower4</Old><New>无视防御点数4</New></Element>
+	
+	<Element><Old>DisDefenceScale</Old><New>无视防御百分比</New></Element>
+	<Element><Old>DisDefenceScale0</Old><New>无视防御百分比0</New></Element>
+	<Element><Old>DisDefenceScale1</Old><New>无视防御百分比1</New></Element>
+	<Element><Old>DisDefenceScale2</Old><New>无视防御百分比2</New></Element>
+	<Element><Old>DisDefenceScale3</Old><New>无视防御百分比3</New></Element>
+	<Element><Old>DisDefenceScale4</Old><New>无视防御百分比4</New></Element>
+	
+	<Element><Old>HitRating</Old><New>命中值</New></Element>
+	<Element><Old>HitRating0</Old><New>命中值0</New></Element>
+	<Element><Old>HitRating1</Old><New>命中值1</New></Element>
+	<Element><Old>HitRating2</Old><New>命中值2</New></Element>
+	<Element><Old>HitRating3</Old><New>命中值3</New></Element>
+	<Element><Old>HitRating4</Old><New>命中值4</New></Element>
+	
+	<Element><Old>HitRatingEx</Old><New>命中值Ex</New></Element>
+	<Element><Old>HitRatingEx0</Old><New>命中值Ex0</New></Element>
+	<Element><Old>HitRatingEx1</Old><New>命中值Ex1</New></Element>
+	<Element><Old>HitRatingEx2</Old><New>命中值Ex2</New></Element>
+	<Element><Old>HitRatingEx3</Old><New>命中值Ex3</New></Element>
+	<Element><Old>HitRatingEx4</Old><New>命中值Ex4</New></Element>
+	
+	<Element><Old>DodgePower</Old><New>闪避值</New></Element>
+	<Element><Old>DodgePower0</Old><New>闪避值0</New></Element>
+	<Element><Old>DodgePower1</Old><New>闪避值1</New></Element>
+	<Element><Old>DodgePower2</Old><New>闪避值2</New></Element>
+	<Element><Old>DodgePower3</Old><New>闪避值3</New></Element>
+	<Element><Old>DodgePower4</Old><New>闪避值4</New></Element>
+	
+	<Element><Old>DodgePowerEx</Old><New>闪避值Ex</New></Element>
+	<Element><Old>DodgePowerEx0</Old><New>闪避值Ex0</New></Element>
+	<Element><Old>DodgePowerEx1</Old><New>闪避值Ex1</New></Element>
+	<Element><Old>DodgePowerEx2</Old><New>闪避值Ex2</New></Element>
+	<Element><Old>DodgePowerEx3</Old><New>闪避值Ex3</New></Element>
+	<Element><Old>DodgePowerEx4</Old><New>闪避值Ex4</New></Element>
+	
+	<Element><Old>CriticalPower</Old><New>爆击值</New></Element>
+	<Element><Old>CriticalPower0</Old><New>爆击值0</New></Element>
+	<Element><Old>CriticalPower1</Old><New>爆击值1</New></Element>
+	<Element><Old>CriticalPower2</Old><New>爆击值2</New></Element>
+	<Element><Old>CriticalPower3</Old><New>爆击值3</New></Element>
+	<Element><Old>CriticalPower4</Old><New>爆击值4</New></Element>
+	
+	<Element><Old>CriticalPowerEx</Old><New>爆击值Ex</New></Element>
+	<Element><Old>CriticalPowerEx0</Old><New>爆击值Ex0</New></Element>
+	<Element><Old>CriticalPowerEx1</Old><New>爆击值Ex1</New></Element>
+	<Element><Old>CriticalPowerEx2</Old><New>爆击值Ex2</New></Element>
+	<Element><Old>CriticalPowerEx3</Old><New>爆击值Ex3</New></Element>
+	<Element><Old>CriticalPowerEx4</Old><New>爆击值Ex4</New></Element>
+	
+	<Element><Old>CriticalDefence</Old><New>抗爆击值</New></Element>
+	<Element><Old>CriticalDefence0</Old><New>抗爆击值0</New></Element>
+	<Element><Old>CriticalDefence1</Old><New>抗爆击值1</New></Element>
+	<Element><Old>CriticalDefence2</Old><New>抗爆击值2</New></Element>
+	<Element><Old>CriticalDefence3</Old><New>抗爆击值3</New></Element>
+	<Element><Old>CriticalDefence4</Old><New>抗爆击值4</New></Element>
+	
+	<Element><Old>CriticalDefenceEx</Old><New>抗爆击值Ex</New></Element>
+	<Element><Old>CriticalDefenceEx0</Old><New>抗爆击值Ex0</New></Element>
+	<Element><Old>CriticalDefenceEx1</Old><New>抗爆击值Ex1</New></Element>
+	<Element><Old>CriticalDefenceEx2</Old><New>抗爆击值Ex2</New></Element>
+	<Element><Old>CriticalDefenceEx3</Old><New>抗爆击值Ex3</New></Element>
+	<Element><Old>CriticalDefenceEx4</Old><New>抗爆击值Ex4</New></Element>
+	
+	<Element><Old>CriticalOutScale</Old><New>爆击伤害</New></Element>
+	<Element><Old>CriticalOutScale0</Old><New>爆击伤害0</New></Element>
+	<Element><Old>CriticalOutScale1</Old><New>爆击伤害1</New></Element>
+	<Element><Old>CriticalOutScale2</Old><New>爆击伤害2</New></Element>
+	<Element><Old>CriticalOutScale3</Old><New>爆击伤害3</New></Element>
+	<Element><Old>CriticalOutScale4</Old><New>爆击伤害4</New></Element>
+	
+	<Element><Old>CriticalInScale</Old><New>爆击减免</New></Element>
+	<Element><Old>CriticalInScale0</Old><New>爆击减免0</New></Element>
+	<Element><Old>CriticalInScale1</Old><New>爆击减免1</New></Element>
+	<Element><Old>CriticalInScale2</Old><New>爆击减免2</New></Element>
+	<Element><Old>CriticalInScale3</Old><New>爆击减免3</New></Element>
+	<Element><Old>CriticalInScale4</Old><New>爆击减免4</New></Element>
+	
+	<Element><Old>DamageOutScale</Old><New>伤害加成比例</New></Element>
+	<Element><Old>DamageOutScale0</Old><New>伤害加成比例0</New></Element>
+	<Element><Old>DamageOutScale1</Old><New>伤害加成比例1</New></Element>
+	<Element><Old>DamageOutScale2</Old><New>伤害加成比例2</New></Element>
+	<Element><Old>DamageOutScale3</Old><New>伤害加成比例3</New></Element>
+	<Element><Old>DamageOutScale4</Old><New>伤害加成比例4</New></Element>
+	
+	<Element><Old>DamageOut</Old><New>伤害加成值</New></Element>
+	<Element><Old>DamageOut0</Old><New>伤害加成值0</New></Element>
+	<Element><Old>DamageOut1</Old><New>伤害加成值1</New></Element>
+	<Element><Old>DamageOut2</Old><New>伤害加成值2</New></Element>
+	<Element><Old>DamageOut3</Old><New>伤害加成值3</New></Element>
+	<Element><Old>DamageOut4</Old><New>伤害加成值4</New></Element>
+	
+	<Element><Old>DamageInScale</Old><New>伤害减免比例</New></Element>
+	<Element><Old>DamageInScale0</Old><New>伤害减免比例0</New></Element>
+	<Element><Old>DamageInScale1</Old><New>伤害减免比例1</New></Element>
+	<Element><Old>DamageInScale2</Old><New>伤害减免比例2</New></Element>
+	<Element><Old>DamageInScale3</Old><New>伤害减免比例3</New></Element>
+	<Element><Old>DamageInScale4</Old><New>伤害减免比例4</New></Element>
+	
+	<Element><Old>DamageIn</Old><New>伤害减免值</New></Element>
+	<Element><Old>DamageIn0</Old><New>伤害减免值0</New></Element>
+	<Element><Old>DamageIn1</Old><New>伤害减免值1</New></Element>
+	<Element><Old>DamageIn2</Old><New>伤害减免值2</New></Element>
+	<Element><Old>DamageIn3</Old><New>伤害减免值3</New></Element>
+	<Element><Old>DamageIn4</Old><New>伤害减免值4</New></Element>
+	
+	<Element><Old>DamageOutRecoverHPRating</Old><New>攻击回血率</New></Element>
+	<Element><Old>DamageOutRecoverHPRating0</Old><New>攻击回血率0</New></Element>
+	<Element><Old>DamageOutRecoverHPRating1</Old><New>攻击回血率1</New></Element>
+	<Element><Old>DamageOutRecoverHPRating2</Old><New>攻击回血率2</New></Element>
+	<Element><Old>DamageOutRecoverHPRating3</Old><New>攻击回血率3</New></Element>
+	<Element><Old>DamageOutRecoverHPRating4</Old><New>攻击回血率4</New></Element>
+	
+	<Element><Old>DamageOutRecoverHPScale</Old><New>攻击回血比例</New></Element>
+	<Element><Old>DamageOutRecoverHPScale0</Old><New>攻击回血比例0</New></Element>
+	<Element><Old>DamageOutRecoverHPScale1</Old><New>攻击回血比例1</New></Element>
+	<Element><Old>DamageOutRecoverHPScale2</Old><New>攻击回血比例2</New></Element>
+	<Element><Old>DamageOutRecoverHPScale3</Old><New>攻击回血比例3</New></Element>
+	<Element><Old>DamageOutRecoverHPScale4</Old><New>攻击回血比例4</New></Element>
+	
+	<Element><Old>DamageOutRecoverHP</Old><New>攻击回血</New></Element>
+	<Element><Old>DamageOutRecoverHP0</Old><New>攻击回血0</New></Element>
+	<Element><Old>DamageOutRecoverHP1</Old><New>攻击回血1</New></Element>
+	<Element><Old>DamageOutRecoverHP2</Old><New>攻击回血2</New></Element>
+	<Element><Old>DamageOutRecoverHP3</Old><New>攻击回血3</New></Element>
+	<Element><Old>DamageOutRecoverHP4</Old><New>攻击回血4</New></Element>
+	
+	<Element><Old>DamageInReflectionRating</Old><New>伤害反射率</New></Element>
+	<Element><Old>DamageInReflectionRating0</Old><New>伤害反射率0</New></Element>
+	<Element><Old>DamageInReflectionRating1</Old><New>伤害反射率1</New></Element>
+	<Element><Old>DamageInReflectionRating2</Old><New>伤害反射率2</New></Element>
+	<Element><Old>DamageInReflectionRating3</Old><New>伤害反射率3</New></Element>
+	<Element><Old>DamageInReflectionRating4</Old><New>伤害反射率4</New></Element>
+	
+	<Element><Old>DamageInReflectionScale</Old><New>伤害反射比例</New></Element>
+	<Element><Old>DamageInReflectionScale0</Old><New>伤害反射比例0</New></Element>
+	<Element><Old>DamageInReflectionScale1</Old><New>伤害反射比例1</New></Element>
+	<Element><Old>DamageInReflectionScale2</Old><New>伤害反射比例2</New></Element>
+	<Element><Old>DamageInReflectionScale3</Old><New>伤害反射比例3</New></Element>
+	<Element><Old>DamageInReflectionScale4</Old><New>伤害反射比例4</New></Element>
+	
+	<Element><Old>DamageInReflection</Old><New>伤害反射</New></Element>
+	<Element><Old>DamageInReflection0</Old><New>伤害反射0</New></Element>
+	<Element><Old>DamageInReflection1</Old><New>伤害反射1</New></Element>
+	<Element><Old>DamageInReflection2</Old><New>伤害反射2</New></Element>
+	<Element><Old>DamageInReflection3</Old><New>伤害反射3</New></Element>
+	<Element><Old>DamageInReflection4</Old><New>伤害反射4</New></Element>
+	
+	<Element><Old>WeaponRangeScale</Old><New>攻击距离系数</New></Element>
+	<Element><Old>WeaponRangeScale0</Old><New>攻击距离系数0</New></Element>
+	<Element><Old>WeaponRangeScale1</Old><New>攻击距离系数1</New></Element>
+	<Element><Old>WeaponRangeScale2</Old><New>攻击距离系数2</New></Element>
+	<Element><Old>WeaponRangeScale3</Old><New>攻击距离系数3</New></Element>
+	<Element><Old>WeaponRangeScale4</Old><New>攻击距离系数4</New></Element>
+	
+	<Element><Old>WeaponSpeedScale</Old><New>攻击速度系数</New></Element>
+	<Element><Old>WeaponSpeedScale0</Old><New>攻击速度系数0</New></Element>
+	<Element><Old>WeaponSpeedScale1</Old><New>攻击速度系数1</New></Element>
+	<Element><Old>WeaponSpeedScale2</Old><New>攻击速度系数2</New></Element>
+	<Element><Old>WeaponSpeedScale3</Old><New>攻击速度系数3</New></Element>
+	<Element><Old>WeaponSpeedScale4</Old><New>攻击速度系数4</New></Element>
+	
+	<Element><Old>WeaponStabilityScale</Old><New>攻击稳定性系数</New></Element>
+	<Element><Old>WeaponStabilityScale0</Old><New>攻击稳定性系数0</New></Element>
+	<Element><Old>WeaponStabilityScale1</Old><New>攻击稳定性系数1</New></Element>
+	<Element><Old>WeaponStabilityScale2</Old><New>攻击稳定性系数2</New></Element>
+	<Element><Old>WeaponStabilityScale3</Old><New>攻击稳定性系数3</New></Element>
+	<Element><Old>WeaponStabilityScale4</Old><New>攻击稳定性系数4</New></Element>
+	
+	<Element><Old>WeaponBulletRecoverScale</Old><New>子弹恢复系数</New></Element>
+	<Element><Old>WeaponBulletRecoverScale0</Old><New>子弹恢复系数0</New></Element>
+	<Element><Old>WeaponBulletRecoverScale1</Old><New>子弹恢复系数1</New></Element>
+	<Element><Old>WeaponBulletRecoverScale2</Old><New>子弹恢复系数2</New></Element>
+	<Element><Old>WeaponBulletRecoverScale3</Old><New>子弹恢复系数3</New></Element>
+	<Element><Old>WeaponBulletRecoverScale4</Old><New>子弹恢复系数4</New></Element>
+	
+	<Element><Old>DisControlledRating</Old><New>免疫控制率</New></Element>
+	<Element><Old>DisControlledRating0</Old><New>免疫控制率0</New></Element>
+	<Element><Old>DisControlledRating1</Old><New>免疫控制率1</New></Element>
+	<Element><Old>DisControlledRating2</Old><New>免疫控制率2</New></Element>
+	<Element><Old>DisControlledRating3</Old><New>免疫控制率3</New></Element>
+	<Element><Old>DisControlledRating4</Old><New>免疫控制率4</New></Element>
+	
+	<Element><Old>DisControlledDurationScale</Old><New>控制时间减少百分比</New></Element>
+	<Element><Old>DisControlledDurationScale0</Old><New>控制时间减少百分比0</New></Element>
+	<Element><Old>DisControlledDurationScale1</Old><New>控制时间减少百分比1</New></Element>
+	<Element><Old>DisControlledDurationScale2</Old><New>控制时间减少百分比2</New></Element>
+	<Element><Old>DisControlledDurationScale3</Old><New>控制时间减少百分比3</New></Element>
+	<Element><Old>DisControlledDurationScale4</Old><New>控制时间减少百分比4</New></Element>
+	
+	<Element><Old>HPRecoverScale</Old><New>血瓶效果百分比</New></Element>
+	<Element><Old>HPRecoverScale0</Old><New>血瓶效果百分比0</New></Element>
+	<Element><Old>HPRecoverScale1</Old><New>血瓶效果百分比1</New></Element>
+	<Element><Old>HPRecoverScale2</Old><New>血瓶效果百分比2</New></Element>
+	<Element><Old>HPRecoverScale3</Old><New>血瓶效果百分比3</New></Element>
+	<Element><Old>HPRecoverScale4</Old><New>血瓶效果百分比4</New></Element>
+	
+	<Element><Old>DisOwnSpellCoolingdownScale</Old><New>职业技能冷却时间减少百分比</New></Element>
+	<Element><Old>DisOwnSpellCoolingdownScale0</Old><New>职业技能冷却时间减少百分比0</New></Element>
+	<Element><Old>DisOwnSpellCoolingdownScale1</Old><New>职业技能冷却时间减少百分比1</New></Element>
+	<Element><Old>DisOwnSpellCoolingdownScale2</Old><New>职业技能冷却时间减少百分比2</New></Element>
+	<Element><Old>DisOwnSpellCoolingdownScale3</Old><New>职业技能冷却时间减少百分比3</New></Element>
+	<Element><Old>DisOwnSpellCoolingdownScale4</Old><New>职业技能冷却时间减少百分比4</New></Element>
+	
+	<Element><Old>WingMoveSpeed</Old><New>飞行速度</New></Element>
+	<Element><Old>WingMoveSpeed0</Old><New>飞行速度0</New></Element>
+	<Element><Old>WingMoveSpeed1</Old><New>飞行速度1</New></Element>
+	<Element><Old>WingMoveSpeed2</Old><New>飞行速度2</New></Element>
+	<Element><Old>WingMoveSpeed3</Old><New>飞行速度3</New></Element>
+	<Element><Old>WingMoveSpeed4</Old><New>飞行速度4</New></Element>
+	
+	
+	<Element><Old>OwnSpellValue00</Old><New>角色技能0等级</New></Element>
+	<Element><Old>OwnSpellValue01</Old><New>角色技能1等级</New></Element>
+	<Element><Old>OwnSpellValue02</Old><New>角色技能2等级</New></Element>
+	<Element><Old>OwnSpellValue03</Old><New>角色技能3等级</New></Element>
+	<Element><Old>OwnSpellValue04</Old><New>角色技能4等级</New></Element>
+	<Element><Old>OwnSpellValue05</Old><New>角色技能5等级</New></Element>
+	<Element><Old>OwnSpellValue06</Old><New>角色技能6等级</New></Element>
+	<Element><Old>OwnSpellValue07</Old><New>角色技能7等级</New></Element>
+	<Element><Old>OwnSpellValue08</Old><New>角色技能8等级</New></Element>
+	<Element><Old>OwnSpellValue09</Old><New>角色技能9等级</New></Element>
+	<Element><Old>OwnSpellValue10</Old><New>角色技能10等级</New></Element>
+	<Element><Old>OwnSpellValue11</Old><New>角色技能11等级</New></Element>
+	<Element><Old>OwnSpellValue12</Old><New>角色技能12等级</New></Element>
+	<Element><Old>OwnSpellValue13</Old><New>角色技能13等级</New></Element>
+	<Element><Old>OwnSpellValue14</Old><New>角色技能14等级</New></Element>
+	<Element><Old>OwnSpellValue15</Old><New>角色技能15等级</New></Element>
+	<Element><Old>OwnSpellValue16</Old><New>角色技能16等级</New></Element>
+	<Element><Old>OwnSpellValue17</Old><New>角色技能17等级</New></Element>
+	<Element><Old>OwnSpellValue18</Old><New>角色技能18等级</New></Element>
+	<Element><Old>OwnSpellValue19</Old><New>角色技能19等级</New></Element>	
+	
+
+	<Element><Old>NPCLootXPScale</Old><New>NPC掉落XP附加比例(1/10000)</New></Element>
+	<Element><Old>NPCLootBangYinScale</Old><New>NPC掉落绑银附加比例(1/10000)</New></Element>
+	<Element><Old>NPCLootProbabilityScale</Old><New>NPC掉落概率附加比例(1/10000)</New></Element>	
+	<Element><Old>PatrolLootBangYinScale</Old><New>寻宝掉落绑银附加比例(1/10000)</New></Element>
+	<Element><Old>PatrolLootProbabilityScale</Old><New>寻宝掉落概率附加比例(1/10000)</New></Element>
+	
+	<Element><Old>BangYinEnhanceDesc</Old><New>普通培养提示</New></Element>
+	<Element><Old>JinZiEnhanceDesc</Old><New>金子培养提示</New></Element>
+	<Element><Old>AdvanceEnchanceDesc</Old><New>高级培养提示</New></Element>	
+	
+	<Element><Old>Enhance</Old><New>强化</New></Element>
+	<Element><Old>EnhanceScale</Old><New>强化效果(0.01)</New></Element>	
+	<Element><Old>Compose</Old><New>合成</New></Element>
+	<Element><Old>Composition</Old><New>合成</New></Element>
+	<Element><Old>Decomposition</Old><New>分解</New></Element>
+	<Element><Old>Decompose</Old><New>分解</New></Element>
+	<Element><Old>Decomposable</Old><New>可分解</New></Element>
+	<Element><Old>ITEM_COMPOSE</Old><New>物品合成</New></Element>
+	
+	<Element><Old>EnhanceStoneCost</Old><New>强化石消耗</New></Element>
+	<Element><Old>EnhanceCount</Old><New>强化次数</New></Element>
+	<Element><Old>LevelSup0</Old><New>铸炼基础次数5%</New></Element>
+	<Element><Old>LevelSup1</Old><New>铸炼附加次数1%</New></Element>
+	
+	<Element><Old>Bless</Old><New>祈福</New></Element>
+	<Element><Old>BlessLoot</Old><New>祈福掉落</New></Element>
+	<Element><Old>ReceiveBlessLoot</Old><New>接收祈福掉落</New></Element>
+	<Element><Old>YaoQianLoot</Old><New>摇钱掉落</New></Element>
+	
+	<Element><Old>Scene</Old><New>场景</New></Element>
+	<Element><Old>Ground</Old><New>地表</New></Element>
+	<Element><Old>Camera</Old><New>相机</New></Element>
+	<Element><Old>Field</Old><New>区域(角)</New></Element>
+	
+	<Element><Old>NPC_ENTER</Old><New>NPC进入</New></Element>
+	<Element><Old>NPC_EXIT</Old><New>NPC退出</New></Element>
+	<Element><Old>NPC_ACTION</Old><New>NPC行为</New></Element>
+
+	<Element><Old>SELF_ACTION</Old><New>自身行为</New></Element>
+	
+	<Element><Old>OBJECT_ENTER</Old><New>物件进入</New></Element>
+	<Element><Old>OBJECT_EXIT</Old><New>物件退出</New></Element>
+	<Element><Old>OBJECT_ACTION</Old><New>物件动作</New></Element>
+	
+	<Element><Old>FLY</Old><New>飞行</New></Element>
+	<Element><Old>FLY_START</Old><New>飞行开始</New></Element>
+	<Element><Old>FLY_END</Old><New>飞行结束</New></Element>
+	
+	<Element><Old>MOUNT_LEVEL</Old><New>坐骑等级</New></Element>
+	<Element><Old>MOUNT_ENHANCE</Old><New>坐骑强化</New></Element>	
+	<Element><Old>TIANFU_LEVEL</Old><New>天赋等级</New></Element>
+	<Element><Old>TIANFU_ENHANCE</Old><New>天赋强化</New></Element>
+	<Element><Old>FRIEND_COUNT</Old><New>好友数量</New></Element>
+	<Element><Old>STORY_SPACE_TAKE_REWARD</Old><New>领取剧情副本奖励</New></Element>
+	<Element><Old>ARENA_WIN_STREAK</Old><New>竞技场连胜</New></Element>
+	<Element><Old>ARENA_COUNT</Old><New>竞技场次数</New></Element>
+	<Element><Old>ARENA_DAILY_COUNT</Old><New>竞技场每日次数</New></Element>
+	<Element><Old>ARENA_TOTAL_COUNT</Old><New>竞技场总次数</New></Element>
+	<Element><Old>ARENA_END_CD</Old><New>竞技场结束冷却</New></Element>
+	<Element><Old>ARENA_RANK</Old><New>竞技场排名</New></Element>
+	<Element><Old>BIG_SPACE_PK</Old><New>切磋</New></Element>
+	<Element><Old>SHENLONG_WISH</Old><New>神龙许愿</New></Element>
+	<Element><Old>PATROL</Old><New>寻宝次数</New></Element>
+	<Element><Old>PATROL_DURATION</Old><New>寻宝时间</New></Element>
+	<Element><Old>DAILY_QUEST_XP</Old><New>每日任务积分</New></Element>
+	<Element><Old>DAILY_QUEST_COUNT</Old><New>每日任务次数</New></Element>
+	<Element><Old>ENHANCE_DECORATION</Old><New>强化首饰</New></Element>
+	<Element><Old>ENHANCE_DECORATION_LEVEL</Old><New>强化首饰等级</New></Element>
+	<Element><Old>DECOMPOSE_DECORATION</Old><New>分解首饰</New></Element>
+	<Element><Old>DECOMPOSE0_DECORATION</Old><New>普通分解首饰</New></Element>
+	<Element><Old>DECOMPOSE1_DECORATION</Old><New>完美分解首饰</New></Element>
+	<Element><Old>SERVANT_COUNT</Old><New>伙伴数量</New></Element>
+	<Element><Old>SERVANT_APPEAR_COUNT</Old><New>伙伴出战数量</New></Element>
+	<Element><Old>SERVANT_LEVEL</Old><New>伙伴等级</New></Element>
+	<Element><Old>SERVANT_OWN</Old><New>伙伴招募</New></Element>
+	<Element><Old>EQUIP_SKILL_STONE</Old><New>装备技能石</New></Element>
+	<Element><Old>EQUIP_SKILL_STONE_COUNT</Old><New>装备技能石数量</New></Element>
+	<Element><Old>GUILD_LEVEL</Old><New>工会等级</New></Element>
+	<Element><Old>GUILD_CONTRIBUTE_BANGYIN</Old><New>工会捐献绑银</New></Element>
+	<Element><Old>GUILD_CONTRIBUTE_BADGE</Old><New>工会捐献徽章</New></Element>
+	<Element><Old>YAOQIANSHU_LEVEL</Old><New>摇钱树等级</New></Element>
+	<Element><Old>YAOQIANSHU_LOOT</Old><New>摇钱树摇钱</New></Element>
+	<Element><Old>YAOQIANSHU_BLESS</Old><New>摇钱树祈福</New></Element>
+	<Element><Old>YAOQIANSHU_RECEIVE_BLESS</Old><New>摇钱树收获祈福</New></Element>
+	<Element><Old>DOUSHEN_CATCH_COUNT</Old><New>斗神抓捕数量</New></Element>
+	<Element><Old>VOUCHER</Old><New>充值</New></Element>
+	<Element><Old>VIP_LEVEL</Old><New>VIP等级</New></Element>
+	<Element><Old>FIGHT_POWER</Old><New>战斗力</New></Element>
+	<Element><Old>FIGHT_POWER_TEAM</Old><New>全队战斗力</New></Element>
+	<Element><Old>PLAYER_LEVEL</Old><New>玩家等级</New></Element>
+	<Element><Old>TITLE_LEVEL</Old><New>境界等级</New></Element>
+	<Element><Old>XINGZHEN_LEVEL</Old><New>星阵等级</New></Element>
+	<Element><Old>MARKET_BUY</Old><New>商店购买次数</New></Element>
+	<Element><Old>KILL_BOSS</Old><New>杀Boss</New></Element>
+	
+	<Element><Old>ENHANCE_EQUIP</Old><New>强化物品</New></Element>
+	<Element><Old>EQUIP_ENHANCE</Old><New>物品强化</New></Element>
+	<Element><Old>ENHANCE_EQUIP_LEVEL</Old><New>强化物品(指定)等级</New></Element>
+	<Element><Old>EQUIP_ENHANCE_LEVEL</Old><New>物品强化(指定)等级</New></Element>
+	<Element><Old>COMPOSE_EQUIP</Old><New>合成装备</New></Element>
+	<Element><Old>EQUIP_COMPOSE</Old><New>装备合成</New></Element>
+	<Element><Old>COMPOSE_EQUIP_LEVEL</Old><New>合成装备等级</New></Element>
+	<Element><Old>EQUIP_COMPOSE_LEVEL</Old><New>装备合成等级</New></Element>
+	<Element><Old>WASH_EQUIP</Old><New>洗练</New></Element>
+	<Element><Old>EQUIP_WASH</Old><New>洗练</New></Element>
+	<Element><Old>COMPOSE_STONE</Old><New>合成宝石</New></Element>
+	<Element><Old>STONE_COMPOSE</Old><New>宝石合成</New></Element>
+	<Element><Old>COMPOSE_STONE_LEVEL</Old><New>合成宝石等级</New></Element>
+	<Element><Old>STONE_COMPOSE_LEVEL</Old><New>宝石合成等级</New></Element>
+	
+	<Element><Old>ALL_DECORATION_LEVEL</Old><New>全身饰品等级</New></Element>
+	<Element><Old>ALL_EQUIP_LEVEL</Old><New>全身装备等级</New></Element>
+	<Element><Old>ALL_TEAM_EQUIP_LEVEL</Old><New>全队装备等级</New></Element>
+	<Element><Old>BEIDOUSTAR_ALL_LEVEL</Old><New>北斗星全部等级</New></Element>
+	<Element><Old>DOTA_COMPLETE_ALL_QUEST</Old><New>神域任务全部完成</New></Element>
+	<Element><Old>DOTA_QUEST_COMPLETE_COUNT</Old><New>神域任务完成个数</New></Element>
+	
+	<Element><Old>PAY_EQUIP</Old><New>上贡装备</New></Element>
+	
+	<Element><Old>XINSHOU</Old><New>新手</New></Element>
+	<Element><Old>XIAN</Old><New>仙</New></Element>
+	<Element><Old>MO</Old><New>魔</New></Element>
+
+	<Element><Old>DeadHideServant</Old><New>死亡状态下隐藏伙伴</New></Element>
+	<Element><Old>StartStory</Old><New>进入剧情</New></Element>
+	<Element><Old>EndStory</Old><New>退出剧情</New></Element>
+	
+	<Element><Old>PlayerAppendState</Old><New>玩家附加状态</New></Element>
+	<Element><Old>PlayerStateSpell</Old><New>玩家技能</New></Element>
+	<Element><Old>ServantAppendState</Old><New>伙伴附加状态</New></Element>
+	<Element><Old>ServantStateSpell</Old><New>伙伴技能</New></Element>
+	
+	<Element><Old>COMFIRM_CANCEL</Old><New>确认取消</New></Element>
+	
+	<Element><Old>LevelSet</Old><New>等级集合</New></Element>
+	
+	<Element><Old>DurationScript</Old><New>时长脚本</New></Element>
+	<Element><Old>ScaleScript</Old><New>效果脚本</New></Element>
+	
+	<Element><Old>StartTime</Old><New>开始时间(0.01秒)</New></Element>
+	<Element><Old>EndTime</Old><New>结束时间(0.01秒)</New></Element>
+	
+	<Element><Old>AutoAttack</Old><New>自动战斗</New></Element>
+
+	<Element><Old>Broadcast</Old><New>广播</New></Element>
+	<Element><Old>BroadcastLevel</Old><New>广播等级</New></Element>
+	
+	<Element><Old>RING_LOOT</Old><New>转轮</New></Element>
+	<Element><Old>RingLoot</Old><New>转轮</New></Element>
+	<Element><Old>RING_LOOT_COUNT</Old><New>转轮次数</New></Element>
+	
+	<Element><Old>CreateProbability</Old><New>产生概率</New></Element>
+	
+	<Element><Old>GameRecord</Old><New>游戏记录(运营)</New></Element>
+	
+	<Element><Old>DIAN_XIN</Old><New>电信</New></Element>
+	<Element><Old>LIAN_TONG</Old><New>联通</New></Element>
+	<Element><Old>YI_DONG</Old><New>移动</New></Element>
+	
+	<Element><Old>BOSS_HOME</Old><New>Boss之家</New></Element>
+	
+	<Element><Old>RevertState</Old><New>还原状态</New></Element>	
+	<Element><Old>PROTECTED</Old><New>保护状态</New></Element>
+	<Element><Old>CostPower</Old><New>体力消耗</New></Element>	
+	<Element><Old>FreeEnterCount</Old><New>免费进入次数/天</New></Element>	
+	<Element><Old>BuyEnterCount</Old><New>可购买次数/天</New></Element>	
+	<Element><Old>EnterPrice0</Old><New>购买基础价格</New></Element>	
+	<Element><Old>EnterPrice1</Old><New>购买增量价格/次</New></Element>	
+	
+	<Element><Old>LiveStandardDuration</Old><New>生命基准时间(0.01秒)</New></Element>
+	
+	<Element><Old>RANDOM_NORMAL</Old><New>普通卷轴任务</New></Element>
+	<Element><Old>RANDOM_NORMAL_0</Old><New>普通卷轴任务0</New></Element>
+	<Element><Old>RANDOM_NORMAL_1</Old><New>普通卷轴任务1</New></Element>
+	<Element><Old>RANDOM_NORMAL_2</Old><New>普通卷轴任务2</New></Element>
+	<Element><Old>RANDOM_EPIC</Old><New>史诗卷轴任务</New></Element>
+	<Element><Old>RANDOM_EPIC_0</Old><New>史诗卷轴任务0</New></Element>
+	<Element><Old>RANDOM_EPIC_1</Old><New>史诗卷轴任务1</New></Element>
+	<Element><Old>RANDOM_EPIC_2</Old><New>史诗卷轴任务2</New></Element>
+	<Element><Old>RANDOM_DOTA</Old><New>神域卷轴任务</New></Element>
+	<Element><Old>RANDOM_DOTA_XIAN</Old><New>神域[仙]卷轴任务</New></Element>
+	<Element><Old>RANDOM_DOTA_MO</Old><New>神域[魔]卷轴任务</New></Element>
+
+	<Element><Old>OwnType</Old><New>拥有类型</New></Element>
+	
+	<Element><Old>AutoEnter</Old><New>自动加入</New></Element>
+	<Element><Old>ReqCompleteGoal</Old><New>需求完成成就</New></Element>
+	<Element><Old>Designation</Old><New>称号</New></Element>
+	
+	<Element><Old>DecorationXP</Old><New>首饰祝福上限</New></Element>
+	<Element><Old>DecorationFailAppendXP</Old><New>首饰(强化失败)祝福增长</New></Element>
+	
+	<Element><Old>Luck</Old><New>幸运</New></Element>
+	<Element><Old>AppendLuck</Old><New>幸运增长</New></Element>
+	<Element><Old>DeltaLuck</Old><New>幸运变化</New></Element>	
+	<Element><Old>ReqLuck</Old><New>所需幸运</New></Element>
+	<Element><Old>CostLuck</Old><New>消耗幸运</New></Element>
+	<Element><Old>AppendProperty</Old><New>附加属性</New></Element>
+	<Element><Old>PropertyToPlayer</Old><New>附加属性(给主角)</New></Element>
+
+	<Element><Old>BaseLevelReward</Old><New>基础等级奖励</New></Element>
+	<Element><Old>TotalLevelReward</Old><New>总(基础+额外)等级奖励</New></Element>
+	
+	<Element><Old>Potential</Old><New>潜力值</New></Element>
+
+	<Element><Old>ReqYuanbao</Old><New>需求金子</New></Element>
+	<Element><Old>ReqVIPLevel</Old><New>需求VIP等级</New></Element>
+	<Element><Old>RandPrestigeProbability</Old><New>声望概率</New></Element>
+	<Element><Old>RandPrestigeMin</Old><New>最小声望</New></Element>
+	<Element><Old>RandPrestigeMax</Old><New>最大声望</New></Element>
+	<Element><Old>PrestigeQuality</Old><New>声望卡颜色</New></Element>
+	<Element><Old>RandTianfuStoneMin</Old><New>天赋石最小数量</New></Element>
+	<Element><Old>RandTianfuStoneMax</Old><New>天赋石最大数量</New></Element>
+	<Element><Old>AutoRestart</Old><New>是否自动开始</New></Element>
+	
+	<Element><Old>TeamRewardLootId</Old><New>每日通关奖励</New></Element>
+	<Element><Old>TeamRandomRewardLootId</Old><New>诸神的宝藏</New></Element>
+
+	<Element><Old>BaseValues</Old><New>基础属性</New></Element>
+	<Element><Old>RandomValues</Old><New>随机属性</New></Element>
+	<Element><Old>OptionalValues</Old><New>可选属性</New></Element>
+	<Element><Old>SpellValues</Old><New>技能属性</New></Element>
+	<Element><Old>NormalCost</Old><New>普通花费</New></Element>
+	<Element><Old>HighCost</Old><New>高级花费</New></Element>
+	<Element><Old>RandomValueRegion</Old><New>随机属性方案</New></Element>
+	<Element><Old>CostItems</Old><New>花费</New></Element>
+	<Element><Old>NO_USE</Old><New>无效</New></Element>
+	<Element><Old>REAL_VALUE</Old><New>值</New></Element>
+	<Element><Old>PERCENT</Old><New>百分比</New></Element>
+	<Element><Old>AttributeID</Old><New>属性</New></Element>
+	<Element><Old>AttributePercent</Old><New>属性百分比</New></Element>
+	<Element><Old>FixValue</Old><New>固定值</New></Element>
+	<Element><Old>RandomValue_</Old><New>随机值</New></Element>
+	<Element><Old>RandomValueFightPower</Old><New>战斗力总和</New></Element>
+	<Element><Old>FightPowerPerc10000</Old><New>战斗力比重[1/10000]</New></Element>
+	<Element><Old>FightPowerProbability</Old><New>战斗力概率</New></Element>
+	<Element><Old>FightPowerAttribute</Old><New>战斗力属性</New></Element>
+	<Element><Old>FightPowerAttributeGroup</Old><New>战斗力属性组</New></Element>
+	
+	<Element><Old>OccupationMask</Old><New>职业</New></Element>
+	<Element><Old>DieDropRate</Old><New>死亡掉落概率</New></Element>
+		
+	<Element><Old>TradeMaxCount</Old><New>最大交易次数</New></Element>
+	<Element><Old>BuyMaxCount</Old><New>最大购买次数</New></Element>
+	<Element><Old>ReceiveMaxCount</Old><New>最大收取次数</New></Element>
+	
+	<Element><Old>VisibilityLevel</Old><New>显示等级</New></Element>
+	
+	<Element><Old>FirstAttackEvent</Old><New>初次攻击事件</New></Element>
+	<Element><Old>FirstAttackedEvent</Old><New>初次被攻击事件</New></Element>
+	<Element><Old>FirstChaseEvent</Old><New>初次追击事件(阵营)</New></Element>
+	<Element><Old>FirstDiscoverEvent</Old><New>初次发现事件</New></Element>
+	<Element><Old>FirstDiscoveredEvent</Old><New>初次被发现事件(阵营)</New></Element>
+	<Element><Old>KilledEvent</Old><New>被杀事件</New></Element>
+	<Element><Old>DieOutEvent</Old><New>死绝事件</New></Element>
+	<Element><Old>FirstDiscoveredShowDuration</Old><New>初次被发现作秀时长</New></Element>
+	<Element><Old>ActionEvent</Old><New>行为事件(阵营)</New></Element>
+	<Element><Old>AttackedEvent</Old><New>受击事件</New></Element>
+	
+	<Element><Old>ScriptEvent</Old><New>脚本事件</New></Element>
+	<Element><Old>StartEvent</Old><New>开始事件</New></Element>
+	<Element><Old>StartEventFaction</Old><New>开始事件阵营</New></Element>
+	<Element><Old>EndEvent</Old><New>结束事件</New></Element>
+	<Element><Old>CompleteEvent</Old><New>完成事件</New></Element>
+	<Element><Old>FailEvent</Old><New>失败事件</New></Element>
+	<Element><Old>RemoveEvent</Old><New>移除事件</New></Element>
+	<Element><Old>RouteResetEvent</Old><New>路径重置事件</New></Element>
+	<Element><Old>StartEventor</Old><New>开始事件发射器</New></Element>
+	<Element><Old>EndEventor</Old><New>结束事件发射器</New></Element>
+	<Element><Old>BornEventor</Old><New>Born事件发射器</New></Element>
+	<Element><Old>CompleteEventor</Old><New>完成事件发射器</New></Element>
+	<Element><Old>CommitEventor</Old><New>提交事件发射器</New></Element>
+	<Element><Old>FailEventor</Old><New>失败事件发射器</New></Element>
+	
+	<Element><Old>Handle</Old><New>处理</New></Element>
+	<Element><Old>Handler</Old><New>处理器</New></Element>
+	
+	<Element><Old>Override</Old><New>覆盖</New></Element>	
+	
+	<Element><Old>Intensity</Old><New>强度/密度</New></Element>	
+	<Element><Old>LookAtScale</Old><New>相机准心比重(0.01)</New></Element>	
+
+	<Element><Old>ShowDuration</Old><New>Show时长</New></Element>	
+	
+	<Element><Old>IgnoreGround</Old><New>无视地形</New></Element>	
+	
+	<Element><Old>ACTIVE_DISCOVERED</Old><New>(被发现)激活/主动</New></Element>	
+	
+	<Element><Old>Dispel</Old><New>免疫</New></Element>	
+	<Element><Old>DispelType</Old><New>免疫类型</New></Element>	
+	
+	<Element><Old>AutoDirection</Old><New>自动朝向</New></Element>
+	
+	<Element><Old>JingYing</Old><New>精英</New></Element>
+	<Element><Old>XiYou</Old><New>稀有</New></Element>
+	
+	<Element><Old>HitedPos</Old><New>命中位置</New></Element>
+	
+	<Element><Old>EnterSpace</Old><New>入场</New></Element>
+	<Element><Old>ExitSpace</Old><New>离场</New></Element>
+	
+	<Element><Old>EnterSpaceDuration</Old><New>入场时长(0.01秒)</New></Element>
+	<Element><Old>EnterSpaceDisAttackedDuration</Old><New>入场无敌时长(0.01秒)</New></Element>
+	<Element><Old>EnterBattleDuration</Old><New>战斗准备时长(0.01秒)</New></Element>
+	
+	<Element><Old>DieSpell</Old><New>死亡技能</New></Element>
+	<Element><Old>DieSpellDelay</Old><New>死亡技能延时</New></Element>
+	
+	<Element><Old>PreCondition</Old><New>前提状态</New></Element>
+	<Element><Old>PreEvent</Old><New>前提事件</New></Element>
+	
+	<Element><Old>DieOutBorn</Old><New>死光再生</New></Element>
+	<Element><Old>DieOut</Old><New>死光</New></Element>
+	<Element><Old>DIE_OUT</Old><New>死光</New></Element>
+	
+	<Element><Old>Controller</Old><New>控制器</New></Element>
+	<Element><Old>SuccessController</Old><New>成功控制器</New></Element>
+	<Element><Old>FailController</Old><New>失败控制器</New></Element>
+	
+	<Element><Old>Config</Old><New>配置</New></Element>
+	
+	<Element><Old>CompleteScale</Old><New>完成比例</New></Element>
+	<Element><Old>CompleteDurationBenchmark</Old><New>地图星级评价时间</New></Element>
+
+	<Element><Old>Sleep</Old><New>休眠</New></Element>
+	
+	<Element><Old>AddAura</Old><New>Add光环</New></Element>
+	<Element><Old>DelAura</Old><New>Del光环</New></Element>
+	
+	<Element><Old>Caller</Old><New>消息源/发送者</New></Element>
+	
+	<Element><Old>AIGroup</Old><New>AI组</New></Element>
+	
+	<Element><Old>Path</Old><New>路径</New></Element>
+	
+	<Element><Old>Killer</Old><New>凶手/杀人者</New></Element>
+	
+	<Element><Old>EndType</Old><New>结束方式</New></Element>
+	<Element><Old>Erase</Old><New>移除</New></Element>
+	
+	<Element><Old>OWN_SPELL_ADD</Old><New>获得技能</New></Element>
+	<Element><Old>OwnSpellAdd</Old><New>获得技能</New></Element>
+	<Element><Old>OWN_SPELL_LEVEL_UP</Old><New>技能升级</New></Element>
+	<Element><Old>OwnSpellLevelUp</Old><New>技能升级</New></Element>
+	
+	<Element><Old>BirthProperty</Old><New>出生信息</New></Element>
+	<Element><Old>EnterBattle</Old><New>进入战斗</New></Element>
+	<Element><Old>Beatble</Old><New>可击败</New></Element>
+	
+	<Element><Old>OverrideEnterPos</Old><New>覆盖出生点</New></Element>
+	<Element><Old>AddEnterPos</Old><New>增加出生点</New></Element>
+	
+	<Element><Old>AddQuest</Old><New>Add任务</New></Element>
+	<Element><Old>ReceiveCount</Old><New>接受次数</New></Element>
+	
+	<Element><Old>EnterSpaceVisualResource</Old><New>入场显示</New></Element>
+	<Element><Old>ExitSpaceVisualResource</Old><New>离场显示</New></Element>
+	<Element><Old>EnterVisualResource</Old><New>入场显示</New></Element>
+	<Element><Old>ExitVisualResource</Old><New>离场显示</New></Element>
+	<Element><Old>DieVisualResource</Old><New>死亡显示</New></Element>
+	
+	<Element><Old>Mirror</Old><New>镜像/幻影</New></Element>
+	<Element><Old>BIG_SPACE_MIRROR</Old><New>BigSpace镜像/幻影</New></Element>
+	
+	<Element><Old>Durability</Old><New>耐久</New></Element>
+	<Element><Old>DurabilityRepair</Old><New>耐久修复费用系数</New></Element>
+	
+	<Element><Old>RangeAttackTravelSpeed</Old><New>远程攻击飞行速度</New></Element>
+
+	<Element><Old>ReqQuestClose</Old><New>需求任务关闭</New></Element>
+	
+	<Element><Old>Aura</Old><New>光环</New></Element>
+	<Element><Old>AreaAura</Old><New>区域光环</New></Element>
+	
+	<Element><Old>ActiveByDiscovered</Old><New>被发现激活</New></Element>
+	
+	<Element><Old>RandomSpell</Old><New>随机技能</New></Element>
+	<Element><Old>SpellCount</Old><New>技能个数</New></Element>
+	
+	<Element><Old>SpaceTransportable</Old><New>可以跨地图</New></Element>
+	
+	<Element><Old>ImmediatePass</Old><New>扫荡</New></Element>
+	<Element><Old>ImmediatePassCost</Old><New>扫荡成本</New></Element>
+	<Element><Old>ImmediatePassLoot</Old><New>扫荡掉落</New></Element>
+	
+	<Element><Old>ResetCondition</Old><New>重置条件</New></Element>
+	
+	<Element><Old>TransportHome</Old><New>传送回家</New></Element>
+	<Element><Old>SpaceFomation</Old><New>Space阵型</New></Element>
+	<Element><Old>SpaceFomationSpan</Old><New>Space阵型间隔</New></Element>
+	
+	<Element><Old>Nature</Old><New>种族</New></Element>
+	<Element><Old>NatureType</Old><New>种族</New></Element>
+	<Element><Old>NatureMask</Old><New>种族</New></Element>
+	<Element><Old>ViewNatureMask</Old><New>视野种族</New></Element>
+	<Element><Old>ThreatNatureMask</Old><New>仇恨种族</New></Element>
+	
+	<Element><Old>MiniMapVisual</Old><New>小地图显示</New></Element>
+	
+	<Element><Old>DeadColorScale</Old><New>死亡颜色亮度</New></Element>
+	
+	<Element><Old>Policy</Old><New>策略</New></Element>
+	<Element><Old>VisualPolicy</Old><New>显示策略</New></Element>
+	
+	<Element><Old>STANDARD_PRICE</Old><New>标准价格（游戏币）</New></Element>
+	
+	<Element><Old>PartyState</Old><New>Party状态</New></Element>
+	
+	
+	<Element><Old>PVPAoIRange</Old><New>PVP视野</New></Element>
+	
+	<Element><Old>Surrender</Old><New>投降</New></Element>
+	<Element><Old>SurrenderTime</Old><New>投降Time</New></Element>
+	
+	<Element><Old>DelayLeaveDuration</Old><New>延迟离开时间</New></Element>
+	
+	<Element><Old>DieOutFailDuration</Old><New>死绝失败时长</New></Element>
+	
+	<Element><Old>SpaceCompleteDamageInScale</Old><New>副本完成伤害承受系数</New></Element>
+	<Element><Old>SpaceCompleteDamageOutScale</Old><New>副本完成伤害输出系数</New></Element>
+	
+	<Element><Old>Operate</Old><New>操作</New></Element>
+	<Element><Old>OperateFoulPunish</Old><New>挂机惩罚</New></Element>
+	
+	<Element><Old>FeverPitch</Old><New>活跃度</New></Element>
+	<Element><Old>WinFeverPitch</Old><New>胜出活跃度</New></Element>
+	
+	<Element><Old>SpaceSpell</Old><New>地图技能</New></Element>
+	
+	<Element><Old>PlayerLevel</Old><New>玩家等级</New></Element>
+	
+	<Element><Old>PropertyEnterScale</Old><New>属性带入</New></Element>
+	<Element><Old>Standard</Old><New>标准</New></Element>
+	<Element><Old>StandardScale</Old><New>标准比重</New></Element>
+	<Element><Old>StandardLevel</Old><New>标准等级</New></Element>
+	<Element><Old>OwnSpellLevelExScale</Old><New>技能精修额外(装备)系数</New></Element>
+	
+	<Element><Old>CloseDuration</Old><New>(结束之后)关闭时间</New></Element>
+
+	<Element><Old>Drop</Old><New>丢弃</New></Element>
+	<Element><Old>Dropable</Old><New>可丢弃</New></Element>
+	
+	<Element><Old>ClearRound</Old><New>每局清理</New></Element>
+	
+	<Element><Old>FloorItem</Old><New>保底物品</New></Element>
+
+	<Element><Old>ImmediateComplete</Old><New>立刻完成</New></Element>
+	<Element><Old>ImmediateCompleteCost</Old><New>立刻完成代价</New></Element>
+	<Element><Old>ImmediateCompleteCost0</Old><New>立刻完成代价0</New></Element>
+	<Element><Old>ImmediateCompleteCost1</Old><New>立刻完成代价1</New></Element>
+	
+	<Element><Old>RandomMove</Old><New>随机移动</New></Element>
+	<Element><Old>RandomMoveCD</Old><New>随机移动CD</New></Element>
+	
+	<Element><Old>ExploreScale</Old><New>爆炸Scale</New></Element>
+	<Element><Old>KilledExploreScale</Old><New>死亡爆炸Scale</New></Element>
+
+	<Element><Old>NPCRandomPosCount</Old><New>NPC随机出生点个数</New></Element>
+	<Element><Old>ServantRandomPosCount</Old><New>Servant随机出生点个数</New></Element>
+	<Element><Old>ObjectRandomPosCount</Old><New>Object随机出生点个数</New></Element>
+	<Element><Old>AreaAuraRandomPosCount</Old><New>AreaAura随机出生点个数</New></Element>
+	
+	<Element><Old>NPCMaxCount</Old><New>NPC最大个数</New></Element>
+	<Element><Old>ObjectMaxCount</Old><New>Object最大个数</New></Element>
+	<Element><Old>AreaAuraMaxCount</Old><New>AreaAura最大个数</New></Element>
+	
+	<Element><Old>DisBornController</Old><New>禁止Born的控制器(只要此控制器Living就不能Born)</New></Element>
+	
+	<Element><Old>DressPrice</Old><New>幻化价格</New></Element>
+	
+	<Element><Old>UpdateProperty</Old><New>更新属性</New></Element>
+	<Element><Old>ImmediateUpdateProperty</Old><New>立即更新属性</New></Element>
+	
+	<Element><Old>IdleMoveSpeed</Old><New>Idle移动速度</New></Element>
+	<Element><Old>BattleMoveSpeed</Old><New>Battle移动速度</New></Element>
+	
+	<Element><Old>GlobalCD</Old><New>全局CD</New></Element>
+	
+</root>

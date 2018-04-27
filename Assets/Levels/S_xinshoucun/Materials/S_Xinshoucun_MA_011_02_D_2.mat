@@ -1,0 +1,43 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: S_Xinshoucun_MA_011_02_D_2
+  m_Shader: {fileID: 4800000, guid: c36c6cc86e0a9e94f9d27836f462164a, type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: 2000
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _LightMap:
+        m_Texture: {fileID: 2800000, guid: 4df6b02bff4ac5341b76cd6bfdf4e796, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MainTex:
+        m_Texture: {fileID: 2800000, guid: c01aa58c18b4d7745afb7edfeeaeb5ea, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MixTex:
+        m_Texture: {fileID: 2800000, guid: 60f139889cd3b0d479f6c28f09c4a418, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _NrmTex:
+        m_Texture: {fileID: 2800000, guid: 98a0f2c8d7914ba4687596c53d438c7d, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats: []
+    m_Colors:
+    - _LightMapAdd0: {r: 0.05192396, g: 0.11648191, b: 0.191358, a: 0}
+    - _LightMapAdd1: {r: -0.26371023, g: -0.40420336, b: -0.49877906, a: 0.282095}
+    - _LightMapScale0: {r: 1.191369, g: 0.55554646, b: 1.1821012, a: 0.00001}
+    - _LightMapScale1: {r: 0.69922817, g: 0.83995175, b: 0.77478, a: 0}
+    - _LightMapUVParams: {r: 0.123046875, g: 0.24609375, b: 0.25097656, a: 0.7519531}

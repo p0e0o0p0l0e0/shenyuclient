@@ -1,0 +1,43 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: SM_Plains_Castle_Cage_01_2
+  m_Shader: {fileID: 4800000, guid: c36c6cc86e0a9e94f9d27836f462164a, type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _LightMap:
+        m_Texture: {fileID: 2800000, guid: 23b17c41d33ce464fa793beed3d0e3fc, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MainTex:
+        m_Texture: {fileID: 2800000, guid: f3027446c358f384a8424a5e088ff992, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MixTex:
+        m_Texture: {fileID: 2800000, guid: 6925d45395f4c87408a6de7688073896, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _NrmTex:
+        m_Texture: {fileID: 2800000, guid: 19c2133cbf6cba44b8e785bcc906b898, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats: []
+    m_Colors:
+    - _LightMapAdd0: {r: 0.15811446, g: 0.028874595, b: 0.01, a: 0}
+    - _LightMapAdd1: {r: -0.5208382, g: -0.43395573, b: -0.3585791, a: 0.282095}
+    - _LightMapScale0: {r: 1.3519183, g: 0.503834, b: 1.5897286, a: 0.00001}
+    - _LightMapScale1: {r: 0.8795026, g: 0.9619787, b: 0.7593565, a: 0}
+    - _LightMapUVParams: {r: 0.060546875, g: 0.12109375, b: 0.18847656, a: 0.8769531}

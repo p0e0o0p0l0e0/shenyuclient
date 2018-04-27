@@ -1,0 +1,55 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &100100000
+Prefab:
+  m_ObjectHideFlags: 1
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications: []
+    m_RemovedComponents: []
+  m_ParentPrefab: {fileID: 0}
+  m_RootGameObject: {fileID: 1257419247684530}
+  m_IsPrefabParent: 1
+--- !u!1 &1257419247684530
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 5
+  m_Component:
+  - component: {fileID: 4716815794102720}
+  - component: {fileID: 114570354022029200}
+  m_Layer: 0
+  m_Name: spaceherolevelstruct
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4716815794102720
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1257419247684530}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &114570354022029200
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1257419247684530}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d77ba0dbe73abda47a69a1fc93b3cefc, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  DataSize: 259
+  _data: 0b0000001600000000023000a77e0000000000ff742b7d000000001601000000023100a77e000000000005000000050000001602000000023200a77e00000000000a000000070000001603000000023300a77e00000000000f000000090000001604000000023400a77e0000000000140000000b0000001605000000023500a77e00000000001e0000000d0000001606000000023600a77e0000000000280000000f0000001607000000023700a77e000000000032000000110000001608000000023800a77e00000000003c000000130000001609000000023900a77e00000000004600000015000000180a0000000331003000a77e00000000005000000017000000

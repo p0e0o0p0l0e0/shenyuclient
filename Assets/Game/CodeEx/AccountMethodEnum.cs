@@ -1,0 +1,45 @@
+using System;
+
+public enum AccountClientMethod
+{
+	INF = 0,
+	METHOD_0_OnCreateStart = INF,
+	METHOD_1_OnSelectStart,
+	METHOD_2_OnRoleName,
+	METHOD_3_OnCreateResult,
+	METHOD_4_OnIndulgeWarning,
+	METHOD_5_OnPreventIndulgeResult,
+	METHOD_6_ResponseTime,
+	METHOD_7_UpdateLoginContent,
+	METHOD_8_OnUpdateVisualLoading,
+	METHOD_9_MessageBox,
+	METHOD_10_DebugMessage,
+	METHOD_11_ContainReserveWord,
+	METHOD_12_HTTPRequest,
+	METHOD_13_OnLogoutPlayer,
+	SUP,
+}
+public enum AccountServerMethod
+{
+	INF = 0,
+	METHOD_0_Exec = INF,
+	METHOD_1_Exec,
+	METHOD_2_RandomName,
+	METHOD_3_CreateRole,
+	METHOD_4_SelectRole,
+	METHOD_5_DestroyRole,
+	METHOD_6_RevertRole,
+	METHOD_7_BackToLogin,
+	METHOD_8_OnDebugWarningTrace,
+	METHOD_9_OnDebugErrorTrace,
+	METHOD_10_UpdateDevice,
+	METHOD_11_UpdateKeyboardSetting,
+	METHOD_12_UpdateKeyboardSetting,
+	METHOD_13_ResetKeyboardSetting,
+	METHOD_14_ReadGameNote,
+	METHOD_15_ResetClientSetting,
+	METHOD_16_UpdateClientSetting,
+	METHOD_17_TestCallback,
+	METHOD_18_LogoutPlayer,
+	SUP,
+}

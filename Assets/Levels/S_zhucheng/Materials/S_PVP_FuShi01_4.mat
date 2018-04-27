@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: S_PVP_FuShi01_4
+  m_Shader: {fileID: 4800000, guid: fdb2b74e90e261c4e965769067bd4966, type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: 2000
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _LightMap:
+        m_Texture: {fileID: 2800000, guid: 4e800cf196269d14b82420c9d4b87cdb, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MainTex:
+        m_Texture: {fileID: 2800000, guid: 4ea308e2ee9a91f468f35c484d416e5e, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats: []
+    m_Colors:
+    - _LightMapAdd0: {r: 0.12936942, g: 0.11230768, b: 0.21197787, a: 0}
+    - _LightMapAdd1: {r: -0.37648743, g: -0.20628183, b: -0.40668157, a: 0.282095}
+    - _LightMapScale0: {r: 0.3757426, g: 0.33516935, b: 0.9976616, a: 0.00001}
+    - _LightMapScale1: {r: 0.77569973, g: 0.51067126, b: 0.7574762, a: 0}
+    - _LightMapUVParams: {r: 0.2421875, g: 0.484375, b: 0.25390625, a: 0.5078125}

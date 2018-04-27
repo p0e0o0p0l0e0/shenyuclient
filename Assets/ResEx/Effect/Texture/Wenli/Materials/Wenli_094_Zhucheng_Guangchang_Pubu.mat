@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: Wenli_094_Zhucheng_Guangchang_Pubu
+  m_Shader: {fileID: 4800000, guid: d848affd513ad394787e4e5ffcd51461, type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: 3100
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _MainTex:
+        m_Texture: {fileID: 2800000, guid: 94b7c5094009dd34eb9d5ad5946660d0, type: 3}
+        m_Scale: {x: 0.1, y: -1}
+        m_Offset: {x: 0, y: 1.8158889}
+    - _MaskTex:
+        m_Texture: {fileID: 2800000, guid: a7a491e8d9a581b4ea5a38bb710a6400, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats: []
+    m_Colors:
+    - _Params: {r: 10, g: 1, b: 1, a: 1}
+    - _TintColor: {r: 1, g: 1, b: 1, a: 1}

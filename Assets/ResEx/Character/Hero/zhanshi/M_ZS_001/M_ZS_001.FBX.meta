@@ -1,0 +1,2664 @@
+fileFormatVersion: 2
+guid: e9543be08d25be2428082c395d41670b
+timeCreated: 1497876442
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Bip001 HeadNub
+    100002: Bip001 L Finger0Nub
+    100004: Bip001 L Finger1Nub
+    100006: Bip001 L Toe0Nub
+    100008: Bip001 R Finger0Nub
+    100010: Bip001 R Finger1Nub
+    100012: Bip001 R Toe0Nub
+    100014: Bip01
+    100016: Bip01 Footsteps
+    100018: Bip01 Head
+    100020: Bip01 L Calf
+    100022: Bip01 L Clavicle
+    100024: Bip01 L Finger0
+    100026: Bip01 L Finger1
+    100028: Bip01 L Foot
+    100030: Bip01 L Forearm
+    100032: Bip01 L Hand
+    100034: Bip01 L Thigh
+    100036: Bip01 L Toe0
+    100038: Bip01 L UpperArm
+    100040: Bip01 Neck
+    100042: Bip01 Pelvis
+    100044: Bip01 R Calf
+    100046: Bip01 R Clavicle
+    100048: Bip01 R Finger0
+    100050: Bip01 R Finger1
+    100052: Bip01 R Foot
+    100054: Bip01 R Forearm
+    100056: Bip01 R Hand
+    100058: Bip01 R Thigh
+    100060: Bip01 R Toe0
+    100062: Bip01 R UpperArm
+    100064: Bip01 Spine
+    100066: Bip01 Spine1
+    100068: Bone01_Jian_L
+    100070: Bone01_Jian_R
+    100072: cb
+    100074: center
+    100076: foot
+    100078: FX_head_002_bone01_B
+    100080: FX_head_002_bone01_Bweiba
+    100082: FX_head_002_bone01_L
+    100084: FX_head_002_bone01_R
+    100086: FX_head_002_bone02_B
+    100088: FX_head_002_bone02_L
+    100090: FX_head_002_bone02_R
+    100092: FX_head_002_bone03_B
+    100094: FX_head_002_bone03_L
+    100096: FX_head_002_bone03_R
+    100098: FX_head_002_bone04_L
+    100100: FX_head_002_bone04_R
+    100102: FX_head_002_bone05_Lweiba
+    100104: FX_head_002_bone05_Rweiba
+    100106: head
+    100108: left
+    100110: M_face_005
+    100112: M_head_002
+    100114: M_HuangYuan_J_001
+    100116: M_HuangYuan_K_001
+    100118: M_HuangYuan_Y_001
+    100120: //RootNode
+    100122: right
+    100124: shot01
+    100126: shot02
+    100128: WQ_ZS_Fu_HuangYuanJianQiao_001
+    100130: WQ_ZS_Zhu_HuangYuanZhiDao_001
+    100132: zs_bone01_qunbai_B
+    100134: zs_bone01_qunbai_F
+    100136: zs_bone01_qunbai_L
+    100138: zs_bone01_qunbai_R
+    100140: zs_bone02_qunbai_B
+    100142: zs_bone02_qunbai_F
+    100144: zs_bone02_qunbai_L
+    100146: zs_bone02_qunbai_R
+    100148: zs_bone03_qunbai_B
+    100150: zs_bone03_qunbai_F
+    100152: zs_bone03_qunbai_L
+    100154: zs_bone03_qunbai_R
+    100156: zs_bone04_qunbai_B
+    100158: zs_bone04_qunbai_F
+    100160: zs_bone04_qunbai_L
+    100162: zs_bone04_qunbai_R
+    100164: zs_bone05_qunbai_Bweiba
+    100166: zs_bone05_qunbai_Fweiba
+    100168: zs_bone05_qunbai_Lweiba
+    100170: zs_bone05_qunbai_Rweiba
+    100172: ZS_wuqi
+    100174: ZS_wuqi_01
+    100176: M_body_K_001
+    100178: M_body_Y_001
+    100180: M_face_001
+    100182: M_head_001
+    100184: M_head_003
+    100186: M_head_004
+    100188: M_head_005
+    100190: GS_wuqi
+    100192: GS_wuqi_01
+    100194: MS_wuqi
+    100196: MS_wuqi_01
+    100198: QS_wuqi
+    100200: QS_wuqi_01
+    100202: M_face_002
+    100204: M_ZhenYan_J_001
+    100206: M_ZhenYan_K_001
+    100208: M_face_003
+    100210: M_face_004
+    100212: FX_head_001_bone01_B
+    100214: FX_head_001_bone02_B
+    100216: FX_head_001_bone03_B
+    100218: FX_head_001_bone04_B
+    100220: FX_head_001_bone05_B
+    100222: FX_head_001_bone06_Bweiba
+    100224: zs_bone01_piaodai_B
+    100226: zs_bone0201_qunbai_B
+    100228: zs_bone0201_qunbai_L
+    100230: zs_bone0201_qunbai_R
+    100232: zs_bone0202_qunbai_B
+    100234: zs_bone0202_qunbai_L
+    100236: zs_bone0202_qunbai_R
+    100238: zs_bone0203_qunbai_B
+    100240: zs_bone0203_qunbai_L
+    100242: zs_bone0203_qunbai_R
+    100244: zs_bone0204_qunbai_B
+    100246: zs_bone0204_qunbai_L
+    100248: zs_bone0204_qunbai_R
+    100250: zs_bone0205_qunbai_Bweiba
+    100252: zs_bone0205_qunbai_Lweiba
+    100254: zs_bone0205_qunbai_Rweiba
+    100256: zs_bone02_piaodai_B
+    100258: zs_bone03_piaodai_B
+    100260: zs_bone04_piaodai_B
+    100262: zs_bone05_piaodai_B
+    100264: zs_bone06_piaodai_Bweiba
+    100266: M_LiuLangZhe_J_001
+    100268: M_LiuLangZhe_K_001
+    100270: M_LiuLangZhe_Y_001
+    100272: WQ_ZS_Fu_DaoQiao_001
+    100274: WQ_ZS_Zhu_GangDao_001
+    100276: M_head_001 1
+    100278: Bip01 HeadNub
+    100280: Bip01 L Finger01
+    100282: Bip01 L Finger0Nub
+    100284: Bip01 L Finger11
+    100286: Bip01 L Finger1Nub
+    100288: Bip01 L Finger2
+    100290: Bip01 L Finger21
+    100292: Bip01 L Finger2Nub
+    100294: Bip01 L Finger3
+    100296: Bip01 L Finger31
+    100298: Bip01 L Finger3Nub
+    100300: Bip01 L Toe0Nub
+    100302: Bip01 R Finger01
+    100304: Bip01 R Finger0Nub
+    100306: Bip01 R Finger11
+    100308: Bip01 R Finger1Nub
+    100310: Bip01 R Finger2
+    100312: Bip01 R Finger21
+    100314: Bip01 R Finger2Nub
+    100316: Bip01 R Finger3
+    100318: Bip01 R Finger31
+    100320: Bip01 R Finger3Nub
+    100322: Bip01 R Toe0Nub
+    100324: Dummy001
+    100326: Plane01
+    100328: M_face_001 1
+    100330: M_LiuLangZhe_J_001 1
+    400000: Bip001 HeadNub
+    400002: Bip001 L Finger0Nub
+    400004: Bip001 L Finger1Nub
+    400006: Bip001 L Toe0Nub
+    400008: Bip001 R Finger0Nub
+    400010: Bip001 R Finger1Nub
+    400012: Bip001 R Toe0Nub
+    400014: Bip01
+    400016: Bip01 Footsteps
+    400018: Bip01 Head
+    400020: Bip01 L Calf
+    400022: Bip01 L Clavicle
+    400024: Bip01 L Finger0
+    400026: Bip01 L Finger1
+    400028: Bip01 L Foot
+    400030: Bip01 L Forearm
+    400032: Bip01 L Hand
+    400034: Bip01 L Thigh
+    400036: Bip01 L Toe0
+    400038: Bip01 L UpperArm
+    400040: Bip01 Neck
+    400042: Bip01 Pelvis
+    400044: Bip01 R Calf
+    400046: Bip01 R Clavicle
+    400048: Bip01 R Finger0
+    400050: Bip01 R Finger1
+    400052: Bip01 R Foot
+    400054: Bip01 R Forearm
+    400056: Bip01 R Hand
+    400058: Bip01 R Thigh
+    400060: Bip01 R Toe0
+    400062: Bip01 R UpperArm
+    400064: Bip01 Spine
+    400066: Bip01 Spine1
+    400068: Bone01_Jian_L
+    400070: Bone01_Jian_R
+    400072: cb
+    400074: center
+    400076: foot
+    400078: FX_head_002_bone01_B
+    400080: FX_head_002_bone01_Bweiba
+    400082: FX_head_002_bone01_L
+    400084: FX_head_002_bone01_R
+    400086: FX_head_002_bone02_B
+    400088: FX_head_002_bone02_L
+    400090: FX_head_002_bone02_R
+    400092: FX_head_002_bone03_B
+    400094: FX_head_002_bone03_L
+    400096: FX_head_002_bone03_R
+    400098: FX_head_002_bone04_L
+    400100: FX_head_002_bone04_R
+    400102: FX_head_002_bone05_Lweiba
+    400104: FX_head_002_bone05_Rweiba
+    400106: head
+    400108: left
+    400110: M_face_005
+    400112: M_head_002
+    400114: M_HuangYuan_J_001
+    400116: M_HuangYuan_K_001
+    400118: M_HuangYuan_Y_001
+    400120: //RootNode
+    400122: right
+    400124: shot01
+    400126: shot02
+    400128: WQ_ZS_Fu_HuangYuanJianQiao_001
+    400130: WQ_ZS_Zhu_HuangYuanZhiDao_001
+    400132: zs_bone01_qunbai_B
+    400134: zs_bone01_qunbai_F
+    400136: zs_bone01_qunbai_L
+    400138: zs_bone01_qunbai_R
+    400140: zs_bone02_qunbai_B
+    400142: zs_bone02_qunbai_F
+    400144: zs_bone02_qunbai_L
+    400146: zs_bone02_qunbai_R
+    400148: zs_bone03_qunbai_B
+    400150: zs_bone03_qunbai_F
+    400152: zs_bone03_qunbai_L
+    400154: zs_bone03_qunbai_R
+    400156: zs_bone04_qunbai_B
+    400158: zs_bone04_qunbai_F
+    400160: zs_bone04_qunbai_L
+    400162: zs_bone04_qunbai_R
+    400164: zs_bone05_qunbai_Bweiba
+    400166: zs_bone05_qunbai_Fweiba
+    400168: zs_bone05_qunbai_Lweiba
+    400170: zs_bone05_qunbai_Rweiba
+    400172: ZS_wuqi
+    400174: ZS_wuqi_01
+    400176: M_body_K_001
+    400178: M_body_Y_001
+    400180: M_face_001
+    400182: M_head_001
+    400184: M_head_003
+    400186: M_head_004
+    400188: M_head_005
+    400190: GS_wuqi
+    400192: GS_wuqi_01
+    400194: MS_wuqi
+    400196: MS_wuqi_01
+    400198: QS_wuqi
+    400200: QS_wuqi_01
+    400202: M_face_002
+    400204: M_ZhenYan_J_001
+    400206: M_ZhenYan_K_001
+    400208: M_face_003
+    400210: M_face_004
+    400212: FX_head_001_bone01_B
+    400214: FX_head_001_bone02_B
+    400216: FX_head_001_bone03_B
+    400218: FX_head_001_bone04_B
+    400220: FX_head_001_bone05_B
+    400222: FX_head_001_bone06_Bweiba
+    400224: zs_bone01_piaodai_B
+    400226: zs_bone0201_qunbai_B
+    400228: zs_bone0201_qunbai_L
+    400230: zs_bone0201_qunbai_R
+    400232: zs_bone0202_qunbai_B
+    400234: zs_bone0202_qunbai_L
+    400236: zs_bone0202_qunbai_R
+    400238: zs_bone0203_qunbai_B
+    400240: zs_bone0203_qunbai_L
+    400242: zs_bone0203_qunbai_R
+    400244: zs_bone0204_qunbai_B
+    400246: zs_bone0204_qunbai_L
+    400248: zs_bone0204_qunbai_R
+    400250: zs_bone0205_qunbai_Bweiba
+    400252: zs_bone0205_qunbai_Lweiba
+    400254: zs_bone0205_qunbai_Rweiba
+    400256: zs_bone02_piaodai_B
+    400258: zs_bone03_piaodai_B
+    400260: zs_bone04_piaodai_B
+    400262: zs_bone05_piaodai_B
+    400264: zs_bone06_piaodai_Bweiba
+    400266: M_LiuLangZhe_J_001
+    400268: M_LiuLangZhe_K_001
+    400270: M_LiuLangZhe_Y_001
+    400272: WQ_ZS_Fu_DaoQiao_001
+    400274: WQ_ZS_Zhu_GangDao_001
+    400276: M_head_001 1
+    400278: Bip01 HeadNub
+    400280: Bip01 L Finger01
+    400282: Bip01 L Finger0Nub
+    400284: Bip01 L Finger11
+    400286: Bip01 L Finger1Nub
+    400288: Bip01 L Finger2
+    400290: Bip01 L Finger21
+    400292: Bip01 L Finger2Nub
+    400294: Bip01 L Finger3
+    400296: Bip01 L Finger31
+    400298: Bip01 L Finger3Nub
+    400300: Bip01 L Toe0Nub
+    400302: Bip01 R Finger01
+    400304: Bip01 R Finger0Nub
+    400306: Bip01 R Finger11
+    400308: Bip01 R Finger1Nub
+    400310: Bip01 R Finger2
+    400312: Bip01 R Finger21
+    400314: Bip01 R Finger2Nub
+    400316: Bip01 R Finger3
+    400318: Bip01 R Finger31
+    400320: Bip01 R Finger3Nub
+    400322: Bip01 R Toe0Nub
+    400324: Dummy001
+    400326: Plane01
+    400328: M_face_001 1
+    400330: M_LiuLangZhe_J_001 1
+    2300000: WQ_ZS_Fu_HuangYuanJianQiao_001
+    2300002: WQ_ZS_Zhu_HuangYuanZhiDao_001
+    2300004: WQ_ZS_Fu_DaoQiao_001
+    2300006: WQ_ZS_Zhu_GangDao_001
+    2300008: Plane01
+    3300000: WQ_ZS_Fu_HuangYuanJianQiao_001
+    3300002: WQ_ZS_Zhu_HuangYuanZhiDao_001
+    3300004: WQ_ZS_Fu_DaoQiao_001
+    3300006: WQ_ZS_Zhu_GangDao_001
+    3300008: Plane01
+    4300000: WQ_ZS_Zhu_HuangYuanZhiDao_001
+    4300002: WQ_ZS_Fu_HuangYuanJianQiao_001
+    4300004: M_HuangYuan_J_001
+    4300006: M_HuangYuan_Y_001
+    4300008: M_HuangYuan_K_001
+    4300010: M_head_002
+    4300012: M_face_005
+    4300014: M_body_K_001
+    4300016: M_body_Y_001
+    4300018: M_head_001
+    4300020: M_head_004
+    4300022: M_head_003
+    4300024: M_head_005
+    4300026: M_face_001
+    4300028: M_ZhenYan_J_001
+    4300030: M_ZhenYan_K_001
+    4300032: M_face_002
+    4300034: M_face_004
+    4300036: M_face_003
+    4300038: M_LiuLangZhe_J_001
+    4300040: M_LiuLangZhe_Y_001
+    4300042: M_LiuLangZhe_K_001
+    4300044: WQ_ZS_Zhu_GangDao_001
+    4300046: WQ_ZS_Fu_DaoQiao_001
+    4300048: M_head_001
+    4300050: Plane01
+    4300052: M_LiuLangZhe_J_001
+    4300054: M_face_001
+    7400000: attack06
+    7400002: idle03
+    7400004: idle02
+    7400006: run01
+    7400008: run02
+    7400010: hit01
+    7400012: hit02
+    7400014: hit03
+    7400016: hit04
+    7400018: stun01
+    7400020: die01
+    7400022: win01
+    7400024: rise01
+    7400026: fly01
+    7400028: attack03
+    7400030: attack01
+    7400032: attack02
+    7400034: attack04
+    7400036: attack05
+    7400038: bqskill0001
+    7400040: bqskill0002
+    7400042: bqskill0101
+    7400044: bqskill0102
+    7400046: bqskill0103
+    7400048: bqskill11
+    7400050: cdskill01
+    7400052: cdskill02
+    7400054: cdskill03
+    7400056: cdskill0401
+    7400058: cdskill0402
+    7400060: cdskill05
+    7400062: cdskill06
+    7400064: cdskill07
+    7400066: cdskill1101
+    7400068: cdskill1102
+    7400070: cdskill1103
+    7400072: cdskill1104
+    7400074: cdskill12
+    7400076: cdskill13
+    7400078: cdskill14
+    7400080: cdskill15
+    7400082: cdskill1602
+    7400084: cdskill17
+    7400086: story5101
+    7400088: fly04
+    7400090: idle01
+    7400092: run03
+    7400094: run03
+    9500000: //RootNode
+    11100000: //RootNode
+    13700000: M_face_005
+    13700002: M_head_002
+    13700004: M_HuangYuan_J_001
+    13700006: M_HuangYuan_K_001
+    13700008: M_HuangYuan_Y_001
+    13700010: M_body_K_001
+    13700012: M_body_Y_001
+    13700014: M_face_001
+    13700016: M_head_001
+    13700018: M_head_003
+    13700020: M_head_004
+    13700022: M_head_005
+    13700024: M_face_002
+    13700026: M_ZhenYan_J_001
+    13700028: M_ZhenYan_K_001
+    13700030: M_face_003
+    13700032: M_face_004
+    13700034: M_LiuLangZhe_J_001
+    13700036: M_LiuLangZhe_K_001
+    13700038: M_LiuLangZhe_Y_001
+    13700040: M_head_001 1
+    13700042: M_face_001 1
+    13700044: M_LiuLangZhe_J_001 1
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: idle03
+      takeName: 
+      firstFrame: 3
+      lastFrame: 51
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 1
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 0
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: idle02
+      takeName: 
+      firstFrame: 1383
+      lastFrame: 1431
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 1
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 0
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: run03
+      takeName: 
+      firstFrame: 1503
+      lastFrame: 1525
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 1
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 0
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: run02
+      takeName: 
+      firstFrame: 952
+      lastFrame: 970
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 0
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: hit01
+      takeName: 
+      firstFrame: 81
+      lastFrame: 107
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 0
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: hit02
+      takeName: 
+      firstFrame: 141
+      lastFrame: 154
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 0
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: hit03
+      takeName: 
+      firstFrame: 1185
+      lastFrame: 1195
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 0
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: hit04
+      takeName: 
+      firstFrame: 1196
+      lastFrame: 1216
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 0
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: stun01
+      takeName: 
+      firstFrame: 157
+      lastFrame: 190
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 1
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 0
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: die01
+      takeName: 
+      firstFrame: 193
+      lastFrame: 258
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 0
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: win01
+      takeName: 
+      firstFrame: 1230
+      lastFrame: 1274
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 1
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 0
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: rise01
+      takeName: 
+      firstFrame: 108
+      lastFrame: 138
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 0
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: fly01
+      takeName: 
+      firstFrame: 1104
+      lastFrame: 1179
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 0
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: attack01
+      takeName: 
+      firstFrame: 1962.9999
+      lastFrame: 1994
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 0
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: attack02
+      takeName: 
+      firstFrame: 2001
+      lastFrame: 2031
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 0
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: attack03
+      takeName: 
+      firstFrame: 2036
+      lastFrame: 2066
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 0
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: attack04
+      takeName: 
+      firstFrame: 1280
+      lastFrame: 1305
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 0
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: attack05
+      takeName: 
+      firstFrame: 1306
+      lastFrame: 1331
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 0
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: bqskill0001
+      takeName: 
+      firstFrame: 339
+      lastFrame: 354
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 0
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: bqskill0002
+      takeName: 
+      firstFrame: 358
+      lastFrame: 385
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 0
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: bqskill0101
+      takeName: 
+      firstFrame: 980
+      lastFrame: 996
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 0
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: bqskill0102
+      takeName: 
+      firstFrame: 1001
+      lastFrame: 1018
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 0
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: bqskill0103
+      takeName: 
+      firstFrame: 1019
+      lastFrame: 1045
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 0
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: bqskill11
+      takeName: 
+      firstFrame: 1055
+      lastFrame: 1100
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 0
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: cdskill01
+      takeName: 
+      firstFrame: 394
+      lastFrame: 428
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 0
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: cdskill02
+      takeName: 
+      firstFrame: 437
+      lastFrame: 463
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 0
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: cdskill03
+      takeName: 
+      firstFrame: 475
+      lastFrame: 499
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 0
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: cdskill0401
+      takeName: 
+      firstFrame: 503
+      lastFrame: 513
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 0
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: cdskill0402
+      takeName: 
+      firstFrame: 521
+      lastFrame: 538
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 0
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: cdskill05
+      takeName: 
+      firstFrame: 541
+      lastFrame: 574
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 0
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: cdskill06
+      takeName: 
+      firstFrame: 579
+      lastFrame: 620
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 0
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: cdskill07
+      takeName: 
+      firstFrame: 625
+      lastFrame: 659
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 0
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: cdskill1101
+      takeName: 
+      firstFrame: 663
+      lastFrame: 678
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 0
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: cdskill1102
+      takeName: 
+      firstFrame: 679
+      lastFrame: 685
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 0
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: cdskill1103
+      takeName: 
+      firstFrame: 686
+      lastFrame: 692
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 0
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: cdskill1104
+      takeName: 
+      firstFrame: 693
+      lastFrame: 716
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 0
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: cdskill12
+      takeName: 
+      firstFrame: 720
+      lastFrame: 752
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 0
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: cdskill13
+      takeName: 
+      firstFrame: 762
+      lastFrame: 791
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 0
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: cdskill14
+      takeName: 
+      firstFrame: 795
+      lastFrame: 833
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 0
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: cdskill15
+      takeName: 
+      firstFrame: 886
+      lastFrame: 948
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 0
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: cdskill1602
+      takeName: 
+      firstFrame: 731
+      lastFrame: 752
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 0
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: cdskill17
+      takeName: 
+      firstFrame: 837
+      lastFrame: 882
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 0
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: story5101
+      takeName: 
+      firstFrame: 1700
+      lastFrame: 1751
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 0
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: fly04
+      takeName: 
+      firstFrame: 1620.9999
+      lastFrame: 1695.9999
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 0
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: attack06
+      takeName: Take 001
+      firstFrame: 2075
+      lastFrame: 2106
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Bip01
+        weight: 1
+      - path: Bip01/Bip01 Pelvis
+        weight: 1
+      - path: Bip01/Bip01 Pelvis/Bip01 Spine
+        weight: 1
+      - path: Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 L Thigh
+        weight: 1
+      - path: Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 L Thigh/Bip01 L Calf
+        weight: 1
+      - path: Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 L Thigh/Bip01 L Calf/Bip01 L Foot
+        weight: 1
+      - path: Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 L Thigh/Bip01 L Calf/Bip01 L Foot/Bip01
+          L Toe0
+        weight: 1
+      - path: Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 L Thigh/Bip01 L Calf/Bip01 L Foot/Bip01
+          L Toe0/Bip001 L Toe0Nub
+        weight: 1
+      - path: Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 R Thigh
+        weight: 1
+      - path: Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 R Thigh/Bip01 R Calf
+        weight: 1
+      - path: Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 R Thigh/Bip01 R Calf/Bip01 R Foot
+        weight: 1
+      - path: Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 R Thigh/Bip01 R Calf/Bip01 R Foot/Bip01
+          R Toe0
+        weight: 1
+      - path: Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 R Thigh/Bip01 R Calf/Bip01 R Foot/Bip01
+          R Toe0/Bip001 R Toe0Nub
+        weight: 1
+      - path: Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1
+        weight: 1
+      - path: Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01 Neck
+        weight: 1
+      - path: Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01 Head
+        weight: 1
+      - path: Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01 Head/Bip001
+          HeadNub
+        weight: 1
+      - path: Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01 Head/FX_head_002_bone01_B
+        weight: 1
+      - path: Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01 Head/FX_head_002_bone01_B/FX_head_002_bone02_B
+        weight: 1
+      - path: Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01 Head/FX_head_002_bone01_B/FX_head_002_bone02_B/FX_head_002_bone03_B
+        weight: 1
+      - path: Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01 Head/FX_head_002_bone01_B/FX_head_002_bone02_B/FX_head_002_bone03_B/FX_head_002_bone01_Bweiba
+        weight: 1
+      - path: Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01 Head/FX_head_002_bone01_L
+        weight: 1
+      - path: Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01 Head/FX_head_002_bone01_L/FX_head_002_bone02_L
+        weight: 1
+      - path: Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01 Head/FX_head_002_bone01_L/FX_head_002_bone02_L/FX_head_002_bone03_L
+        weight: 1
+      - path: Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01 Head/FX_head_002_bone01_L/FX_head_002_bone02_L/FX_head_002_bone03_L/FX_head_002_bone04_L
+        weight: 1
+      - path: Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01 Head/FX_head_002_bone01_L/FX_head_002_bone02_L/FX_head_002_bone03_L/FX_head_002_bone04_L/FX_head_002_bone05_Lweiba
+        weight: 1
+      - path: Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01 Head/FX_head_002_bone01_R
+        weight: 1
+      - path: Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01 Head/FX_head_002_bone01_R/FX_head_002_bone02_R
+        weight: 1
+      - path: Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01 Head/FX_head_002_bone01_R/FX_head_002_bone02_R/FX_head_002_bone03_R
+        weight: 1
+      - path: Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01 Head/FX_head_002_bone01_R/FX_head_002_bone02_R/FX_head_002_bone03_R/FX_head_002_bone04_R
+        weight: 1
+      - path: Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01 Head/FX_head_002_bone01_R/FX_head_002_bone02_R/FX_head_002_bone03_R/FX_head_002_bone04_R/FX_head_002_bone05_Rweiba
+        weight: 1
+      - path: Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01 L Clavicle
+        weight: 1
+      - path: Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01 L Clavicle/Bip01
+          L UpperArm
+        weight: 1
+      - path: Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01 L Clavicle/Bip01
+          L UpperArm/Bip01 L Forearm
+        weight: 1
+      - path: Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01 L Clavicle/Bip01
+          L UpperArm/Bip01 L Forearm/Bip01 L Hand
+        weight: 1
+      - path: Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01 L Clavicle/Bip01
+          L UpperArm/Bip01 L Forearm/Bip01 L Hand/Bip01 L Finger0
+        weight: 1
+      - path: Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01 L Clavicle/Bip01
+          L UpperArm/Bip01 L Forearm/Bip01 L Hand/Bip01 L Finger0/Bip001 L Finger0Nub
+        weight: 1
+      - path: Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01 L Clavicle/Bip01
+          L UpperArm/Bip01 L Forearm/Bip01 L Hand/Bip01 L Finger1
+        weight: 1
+      - path: Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01 L Clavicle/Bip01
+          L UpperArm/Bip01 L Forearm/Bip01 L Hand/Bip01 L Finger1/Bip001 L Finger1Nub
+        weight: 1
+      - path: Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01 L Clavicle/Bip01
+          L UpperArm/Bip01 L Forearm/Bip01 L Hand/GS_wuqi
+        weight: 1
+      - path: Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01 L Clavicle/Bip01
+          L UpperArm/Bip01 L Forearm/Bip01 L Hand/left
+        weight: 1
+      - path: Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01 L Clavicle/Bone01_Jian_L
+        weight: 1
+      - path: Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01 R Clavicle
+        weight: 1
+      - path: Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01 R Clavicle/Bip01
+          R UpperArm
+        weight: 1
+      - path: Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01 R Clavicle/Bip01
+          R UpperArm/Bip01 R Forearm
+        weight: 1
+      - path: Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01 R Clavicle/Bip01
+          R UpperArm/Bip01 R Forearm/Bip01 R Hand
+        weight: 1
+      - path: Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01 R Clavicle/Bip01
+          R UpperArm/Bip01 R Forearm/Bip01 R Hand/Bip01 R Finger0
+        weight: 1
+      - path: Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01 R Clavicle/Bip01
+          R UpperArm/Bip01 R Forearm/Bip01 R Hand/Bip01 R Finger0/Bip001 R Finger0Nub
+        weight: 1
+      - path: Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01 R Clavicle/Bip01
+          R UpperArm/Bip01 R Forearm/Bip01 R Hand/Bip01 R Finger1
+        weight: 1
+      - path: Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01 R Clavicle/Bip01
+          R UpperArm/Bip01 R Forearm/Bip01 R Hand/Bip01 R Finger1/Bip001 R Finger1Nub
+        weight: 1
+      - path: Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01 R Clavicle/Bip01
+          R UpperArm/Bip01 R Forearm/Bip01 R Hand/ZS_wuqi
+        weight: 1
+      - path: Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01 R Clavicle/Bip01
+          R UpperArm/Bip01 R Forearm/Bip01 R Hand/ZS_wuqi/right
+        weight: 1
+      - path: Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01 R Clavicle/Bone01_Jian_R
+        weight: 1
+      - path: Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/cb
+        weight: 1
+      - path: Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/GS_wuqi_01
+        weight: 1
+      - path: Bip01/Bip01 Pelvis/zs_bone01_qunbai_B
+        weight: 1
+      - path: Bip01/Bip01 Pelvis/zs_bone01_qunbai_B/zs_bone02_qunbai_B
+        weight: 1
+      - path: Bip01/Bip01 Pelvis/zs_bone01_qunbai_B/zs_bone02_qunbai_B/zs_bone03_qunbai_B
+        weight: 1
+      - path: Bip01/Bip01 Pelvis/zs_bone01_qunbai_B/zs_bone02_qunbai_B/zs_bone03_qunbai_B/zs_bone04_qunbai_B
+        weight: 1
+      - path: Bip01/Bip01 Pelvis/zs_bone01_qunbai_B/zs_bone02_qunbai_B/zs_bone03_qunbai_B/zs_bone04_qunbai_B/zs_bone05_qunbai_Bweiba
+        weight: 1
+      - path: Bip01/Bip01 Pelvis/zs_bone01_qunbai_F
+        weight: 1
+      - path: Bip01/Bip01 Pelvis/zs_bone01_qunbai_F/zs_bone02_qunbai_F
+        weight: 1
+      - path: Bip01/Bip01 Pelvis/zs_bone01_qunbai_F/zs_bone02_qunbai_F/zs_bone03_qunbai_F
+        weight: 1
+      - path: Bip01/Bip01 Pelvis/zs_bone01_qunbai_F/zs_bone02_qunbai_F/zs_bone03_qunbai_F/zs_bone04_qunbai_F
+        weight: 1
+      - path: Bip01/Bip01 Pelvis/zs_bone01_qunbai_F/zs_bone02_qunbai_F/zs_bone03_qunbai_F/zs_bone04_qunbai_F/zs_bone05_qunbai_Fweiba
+        weight: 1
+      - path: Bip01/Bip01 Pelvis/zs_bone01_qunbai_L
+        weight: 1
+      - path: Bip01/Bip01 Pelvis/zs_bone01_qunbai_L/zs_bone02_qunbai_L
+        weight: 1
+      - path: Bip01/Bip01 Pelvis/zs_bone01_qunbai_L/zs_bone02_qunbai_L/zs_bone03_qunbai_L
+        weight: 1
+      - path: Bip01/Bip01 Pelvis/zs_bone01_qunbai_L/zs_bone02_qunbai_L/zs_bone03_qunbai_L/zs_bone04_qunbai_L
+        weight: 1
+      - path: Bip01/Bip01 Pelvis/zs_bone01_qunbai_L/zs_bone02_qunbai_L/zs_bone03_qunbai_L/zs_bone04_qunbai_L/zs_bone05_qunbai_Lweiba
+        weight: 1
+      - path: Bip01/Bip01 Pelvis/zs_bone01_qunbai_R
+        weight: 1
+      - path: Bip01/Bip01 Pelvis/zs_bone01_qunbai_R/zs_bone02_qunbai_R
+        weight: 1
+      - path: Bip01/Bip01 Pelvis/zs_bone01_qunbai_R/zs_bone02_qunbai_R/zs_bone03_qunbai_R
+        weight: 1
+      - path: Bip01/Bip01 Pelvis/zs_bone01_qunbai_R/zs_bone02_qunbai_R/zs_bone03_qunbai_R/zs_bone04_qunbai_R
+        weight: 1
+      - path: Bip01/Bip01 Pelvis/zs_bone01_qunbai_R/zs_bone02_qunbai_R/zs_bone03_qunbai_R/zs_bone04_qunbai_R/zs_bone05_qunbai_Rweiba
+        weight: 1
+      - path: Bip01/MS_wuqi_01
+        weight: 1
+      - path: Bip01/ZS_wuqi_01
+        weight: 1
+      - path: center
+        weight: 1
+      - path: foot
+        weight: 1
+      - path: head
+        weight: 1
+      - path: M_face_002
+        weight: 1
+      - path: M_head_002
+        weight: 1
+      - path: M_HuangYuan_J_001
+        weight: 1
+      - path: M_HuangYuan_K_001
+        weight: 1
+      - path: M_HuangYuan_Y_001
+        weight: 1
+      - path: M_ZhenYan_J_001
+        weight: 1
+      - path: M_ZhenYan_K_001
+        weight: 1
+      - path: shot01
+        weight: 1
+      - path: shot02
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: idle01
+      takeName: Take 001
+      firstFrame: 1914
+      lastFrame: 1948
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Bip01
+        weight: 1
+      - path: Bip01/Bip01 Pelvis
+        weight: 1
+      - path: Bip01/Bip01 Pelvis/Bip01 Spine
+        weight: 1
+      - path: Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 L Thigh
+        weight: 1
+      - path: Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 L Thigh/Bip01 L Calf
+        weight: 1
+      - path: Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 L Thigh/Bip01 L Calf/Bip01 L Foot
+        weight: 1
+      - path: Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 L Thigh/Bip01 L Calf/Bip01 L Foot/Bip01
+          L Toe0
+        weight: 1
+      - path: Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 L Thigh/Bip01 L Calf/Bip01 L Foot/Bip01
+          L Toe0/Bip001 L Toe0Nub
+        weight: 1
+      - path: Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 R Thigh
+        weight: 1
+      - path: Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 R Thigh/Bip01 R Calf
+        weight: 1
+      - path: Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 R Thigh/Bip01 R Calf/Bip01 R Foot
+        weight: 1
+      - path: Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 R Thigh/Bip01 R Calf/Bip01 R Foot/Bip01
+          R Toe0
+        weight: 1
+      - path: Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 R Thigh/Bip01 R Calf/Bip01 R Foot/Bip01
+          R Toe0/Bip001 R Toe0Nub
+        weight: 1
+      - path: Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1
+        weight: 1
+      - path: Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01 Neck
+        weight: 1
+      - path: Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01 Head
+        weight: 1
+      - path: Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01 Head/Bip001
+          HeadNub
+        weight: 1
+      - path: Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01 Head/FX_head_002_bone01_B
+        weight: 1
+      - path: Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01 Head/FX_head_002_bone01_B/FX_head_002_bone02_B
+        weight: 1
+      - path: Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01 Head/FX_head_002_bone01_B/FX_head_002_bone02_B/FX_head_002_bone03_B
+        weight: 1
+      - path: Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01 Head/FX_head_002_bone01_B/FX_head_002_bone02_B/FX_head_002_bone03_B/FX_head_002_bone01_Bweiba
+        weight: 1
+      - path: Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01 Head/FX_head_002_bone01_L
+        weight: 1
+      - path: Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01 Head/FX_head_002_bone01_L/FX_head_002_bone02_L
+        weight: 1
+      - path: Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01 Head/FX_head_002_bone01_L/FX_head_002_bone02_L/FX_head_002_bone03_L
+        weight: 1
+      - path: Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01 Head/FX_head_002_bone01_L/FX_head_002_bone02_L/FX_head_002_bone03_L/FX_head_002_bone04_L
+        weight: 1
+      - path: Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01 Head/FX_head_002_bone01_L/FX_head_002_bone02_L/FX_head_002_bone03_L/FX_head_002_bone04_L/FX_head_002_bone05_Lweiba
+        weight: 1
+      - path: Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01 Head/FX_head_002_bone01_R
+        weight: 1
+      - path: Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01 Head/FX_head_002_bone01_R/FX_head_002_bone02_R
+        weight: 1
+      - path: Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01 Head/FX_head_002_bone01_R/FX_head_002_bone02_R/FX_head_002_bone03_R
+        weight: 1
+      - path: Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01 Head/FX_head_002_bone01_R/FX_head_002_bone02_R/FX_head_002_bone03_R/FX_head_002_bone04_R
+        weight: 1
+      - path: Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01 Head/FX_head_002_bone01_R/FX_head_002_bone02_R/FX_head_002_bone03_R/FX_head_002_bone04_R/FX_head_002_bone05_Rweiba
+        weight: 1
+      - path: Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01 L Clavicle
+        weight: 1
+      - path: Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01 L Clavicle/Bip01
+          L UpperArm
+        weight: 1
+      - path: Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01 L Clavicle/Bip01
+          L UpperArm/Bip01 L Forearm
+        weight: 1
+      - path: Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01 L Clavicle/Bip01
+          L UpperArm/Bip01 L Forearm/Bip01 L Hand
+        weight: 1
+      - path: Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01 L Clavicle/Bip01
+          L UpperArm/Bip01 L Forearm/Bip01 L Hand/Bip01 L Finger0
+        weight: 1
+      - path: Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01 L Clavicle/Bip01
+          L UpperArm/Bip01 L Forearm/Bip01 L Hand/Bip01 L Finger0/Bip001 L Finger0Nub
+        weight: 1
+      - path: Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01 L Clavicle/Bip01
+          L UpperArm/Bip01 L Forearm/Bip01 L Hand/Bip01 L Finger1
+        weight: 1
+      - path: Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01 L Clavicle/Bip01
+          L UpperArm/Bip01 L Forearm/Bip01 L Hand/Bip01 L Finger1/Bip001 L Finger1Nub
+        weight: 1
+      - path: Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01 L Clavicle/Bip01
+          L UpperArm/Bip01 L Forearm/Bip01 L Hand/left
+        weight: 1
+      - path: Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01 L Clavicle/Bone01_Jian_L
+        weight: 1
+      - path: Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01 R Clavicle
+        weight: 1
+      - path: Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01 R Clavicle/Bip01
+          R UpperArm
+        weight: 1
+      - path: Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01 R Clavicle/Bip01
+          R UpperArm/Bip01 R Forearm
+        weight: 1
+      - path: Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01 R Clavicle/Bip01
+          R UpperArm/Bip01 R Forearm/Bip01 R Hand
+        weight: 1
+      - path: Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01 R Clavicle/Bip01
+          R UpperArm/Bip01 R Forearm/Bip01 R Hand/Bip01 R Finger0
+        weight: 1
+      - path: Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01 R Clavicle/Bip01
+          R UpperArm/Bip01 R Forearm/Bip01 R Hand/Bip01 R Finger0/Bip001 R Finger0Nub
+        weight: 1
+      - path: Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01 R Clavicle/Bip01
+          R UpperArm/Bip01 R Forearm/Bip01 R Hand/Bip01 R Finger1
+        weight: 1
+      - path: Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01 R Clavicle/Bip01
+          R UpperArm/Bip01 R Forearm/Bip01 R Hand/Bip01 R Finger1/Bip001 R Finger1Nub
+        weight: 1
+      - path: Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01 R Clavicle/Bip01
+          R UpperArm/Bip01 R Forearm/Bip01 R Hand/ZS_wuqi
+        weight: 1
+      - path: Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01 R Clavicle/Bip01
+          R UpperArm/Bip01 R Forearm/Bip01 R Hand/ZS_wuqi/right
+        weight: 1
+      - path: Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01 R Clavicle/Bip01
+          R UpperArm/Bip01 R Forearm/Bip01 R Hand/ZS_wuqi/WQ_ZS_Zhu_HuangYuanZhiDao_001
+        weight: 1
+      - path: Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01 R Clavicle/Bone01_Jian_R
+        weight: 1
+      - path: Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/cb
+        weight: 1
+      - path: Bip01/Bip01 Pelvis/zs_bone01_qunbai_B
+        weight: 1
+      - path: Bip01/Bip01 Pelvis/zs_bone01_qunbai_B/zs_bone02_qunbai_B
+        weight: 1
+      - path: Bip01/Bip01 Pelvis/zs_bone01_qunbai_B/zs_bone02_qunbai_B/zs_bone03_qunbai_B
+        weight: 1
+      - path: Bip01/Bip01 Pelvis/zs_bone01_qunbai_B/zs_bone02_qunbai_B/zs_bone03_qunbai_B/zs_bone04_qunbai_B
+        weight: 1
+      - path: Bip01/Bip01 Pelvis/zs_bone01_qunbai_B/zs_bone02_qunbai_B/zs_bone03_qunbai_B/zs_bone04_qunbai_B/zs_bone05_qunbai_Bweiba
+        weight: 1
+      - path: Bip01/Bip01 Pelvis/zs_bone01_qunbai_F
+        weight: 1
+      - path: Bip01/Bip01 Pelvis/zs_bone01_qunbai_F/zs_bone02_qunbai_F
+        weight: 1
+      - path: Bip01/Bip01 Pelvis/zs_bone01_qunbai_F/zs_bone02_qunbai_F/zs_bone03_qunbai_F
+        weight: 1
+      - path: Bip01/Bip01 Pelvis/zs_bone01_qunbai_F/zs_bone02_qunbai_F/zs_bone03_qunbai_F/zs_bone04_qunbai_F
+        weight: 1
+      - path: Bip01/Bip01 Pelvis/zs_bone01_qunbai_F/zs_bone02_qunbai_F/zs_bone03_qunbai_F/zs_bone04_qunbai_F/zs_bone05_qunbai_Fweiba
+        weight: 1
+      - path: Bip01/Bip01 Pelvis/zs_bone01_qunbai_L
+        weight: 1
+      - path: Bip01/Bip01 Pelvis/zs_bone01_qunbai_L/zs_bone02_qunbai_L
+        weight: 1
+      - path: Bip01/Bip01 Pelvis/zs_bone01_qunbai_L/zs_bone02_qunbai_L/zs_bone03_qunbai_L
+        weight: 1
+      - path: Bip01/Bip01 Pelvis/zs_bone01_qunbai_L/zs_bone02_qunbai_L/zs_bone03_qunbai_L/zs_bone04_qunbai_L
+        weight: 1
+      - path: Bip01/Bip01 Pelvis/zs_bone01_qunbai_L/zs_bone02_qunbai_L/zs_bone03_qunbai_L/zs_bone04_qunbai_L/zs_bone05_qunbai_Lweiba
+        weight: 1
+      - path: Bip01/Bip01 Pelvis/zs_bone01_qunbai_R
+        weight: 1
+      - path: Bip01/Bip01 Pelvis/zs_bone01_qunbai_R/zs_bone02_qunbai_R
+        weight: 1
+      - path: Bip01/Bip01 Pelvis/zs_bone01_qunbai_R/zs_bone02_qunbai_R/zs_bone03_qunbai_R
+        weight: 1
+      - path: Bip01/Bip01 Pelvis/zs_bone01_qunbai_R/zs_bone02_qunbai_R/zs_bone03_qunbai_R/zs_bone04_qunbai_R
+        weight: 1
+      - path: Bip01/Bip01 Pelvis/zs_bone01_qunbai_R/zs_bone02_qunbai_R/zs_bone03_qunbai_R/zs_bone04_qunbai_R/zs_bone05_qunbai_Rweiba
+        weight: 1
+      - path: Bip01/ZS_wuqi_01
+        weight: 1
+      - path: Bip01/ZS_wuqi_01/WQ_ZS_Fu_HuangYuanJianQiao_001
+        weight: 1
+      - path: center
+        weight: 1
+      - path: foot
+        weight: 1
+      - path: head
+        weight: 1
+      - path: M_face_001
+        weight: 1
+      - path: M_head_002
+        weight: 1
+      - path: M_head_005
+        weight: 1
+      - path: M_HuangYuan_J_001
+        weight: 1
+      - path: M_HuangYuan_K_001
+        weight: 1
+      - path: M_HuangYuan_Y_001
+        weight: 1
+      - path: shot01
+        weight: 1
+      - path: shot02
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: run01
+      takeName: Take 001
+      firstFrame: 55
+      lastFrame: 75
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Bip01
+        weight: 1
+      - path: Bip01/Bip01 Pelvis
+        weight: 1
+      - path: Bip01/Bip01 Pelvis/Bip01 Spine
+        weight: 1
+      - path: Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 L Thigh
+        weight: 1
+      - path: Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 L Thigh/Bip01 L Calf
+        weight: 1
+      - path: Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 L Thigh/Bip01 L Calf/Bip01 L Foot
+        weight: 1
+      - path: Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 L Thigh/Bip01 L Calf/Bip01 L Foot/Bip01
+          L Toe0
+        weight: 1
+      - path: Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 L Thigh/Bip01 L Calf/Bip01 L Foot/Bip01
+          L Toe0/Bip001 L Toe0Nub
+        weight: 1
+      - path: Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 R Thigh
+        weight: 1
+      - path: Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 R Thigh/Bip01 R Calf
+        weight: 1
+      - path: Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 R Thigh/Bip01 R Calf/Bip01 R Foot
+        weight: 1
+      - path: Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 R Thigh/Bip01 R Calf/Bip01 R Foot/Bip01
+          R Toe0
+        weight: 1
+      - path: Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 R Thigh/Bip01 R Calf/Bip01 R Foot/Bip01
+          R Toe0/Bip001 R Toe0Nub
+        weight: 1
+      - path: Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1
+        weight: 1
+      - path: Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01 Neck
+        weight: 1
+      - path: Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01 Head
+        weight: 1
+      - path: Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01 Head/Bip001
+          HeadNub
+        weight: 1
+      - path: Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01 Head/FX_head_002_bone01_B
+        weight: 1
+      - path: Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01 Head/FX_head_002_bone01_B/FX_head_002_bone02_B
+        weight: 1
+      - path: Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01 Head/FX_head_002_bone01_B/FX_head_002_bone02_B/FX_head_002_bone03_B
+        weight: 1
+      - path: Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01 Head/FX_head_002_bone01_B/FX_head_002_bone02_B/FX_head_002_bone03_B/FX_head_002_bone01_Bweiba
+        weight: 1
+      - path: Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01 Head/FX_head_002_bone01_L
+        weight: 1
+      - path: Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01 Head/FX_head_002_bone01_L/FX_head_002_bone02_L
+        weight: 1
+      - path: Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01 Head/FX_head_002_bone01_L/FX_head_002_bone02_L/FX_head_002_bone03_L
+        weight: 1
+      - path: Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01 Head/FX_head_002_bone01_L/FX_head_002_bone02_L/FX_head_002_bone03_L/FX_head_002_bone04_L
+        weight: 1
+      - path: Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01 Head/FX_head_002_bone01_L/FX_head_002_bone02_L/FX_head_002_bone03_L/FX_head_002_bone04_L/FX_head_002_bone05_Lweiba
+        weight: 1
+      - path: Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01 Head/FX_head_002_bone01_R
+        weight: 1
+      - path: Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01 Head/FX_head_002_bone01_R/FX_head_002_bone02_R
+        weight: 1
+      - path: Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01 Head/FX_head_002_bone01_R/FX_head_002_bone02_R/FX_head_002_bone03_R
+        weight: 1
+      - path: Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01 Head/FX_head_002_bone01_R/FX_head_002_bone02_R/FX_head_002_bone03_R/FX_head_002_bone04_R
+        weight: 1
+      - path: Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01 Head/FX_head_002_bone01_R/FX_head_002_bone02_R/FX_head_002_bone03_R/FX_head_002_bone04_R/FX_head_002_bone05_Rweiba
+        weight: 1
+      - path: Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01 L Clavicle
+        weight: 1
+      - path: Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01 L Clavicle/Bip01
+          L UpperArm
+        weight: 1
+      - path: Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01 L Clavicle/Bip01
+          L UpperArm/Bip01 L Forearm
+        weight: 1
+      - path: Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01 L Clavicle/Bip01
+          L UpperArm/Bip01 L Forearm/Bip01 L Hand
+        weight: 1
+      - path: Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01 L Clavicle/Bip01
+          L UpperArm/Bip01 L Forearm/Bip01 L Hand/Bip01 L Finger0
+        weight: 1
+      - path: Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01 L Clavicle/Bip01
+          L UpperArm/Bip01 L Forearm/Bip01 L Hand/Bip01 L Finger0/Bip001 L Finger0Nub
+        weight: 1
+      - path: Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01 L Clavicle/Bip01
+          L UpperArm/Bip01 L Forearm/Bip01 L Hand/Bip01 L Finger1
+        weight: 1
+      - path: Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01 L Clavicle/Bip01
+          L UpperArm/Bip01 L Forearm/Bip01 L Hand/Bip01 L Finger1/Bip001 L Finger1Nub
+        weight: 1
+      - path: Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01 L Clavicle/Bip01
+          L UpperArm/Bip01 L Forearm/Bip01 L Hand/left
+        weight: 1
+      - path: Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01 L Clavicle/Bone01_Jian_L
+        weight: 1
+      - path: Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01 R Clavicle
+        weight: 1
+      - path: Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01 R Clavicle/Bip01
+          R UpperArm
+        weight: 1
+      - path: Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01 R Clavicle/Bip01
+          R UpperArm/Bip01 R Forearm
+        weight: 1
+      - path: Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01 R Clavicle/Bip01
+          R UpperArm/Bip01 R Forearm/Bip01 R Hand
+        weight: 1
+      - path: Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01 R Clavicle/Bip01
+          R UpperArm/Bip01 R Forearm/Bip01 R Hand/Bip01 R Finger0
+        weight: 1
+      - path: Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01 R Clavicle/Bip01
+          R UpperArm/Bip01 R Forearm/Bip01 R Hand/Bip01 R Finger0/Bip001 R Finger0Nub
+        weight: 1
+      - path: Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01 R Clavicle/Bip01
+          R UpperArm/Bip01 R Forearm/Bip01 R Hand/Bip01 R Finger1
+        weight: 1
+      - path: Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01 R Clavicle/Bip01
+          R UpperArm/Bip01 R Forearm/Bip01 R Hand/Bip01 R Finger1/Bip001 R Finger1Nub
+        weight: 1
+      - path: Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01 R Clavicle/Bip01
+          R UpperArm/Bip01 R Forearm/Bip01 R Hand/ZS_wuqi
+        weight: 1
+      - path: Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01 R Clavicle/Bip01
+          R UpperArm/Bip01 R Forearm/Bip01 R Hand/ZS_wuqi/right
+        weight: 1
+      - path: Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01 R Clavicle/Bip01
+          R UpperArm/Bip01 R Forearm/Bip01 R Hand/ZS_wuqi/WQ_ZS_Zhu_HuangYuanZhiDao_001
+        weight: 1
+      - path: Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01 R Clavicle/Bone01_Jian_R
+        weight: 1
+      - path: Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/cb
+        weight: 1
+      - path: Bip01/Bip01 Pelvis/zs_bone01_qunbai_B
+        weight: 1
+      - path: Bip01/Bip01 Pelvis/zs_bone01_qunbai_B/zs_bone02_qunbai_B
+        weight: 1
+      - path: Bip01/Bip01 Pelvis/zs_bone01_qunbai_B/zs_bone02_qunbai_B/zs_bone03_qunbai_B
+        weight: 1
+      - path: Bip01/Bip01 Pelvis/zs_bone01_qunbai_B/zs_bone02_qunbai_B/zs_bone03_qunbai_B/zs_bone04_qunbai_B
+        weight: 1
+      - path: Bip01/Bip01 Pelvis/zs_bone01_qunbai_B/zs_bone02_qunbai_B/zs_bone03_qunbai_B/zs_bone04_qunbai_B/zs_bone05_qunbai_Bweiba
+        weight: 1
+      - path: Bip01/Bip01 Pelvis/zs_bone01_qunbai_F
+        weight: 1
+      - path: Bip01/Bip01 Pelvis/zs_bone01_qunbai_F/zs_bone02_qunbai_F
+        weight: 1
+      - path: Bip01/Bip01 Pelvis/zs_bone01_qunbai_F/zs_bone02_qunbai_F/zs_bone03_qunbai_F
+        weight: 1
+      - path: Bip01/Bip01 Pelvis/zs_bone01_qunbai_F/zs_bone02_qunbai_F/zs_bone03_qunbai_F/zs_bone04_qunbai_F
+        weight: 1
+      - path: Bip01/Bip01 Pelvis/zs_bone01_qunbai_F/zs_bone02_qunbai_F/zs_bone03_qunbai_F/zs_bone04_qunbai_F/zs_bone05_qunbai_Fweiba
+        weight: 1
+      - path: Bip01/Bip01 Pelvis/zs_bone01_qunbai_L
+        weight: 1
+      - path: Bip01/Bip01 Pelvis/zs_bone01_qunbai_L/zs_bone02_qunbai_L
+        weight: 1
+      - path: Bip01/Bip01 Pelvis/zs_bone01_qunbai_L/zs_bone02_qunbai_L/zs_bone03_qunbai_L
+        weight: 1
+      - path: Bip01/Bip01 Pelvis/zs_bone01_qunbai_L/zs_bone02_qunbai_L/zs_bone03_qunbai_L/zs_bone04_qunbai_L
+        weight: 1
+      - path: Bip01/Bip01 Pelvis/zs_bone01_qunbai_L/zs_bone02_qunbai_L/zs_bone03_qunbai_L/zs_bone04_qunbai_L/zs_bone05_qunbai_Lweiba
+        weight: 1
+      - path: Bip01/Bip01 Pelvis/zs_bone01_qunbai_R
+        weight: 1
+      - path: Bip01/Bip01 Pelvis/zs_bone01_qunbai_R/zs_bone02_qunbai_R
+        weight: 1
+      - path: Bip01/Bip01 Pelvis/zs_bone01_qunbai_R/zs_bone02_qunbai_R/zs_bone03_qunbai_R
+        weight: 1
+      - path: Bip01/Bip01 Pelvis/zs_bone01_qunbai_R/zs_bone02_qunbai_R/zs_bone03_qunbai_R/zs_bone04_qunbai_R
+        weight: 1
+      - path: Bip01/Bip01 Pelvis/zs_bone01_qunbai_R/zs_bone02_qunbai_R/zs_bone03_qunbai_R/zs_bone04_qunbai_R/zs_bone05_qunbai_Rweiba
+        weight: 1
+      - path: Bip01/ZS_wuqi_01
+        weight: 1
+      - path: Bip01/ZS_wuqi_01/WQ_ZS_Fu_HuangYuanJianQiao_001
+        weight: 1
+      - path: center
+        weight: 1
+      - path: foot
+        weight: 1
+      - path: head
+        weight: 1
+      - path: M_face_001
+        weight: 1
+      - path: M_head_002
+        weight: 1
+      - path: M_head_005
+        weight: 1
+      - path: M_HuangYuan_J_001
+        weight: 1
+      - path: M_HuangYuan_K_001
+        weight: 1
+      - path: M_HuangYuan_Y_001
+        weight: 1
+      - path: shot01
+        weight: 1
+      - path: shot02
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: run03
+      takeName: Take 001
+      firstFrame: 2117
+      lastFrame: 2137
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Bip01
+        weight: 1
+      - path: Bip01/Bip01 Pelvis
+        weight: 1
+      - path: Bip01/Bip01 Pelvis/Bip01 Spine
+        weight: 1
+      - path: Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 L Thigh
+        weight: 1
+      - path: Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 L Thigh/Bip01 L Calf
+        weight: 1
+      - path: Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 L Thigh/Bip01 L Calf/Bip01 L Foot
+        weight: 1
+      - path: Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 L Thigh/Bip01 L Calf/Bip01 L Foot/Bip01
+          L Toe0
+        weight: 1
+      - path: Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 L Thigh/Bip01 L Calf/Bip01 L Foot/Bip01
+          L Toe0/Bip001 L Toe0Nub
+        weight: 1
+      - path: Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 R Thigh
+        weight: 1
+      - path: Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 R Thigh/Bip01 R Calf
+        weight: 1
+      - path: Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 R Thigh/Bip01 R Calf/Bip01 R Foot
+        weight: 1
+      - path: Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 R Thigh/Bip01 R Calf/Bip01 R Foot/Bip01
+          R Toe0
+        weight: 1
+      - path: Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 R Thigh/Bip01 R Calf/Bip01 R Foot/Bip01
+          R Toe0/Bip001 R Toe0Nub
+        weight: 1
+      - path: Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1
+        weight: 1
+      - path: Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01 Neck
+        weight: 1
+      - path: Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01 Head
+        weight: 1
+      - path: Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01 Head/Bip001
+          HeadNub
+        weight: 1
+      - path: Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01 Head/FX_head_002_bone01_B
+        weight: 1
+      - path: Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01 Head/FX_head_002_bone01_B/FX_head_002_bone02_B
+        weight: 1
+      - path: Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01 Head/FX_head_002_bone01_B/FX_head_002_bone02_B/FX_head_002_bone03_B
+        weight: 1
+      - path: Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01 Head/FX_head_002_bone01_B/FX_head_002_bone02_B/FX_head_002_bone03_B/FX_head_002_bone01_Bweiba
+        weight: 1
+      - path: Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01 Head/FX_head_002_bone01_L
+        weight: 1
+      - path: Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01 Head/FX_head_002_bone01_L/FX_head_002_bone02_L
+        weight: 1
+      - path: Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01 Head/FX_head_002_bone01_L/FX_head_002_bone02_L/FX_head_002_bone03_L
+        weight: 1
+      - path: Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01 Head/FX_head_002_bone01_L/FX_head_002_bone02_L/FX_head_002_bone03_L/FX_head_002_bone04_L
+        weight: 1
+      - path: Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01 Head/FX_head_002_bone01_L/FX_head_002_bone02_L/FX_head_002_bone03_L/FX_head_002_bone04_L/FX_head_002_bone05_Lweiba
+        weight: 1
+      - path: Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01 Head/FX_head_002_bone01_R
+        weight: 1
+      - path: Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01 Head/FX_head_002_bone01_R/FX_head_002_bone02_R
+        weight: 1
+      - path: Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01 Head/FX_head_002_bone01_R/FX_head_002_bone02_R/FX_head_002_bone03_R
+        weight: 1
+      - path: Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01 Head/FX_head_002_bone01_R/FX_head_002_bone02_R/FX_head_002_bone03_R/FX_head_002_bone04_R
+        weight: 1
+      - path: Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01 Head/FX_head_002_bone01_R/FX_head_002_bone02_R/FX_head_002_bone03_R/FX_head_002_bone04_R/FX_head_002_bone05_Rweiba
+        weight: 1
+      - path: Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01 L Clavicle
+        weight: 1
+      - path: Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01 L Clavicle/Bip01
+          L UpperArm
+        weight: 1
+      - path: Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01 L Clavicle/Bip01
+          L UpperArm/Bip01 L Forearm
+        weight: 1
+      - path: Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01 L Clavicle/Bip01
+          L UpperArm/Bip01 L Forearm/Bip01 L Hand
+        weight: 1
+      - path: Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01 L Clavicle/Bip01
+          L UpperArm/Bip01 L Forearm/Bip01 L Hand/Bip01 L Finger0
+        weight: 1
+      - path: Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01 L Clavicle/Bip01
+          L UpperArm/Bip01 L Forearm/Bip01 L Hand/Bip01 L Finger0/Bip001 L Finger0Nub
+        weight: 1
+      - path: Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01 L Clavicle/Bip01
+          L UpperArm/Bip01 L Forearm/Bip01 L Hand/Bip01 L Finger1
+        weight: 1
+      - path: Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01 L Clavicle/Bip01
+          L UpperArm/Bip01 L Forearm/Bip01 L Hand/Bip01 L Finger1/Bip001 L Finger1Nub
+        weight: 1
+      - path: Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01 L Clavicle/Bip01
+          L UpperArm/Bip01 L Forearm/Bip01 L Hand/left
+        weight: 1
+      - path: Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01 L Clavicle/Bone01_Jian_L
+        weight: 1
+      - path: Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01 R Clavicle
+        weight: 1
+      - path: Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01 R Clavicle/Bip01
+          R UpperArm
+        weight: 1
+      - path: Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01 R Clavicle/Bip01
+          R UpperArm/Bip01 R Forearm
+        weight: 1
+      - path: Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01 R Clavicle/Bip01
+          R UpperArm/Bip01 R Forearm/Bip01 R Hand
+        weight: 1
+      - path: Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01 R Clavicle/Bip01
+          R UpperArm/Bip01 R Forearm/Bip01 R Hand/Bip01 R Finger0
+        weight: 1
+      - path: Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01 R Clavicle/Bip01
+          R UpperArm/Bip01 R Forearm/Bip01 R Hand/Bip01 R Finger0/Bip001 R Finger0Nub
+        weight: 1
+      - path: Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01 R Clavicle/Bip01
+          R UpperArm/Bip01 R Forearm/Bip01 R Hand/Bip01 R Finger1
+        weight: 1
+      - path: Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01 R Clavicle/Bip01
+          R UpperArm/Bip01 R Forearm/Bip01 R Hand/Bip01 R Finger1/Bip001 R Finger1Nub
+        weight: 1
+      - path: Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01 R Clavicle/Bip01
+          R UpperArm/Bip01 R Forearm/Bip01 R Hand/ZS_wuqi
+        weight: 1
+      - path: Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01 R Clavicle/Bip01
+          R UpperArm/Bip01 R Forearm/Bip01 R Hand/ZS_wuqi/right
+        weight: 1
+      - path: Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01 R Clavicle/Bip01
+          R UpperArm/Bip01 R Forearm/Bip01 R Hand/ZS_wuqi/WQ_ZS_Zhu_HuangYuanZhiDao_001
+        weight: 1
+      - path: Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01 R Clavicle/Bone01_Jian_R
+        weight: 1
+      - path: Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/cb
+        weight: 1
+      - path: Bip01/Bip01 Pelvis/zs_bone01_qunbai_B
+        weight: 1
+      - path: Bip01/Bip01 Pelvis/zs_bone01_qunbai_B/zs_bone02_qunbai_B
+        weight: 1
+      - path: Bip01/Bip01 Pelvis/zs_bone01_qunbai_B/zs_bone02_qunbai_B/zs_bone03_qunbai_B
+        weight: 1
+      - path: Bip01/Bip01 Pelvis/zs_bone01_qunbai_B/zs_bone02_qunbai_B/zs_bone03_qunbai_B/zs_bone04_qunbai_B
+        weight: 1
+      - path: Bip01/Bip01 Pelvis/zs_bone01_qunbai_B/zs_bone02_qunbai_B/zs_bone03_qunbai_B/zs_bone04_qunbai_B/zs_bone05_qunbai_Bweiba
+        weight: 1
+      - path: Bip01/Bip01 Pelvis/zs_bone01_qunbai_F
+        weight: 1
+      - path: Bip01/Bip01 Pelvis/zs_bone01_qunbai_F/zs_bone02_qunbai_F
+        weight: 1
+      - path: Bip01/Bip01 Pelvis/zs_bone01_qunbai_F/zs_bone02_qunbai_F/zs_bone03_qunbai_F
+        weight: 1
+      - path: Bip01/Bip01 Pelvis/zs_bone01_qunbai_F/zs_bone02_qunbai_F/zs_bone03_qunbai_F/zs_bone04_qunbai_F
+        weight: 1
+      - path: Bip01/Bip01 Pelvis/zs_bone01_qunbai_F/zs_bone02_qunbai_F/zs_bone03_qunbai_F/zs_bone04_qunbai_F/zs_bone05_qunbai_Fweiba
+        weight: 1
+      - path: Bip01/Bip01 Pelvis/zs_bone01_qunbai_L
+        weight: 1
+      - path: Bip01/Bip01 Pelvis/zs_bone01_qunbai_L/zs_bone02_qunbai_L
+        weight: 1
+      - path: Bip01/Bip01 Pelvis/zs_bone01_qunbai_L/zs_bone02_qunbai_L/zs_bone03_qunbai_L
+        weight: 1
+      - path: Bip01/Bip01 Pelvis/zs_bone01_qunbai_L/zs_bone02_qunbai_L/zs_bone03_qunbai_L/zs_bone04_qunbai_L
+        weight: 1
+      - path: Bip01/Bip01 Pelvis/zs_bone01_qunbai_L/zs_bone02_qunbai_L/zs_bone03_qunbai_L/zs_bone04_qunbai_L/zs_bone05_qunbai_Lweiba
+        weight: 1
+      - path: Bip01/Bip01 Pelvis/zs_bone01_qunbai_R
+        weight: 1
+      - path: Bip01/Bip01 Pelvis/zs_bone01_qunbai_R/zs_bone02_qunbai_R
+        weight: 1
+      - path: Bip01/Bip01 Pelvis/zs_bone01_qunbai_R/zs_bone02_qunbai_R/zs_bone03_qunbai_R
+        weight: 1
+      - path: Bip01/Bip01 Pelvis/zs_bone01_qunbai_R/zs_bone02_qunbai_R/zs_bone03_qunbai_R/zs_bone04_qunbai_R
+        weight: 1
+      - path: Bip01/Bip01 Pelvis/zs_bone01_qunbai_R/zs_bone02_qunbai_R/zs_bone03_qunbai_R/zs_bone04_qunbai_R/zs_bone05_qunbai_Rweiba
+        weight: 1
+      - path: Bip01/ZS_wuqi_01
+        weight: 1
+      - path: Bip01/ZS_wuqi_01/WQ_ZS_Fu_HuangYuanJianQiao_001
+        weight: 1
+      - path: center
+        weight: 1
+      - path: foot
+        weight: 1
+      - path: head
+        weight: 1
+      - path: M_face_001
+        weight: 1
+      - path: M_head_002
+        weight: 1
+      - path: M_head_005
+        weight: 1
+      - path: M_HuangYuan_J_001
+        weight: 1
+      - path: M_HuangYuan_K_001
+        weight: 1
+      - path: M_HuangYuan_Y_001
+        weight: 1
+      - path: shot01
+        weight: 1
+      - path: shot02
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

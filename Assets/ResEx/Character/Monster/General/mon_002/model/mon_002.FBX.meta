@@ -1,0 +1,844 @@
+fileFormatVersion: 2
+guid: 069f93cd18411dd4f8a7e06c85230877
+timeCreated: 1522306433
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Bip01
+    100002: Bip01 Head
+    100004: Bip01 L Calf
+    100006: Bip01 L Clavicle
+    100008: Bip01 L Foot
+    100010: Bip01 L Forearm
+    100012: Bip01 L Hand
+    100014: Bip01 L HorseLink
+    100016: Bip01 L Thigh
+    100018: Bip01 L Toe0
+    100020: Bip01 L Toe0Nub
+    100022: Bip01 L UpperArm
+    100024: Bip01 Neck
+    100026: Bip01 Pelvis
+    100028: Bip01 Ponytail1
+    100030: Bip01 R Calf
+    100032: Bip01 R Clavicle
+    100034: Bip01 R Foot
+    100036: Bip01 R Forearm
+    100038: Bip01 R Hand
+    100040: Bip01 R HorseLink
+    100042: Bip01 R Thigh
+    100044: Bip01 R Toe0
+    100046: Bip01 R Toe0Nub
+    100048: Bip01 R UpperArm
+    100050: Bip01 Spine
+    100052: Bip01 Spine1
+    100054: Bone016
+    100056: Bone016_wb
+    100058: Bone017
+    100060: Bone017_wb
+    100062: Bone018
+    100064: Bone018_wb
+    100066: Bone14
+    100068: Bone15
+    100070: BOTTOM
+    100072: CHEST
+    100074: LEFT_WEAPON
+    100076: MIDDLE
+    100078: //RootNode
+    100080: mon_002
+    100082: RIGHT_WEAPON
+    100084: root
+    100086: TOP
+    400000: Bip01
+    400002: Bip01 Head
+    400004: Bip01 L Calf
+    400006: Bip01 L Clavicle
+    400008: Bip01 L Foot
+    400010: Bip01 L Forearm
+    400012: Bip01 L Hand
+    400014: Bip01 L HorseLink
+    400016: Bip01 L Thigh
+    400018: Bip01 L Toe0
+    400020: Bip01 L Toe0Nub
+    400022: Bip01 L UpperArm
+    400024: Bip01 Neck
+    400026: Bip01 Pelvis
+    400028: Bip01 Ponytail1
+    400030: Bip01 R Calf
+    400032: Bip01 R Clavicle
+    400034: Bip01 R Foot
+    400036: Bip01 R Forearm
+    400038: Bip01 R Hand
+    400040: Bip01 R HorseLink
+    400042: Bip01 R Thigh
+    400044: Bip01 R Toe0
+    400046: Bip01 R Toe0Nub
+    400048: Bip01 R UpperArm
+    400050: Bip01 Spine
+    400052: Bip01 Spine1
+    400054: Bone016
+    400056: Bone016_wb
+    400058: Bone017
+    400060: Bone017_wb
+    400062: Bone018
+    400064: Bone018_wb
+    400066: Bone14
+    400068: Bone15
+    400070: BOTTOM
+    400072: CHEST
+    400074: LEFT_WEAPON
+    400076: MIDDLE
+    400078: mon_002
+    400080: //RootNode
+    400082: RIGHT_WEAPON
+    400084: root
+    400086: TOP
+    4300000: mon_002
+    7400000: attack01
+    7400002: idle01
+    7400004: run01
+    7400006: die01
+    7400008: hit02
+    9500000: //RootNode
+    11100000: //RootNode
+    13700000: mon_002
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: attack01
+      takeName: Take 001
+      firstFrame: 105
+      lastFrame: 129
+      wrapMode: 1
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: mon_002
+        weight: 1
+      - path: root
+        weight: 1
+      - path: root/Bip01
+        weight: 1
+      - path: root/Bip01/Bip01 Pelvis
+        weight: 1
+      - path: root/Bip01/Bip01 Pelvis/Bip01 Spine
+        weight: 1
+      - path: root/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 L Thigh
+        weight: 1
+      - path: root/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 L Thigh/Bip01 L Calf
+        weight: 1
+      - path: root/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 L Thigh/Bip01 L Calf/Bip01
+          L HorseLink
+        weight: 1
+      - path: root/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 L Thigh/Bip01 L Calf/Bip01
+          L HorseLink/Bip01 L Foot
+        weight: 1
+      - path: root/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 L Thigh/Bip01 L Calf/Bip01
+          L HorseLink/Bip01 L Foot/Bip01 L Toe0
+        weight: 1
+      - path: root/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 L Thigh/Bip01 L Calf/Bip01
+          L HorseLink/Bip01 L Foot/Bip01 L Toe0/Bip01 L Toe0Nub
+        weight: 1
+      - path: root/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 R Thigh
+        weight: 1
+      - path: root/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 R Thigh/Bip01 R Calf
+        weight: 1
+      - path: root/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 R Thigh/Bip01 R Calf/Bip01
+          R HorseLink
+        weight: 1
+      - path: root/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 R Thigh/Bip01 R Calf/Bip01
+          R HorseLink/Bip01 R Foot
+        weight: 1
+      - path: root/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 R Thigh/Bip01 R Calf/Bip01
+          R HorseLink/Bip01 R Foot/Bip01 R Toe0
+        weight: 1
+      - path: root/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 R Thigh/Bip01 R Calf/Bip01
+          R HorseLink/Bip01 R Foot/Bip01 R Toe0/Bip01 R Toe0Nub
+        weight: 1
+      - path: root/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1
+        weight: 1
+      - path: root/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01 Neck
+        weight: 1
+      - path: root/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01 Head
+        weight: 1
+      - path: root/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01 Head/Bip01
+          Ponytail1
+        weight: 1
+      - path: root/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01 Head/Bone14
+        weight: 1
+      - path: root/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01 Head/Bone15
+        weight: 1
+      - path: root/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01 Head/LEFT_WEAPON
+        weight: 1
+      - path: root/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01 Head/TOP
+        weight: 1
+      - path: root/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01 L
+          Clavicle
+        weight: 1
+      - path: root/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01 L
+          Clavicle/Bip01 L UpperArm
+        weight: 1
+      - path: root/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01 L
+          Clavicle/Bip01 L UpperArm/Bip01 L Forearm
+        weight: 1
+      - path: root/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01 L
+          Clavicle/Bip01 L UpperArm/Bip01 L Forearm/Bip01 L Hand
+        weight: 1
+      - path: root/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01 R
+          Clavicle
+        weight: 1
+      - path: root/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01 R
+          Clavicle/Bip01 R UpperArm
+        weight: 1
+      - path: root/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01 R
+          Clavicle/Bip01 R UpperArm/Bip01 R Forearm
+        weight: 1
+      - path: root/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01 R
+          Clavicle/Bip01 R UpperArm/Bip01 R Forearm/Bip01 R Hand
+        weight: 1
+      - path: root/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01 R
+          Clavicle/Bip01 R UpperArm/Bip01 R Forearm/Bip01 R Hand/RIGHT_WEAPON
+        weight: 1
+      - path: root/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bone016
+        weight: 1
+      - path: root/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bone016/Bone017
+        weight: 1
+      - path: root/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bone016/Bone017/Bone018
+        weight: 1
+      - path: root/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/CHEST
+        weight: 1
+      - path: root/Bip01/Bip01 Pelvis/Bip01 Spine/MIDDLE
+        weight: 1
+      - path: root/Bip01/Bip01 Pelvis/Bone016_wb
+        weight: 1
+      - path: root/Bip01/Bip01 Pelvis/Bone016_wb/Bone017_wb
+        weight: 1
+      - path: root/Bip01/Bip01 Pelvis/Bone016_wb/Bone017_wb/Bone018_wb
+        weight: 1
+      - path: root/BOTTOM
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: idle01
+      takeName: Take 001
+      firstFrame: 3
+      lastFrame: 43
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: mon_002
+        weight: 1
+      - path: root
+        weight: 1
+      - path: root/Bip01
+        weight: 1
+      - path: root/Bip01/Bip01 Pelvis
+        weight: 1
+      - path: root/Bip01/Bip01 Pelvis/Bip01 Spine
+        weight: 1
+      - path: root/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 L Thigh
+        weight: 1
+      - path: root/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 L Thigh/Bip01 L Calf
+        weight: 1
+      - path: root/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 L Thigh/Bip01 L Calf/Bip01
+          L HorseLink
+        weight: 1
+      - path: root/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 L Thigh/Bip01 L Calf/Bip01
+          L HorseLink/Bip01 L Foot
+        weight: 1
+      - path: root/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 L Thigh/Bip01 L Calf/Bip01
+          L HorseLink/Bip01 L Foot/Bip01 L Toe0
+        weight: 1
+      - path: root/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 L Thigh/Bip01 L Calf/Bip01
+          L HorseLink/Bip01 L Foot/Bip01 L Toe0/Bip01 L Toe0Nub
+        weight: 1
+      - path: root/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 R Thigh
+        weight: 1
+      - path: root/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 R Thigh/Bip01 R Calf
+        weight: 1
+      - path: root/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 R Thigh/Bip01 R Calf/Bip01
+          R HorseLink
+        weight: 1
+      - path: root/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 R Thigh/Bip01 R Calf/Bip01
+          R HorseLink/Bip01 R Foot
+        weight: 1
+      - path: root/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 R Thigh/Bip01 R Calf/Bip01
+          R HorseLink/Bip01 R Foot/Bip01 R Toe0
+        weight: 1
+      - path: root/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 R Thigh/Bip01 R Calf/Bip01
+          R HorseLink/Bip01 R Foot/Bip01 R Toe0/Bip01 R Toe0Nub
+        weight: 1
+      - path: root/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1
+        weight: 1
+      - path: root/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01 Neck
+        weight: 1
+      - path: root/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01 Head
+        weight: 1
+      - path: root/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01 Head/Bip01
+          Ponytail1
+        weight: 1
+      - path: root/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01 Head/Bone14
+        weight: 1
+      - path: root/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01 Head/Bone15
+        weight: 1
+      - path: root/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01 Head/LEFT_WEAPON
+        weight: 1
+      - path: root/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01 Head/TOP
+        weight: 1
+      - path: root/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01 L
+          Clavicle
+        weight: 1
+      - path: root/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01 L
+          Clavicle/Bip01 L UpperArm
+        weight: 1
+      - path: root/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01 L
+          Clavicle/Bip01 L UpperArm/Bip01 L Forearm
+        weight: 1
+      - path: root/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01 L
+          Clavicle/Bip01 L UpperArm/Bip01 L Forearm/Bip01 L Hand
+        weight: 1
+      - path: root/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01 R
+          Clavicle
+        weight: 1
+      - path: root/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01 R
+          Clavicle/Bip01 R UpperArm
+        weight: 1
+      - path: root/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01 R
+          Clavicle/Bip01 R UpperArm/Bip01 R Forearm
+        weight: 1
+      - path: root/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01 R
+          Clavicle/Bip01 R UpperArm/Bip01 R Forearm/Bip01 R Hand
+        weight: 1
+      - path: root/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01 R
+          Clavicle/Bip01 R UpperArm/Bip01 R Forearm/Bip01 R Hand/RIGHT_WEAPON
+        weight: 1
+      - path: root/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bone016
+        weight: 1
+      - path: root/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bone016/Bone017
+        weight: 1
+      - path: root/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bone016/Bone017/Bone018
+        weight: 1
+      - path: root/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/CHEST
+        weight: 1
+      - path: root/Bip01/Bip01 Pelvis/Bip01 Spine/MIDDLE
+        weight: 1
+      - path: root/Bip01/Bip01 Pelvis/Bone016_wb
+        weight: 1
+      - path: root/Bip01/Bip01 Pelvis/Bone016_wb/Bone017_wb
+        weight: 1
+      - path: root/Bip01/Bip01 Pelvis/Bone016_wb/Bone017_wb/Bone018_wb
+        weight: 1
+      - path: root/BOTTOM
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: run01
+      takeName: Take 001
+      firstFrame: 85
+      lastFrame: 100
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: mon_002
+        weight: 1
+      - path: root
+        weight: 1
+      - path: root/Bip01
+        weight: 1
+      - path: root/Bip01/Bip01 Pelvis
+        weight: 1
+      - path: root/Bip01/Bip01 Pelvis/Bip01 Spine
+        weight: 1
+      - path: root/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 L Thigh
+        weight: 1
+      - path: root/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 L Thigh/Bip01 L Calf
+        weight: 1
+      - path: root/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 L Thigh/Bip01 L Calf/Bip01
+          L HorseLink
+        weight: 1
+      - path: root/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 L Thigh/Bip01 L Calf/Bip01
+          L HorseLink/Bip01 L Foot
+        weight: 1
+      - path: root/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 L Thigh/Bip01 L Calf/Bip01
+          L HorseLink/Bip01 L Foot/Bip01 L Toe0
+        weight: 1
+      - path: root/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 L Thigh/Bip01 L Calf/Bip01
+          L HorseLink/Bip01 L Foot/Bip01 L Toe0/Bip01 L Toe0Nub
+        weight: 1
+      - path: root/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 R Thigh
+        weight: 1
+      - path: root/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 R Thigh/Bip01 R Calf
+        weight: 1
+      - path: root/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 R Thigh/Bip01 R Calf/Bip01
+          R HorseLink
+        weight: 1
+      - path: root/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 R Thigh/Bip01 R Calf/Bip01
+          R HorseLink/Bip01 R Foot
+        weight: 1
+      - path: root/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 R Thigh/Bip01 R Calf/Bip01
+          R HorseLink/Bip01 R Foot/Bip01 R Toe0
+        weight: 1
+      - path: root/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 R Thigh/Bip01 R Calf/Bip01
+          R HorseLink/Bip01 R Foot/Bip01 R Toe0/Bip01 R Toe0Nub
+        weight: 1
+      - path: root/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1
+        weight: 1
+      - path: root/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01 Neck
+        weight: 1
+      - path: root/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01 Head
+        weight: 1
+      - path: root/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01 Head/Bip01
+          Ponytail1
+        weight: 1
+      - path: root/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01 Head/Bone14
+        weight: 1
+      - path: root/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01 Head/Bone15
+        weight: 1
+      - path: root/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01 Head/LEFT_WEAPON
+        weight: 1
+      - path: root/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01 Head/TOP
+        weight: 1
+      - path: root/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01 L
+          Clavicle
+        weight: 1
+      - path: root/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01 L
+          Clavicle/Bip01 L UpperArm
+        weight: 1
+      - path: root/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01 L
+          Clavicle/Bip01 L UpperArm/Bip01 L Forearm
+        weight: 1
+      - path: root/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01 L
+          Clavicle/Bip01 L UpperArm/Bip01 L Forearm/Bip01 L Hand
+        weight: 1
+      - path: root/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01 R
+          Clavicle
+        weight: 1
+      - path: root/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01 R
+          Clavicle/Bip01 R UpperArm
+        weight: 1
+      - path: root/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01 R
+          Clavicle/Bip01 R UpperArm/Bip01 R Forearm
+        weight: 1
+      - path: root/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01 R
+          Clavicle/Bip01 R UpperArm/Bip01 R Forearm/Bip01 R Hand
+        weight: 1
+      - path: root/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01 R
+          Clavicle/Bip01 R UpperArm/Bip01 R Forearm/Bip01 R Hand/RIGHT_WEAPON
+        weight: 1
+      - path: root/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bone016
+        weight: 1
+      - path: root/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bone016/Bone017
+        weight: 1
+      - path: root/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bone016/Bone017/Bone018
+        weight: 1
+      - path: root/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/CHEST
+        weight: 1
+      - path: root/Bip01/Bip01 Pelvis/Bip01 Spine/MIDDLE
+        weight: 1
+      - path: root/Bip01/Bip01 Pelvis/Bone016_wb
+        weight: 1
+      - path: root/Bip01/Bip01 Pelvis/Bone016_wb/Bone017_wb
+        weight: 1
+      - path: root/Bip01/Bip01 Pelvis/Bone016_wb/Bone017_wb/Bone018_wb
+        weight: 1
+      - path: root/BOTTOM
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: die01
+      takeName: Take 001
+      firstFrame: 139
+      lastFrame: 160
+      wrapMode: 8
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: mon_002
+        weight: 1
+      - path: root
+        weight: 1
+      - path: root/Bip01
+        weight: 1
+      - path: root/Bip01/Bip01 Pelvis
+        weight: 1
+      - path: root/Bip01/Bip01 Pelvis/Bip01 Spine
+        weight: 1
+      - path: root/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 L Thigh
+        weight: 1
+      - path: root/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 L Thigh/Bip01 L Calf
+        weight: 1
+      - path: root/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 L Thigh/Bip01 L Calf/Bip01
+          L HorseLink
+        weight: 1
+      - path: root/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 L Thigh/Bip01 L Calf/Bip01
+          L HorseLink/Bip01 L Foot
+        weight: 1
+      - path: root/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 L Thigh/Bip01 L Calf/Bip01
+          L HorseLink/Bip01 L Foot/Bip01 L Toe0
+        weight: 1
+      - path: root/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 L Thigh/Bip01 L Calf/Bip01
+          L HorseLink/Bip01 L Foot/Bip01 L Toe0/Bip01 L Toe0Nub
+        weight: 1
+      - path: root/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 R Thigh
+        weight: 1
+      - path: root/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 R Thigh/Bip01 R Calf
+        weight: 1
+      - path: root/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 R Thigh/Bip01 R Calf/Bip01
+          R HorseLink
+        weight: 1
+      - path: root/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 R Thigh/Bip01 R Calf/Bip01
+          R HorseLink/Bip01 R Foot
+        weight: 1
+      - path: root/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 R Thigh/Bip01 R Calf/Bip01
+          R HorseLink/Bip01 R Foot/Bip01 R Toe0
+        weight: 1
+      - path: root/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 R Thigh/Bip01 R Calf/Bip01
+          R HorseLink/Bip01 R Foot/Bip01 R Toe0/Bip01 R Toe0Nub
+        weight: 1
+      - path: root/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1
+        weight: 1
+      - path: root/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01 Neck
+        weight: 1
+      - path: root/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01 Head
+        weight: 1
+      - path: root/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01 Head/Bip01
+          Ponytail1
+        weight: 1
+      - path: root/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01 Head/Bone14
+        weight: 1
+      - path: root/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01 Head/Bone15
+        weight: 1
+      - path: root/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01 Head/LEFT_WEAPON
+        weight: 1
+      - path: root/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01 Head/TOP
+        weight: 1
+      - path: root/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01 L
+          Clavicle
+        weight: 1
+      - path: root/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01 L
+          Clavicle/Bip01 L UpperArm
+        weight: 1
+      - path: root/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01 L
+          Clavicle/Bip01 L UpperArm/Bip01 L Forearm
+        weight: 1
+      - path: root/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01 L
+          Clavicle/Bip01 L UpperArm/Bip01 L Forearm/Bip01 L Hand
+        weight: 1
+      - path: root/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01 R
+          Clavicle
+        weight: 1
+      - path: root/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01 R
+          Clavicle/Bip01 R UpperArm
+        weight: 1
+      - path: root/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01 R
+          Clavicle/Bip01 R UpperArm/Bip01 R Forearm
+        weight: 1
+      - path: root/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01 R
+          Clavicle/Bip01 R UpperArm/Bip01 R Forearm/Bip01 R Hand
+        weight: 1
+      - path: root/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01 R
+          Clavicle/Bip01 R UpperArm/Bip01 R Forearm/Bip01 R Hand/RIGHT_WEAPON
+        weight: 1
+      - path: root/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bone016
+        weight: 1
+      - path: root/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bone016/Bone017
+        weight: 1
+      - path: root/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bone016/Bone017/Bone018
+        weight: 1
+      - path: root/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/CHEST
+        weight: 1
+      - path: root/Bip01/Bip01 Pelvis/Bip01 Spine/MIDDLE
+        weight: 1
+      - path: root/Bip01/Bip01 Pelvis/Bone016_wb
+        weight: 1
+      - path: root/Bip01/Bip01 Pelvis/Bone016_wb/Bone017_wb
+        weight: 1
+      - path: root/Bip01/Bip01 Pelvis/Bone016_wb/Bone017_wb/Bone018_wb
+        weight: 1
+      - path: root/BOTTOM
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: hit02
+      takeName: Take 001
+      firstFrame: 47
+      lastFrame: 80
+      wrapMode: 1
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: mon_002
+        weight: 1
+      - path: root
+        weight: 1
+      - path: root/Bip01
+        weight: 1
+      - path: root/Bip01/Bip01 Pelvis
+        weight: 1
+      - path: root/Bip01/Bip01 Pelvis/Bip01 Spine
+        weight: 1
+      - path: root/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 L Thigh
+        weight: 1
+      - path: root/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 L Thigh/Bip01 L Calf
+        weight: 1
+      - path: root/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 L Thigh/Bip01 L Calf/Bip01
+          L HorseLink
+        weight: 1
+      - path: root/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 L Thigh/Bip01 L Calf/Bip01
+          L HorseLink/Bip01 L Foot
+        weight: 1
+      - path: root/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 L Thigh/Bip01 L Calf/Bip01
+          L HorseLink/Bip01 L Foot/Bip01 L Toe0
+        weight: 1
+      - path: root/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 L Thigh/Bip01 L Calf/Bip01
+          L HorseLink/Bip01 L Foot/Bip01 L Toe0/Bip01 L Toe0Nub
+        weight: 1
+      - path: root/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 R Thigh
+        weight: 1
+      - path: root/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 R Thigh/Bip01 R Calf
+        weight: 1
+      - path: root/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 R Thigh/Bip01 R Calf/Bip01
+          R HorseLink
+        weight: 1
+      - path: root/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 R Thigh/Bip01 R Calf/Bip01
+          R HorseLink/Bip01 R Foot
+        weight: 1
+      - path: root/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 R Thigh/Bip01 R Calf/Bip01
+          R HorseLink/Bip01 R Foot/Bip01 R Toe0
+        weight: 1
+      - path: root/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 R Thigh/Bip01 R Calf/Bip01
+          R HorseLink/Bip01 R Foot/Bip01 R Toe0/Bip01 R Toe0Nub
+        weight: 1
+      - path: root/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1
+        weight: 1
+      - path: root/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01 Neck
+        weight: 1
+      - path: root/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01 Head
+        weight: 1
+      - path: root/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01 Head/Bip01
+          Ponytail1
+        weight: 1
+      - path: root/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01 Head/Bone14
+        weight: 1
+      - path: root/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01 Head/Bone15
+        weight: 1
+      - path: root/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01 Head/LEFT_WEAPON
+        weight: 1
+      - path: root/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01 Head/TOP
+        weight: 1
+      - path: root/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01 L
+          Clavicle
+        weight: 1
+      - path: root/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01 L
+          Clavicle/Bip01 L UpperArm
+        weight: 1
+      - path: root/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01 L
+          Clavicle/Bip01 L UpperArm/Bip01 L Forearm
+        weight: 1
+      - path: root/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01 L
+          Clavicle/Bip01 L UpperArm/Bip01 L Forearm/Bip01 L Hand
+        weight: 1
+      - path: root/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01 R
+          Clavicle
+        weight: 1
+      - path: root/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01 R
+          Clavicle/Bip01 R UpperArm
+        weight: 1
+      - path: root/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01 R
+          Clavicle/Bip01 R UpperArm/Bip01 R Forearm
+        weight: 1
+      - path: root/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01 R
+          Clavicle/Bip01 R UpperArm/Bip01 R Forearm/Bip01 R Hand
+        weight: 1
+      - path: root/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01 R
+          Clavicle/Bip01 R UpperArm/Bip01 R Forearm/Bip01 R Hand/RIGHT_WEAPON
+        weight: 1
+      - path: root/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bone016
+        weight: 1
+      - path: root/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bone016/Bone017
+        weight: 1
+      - path: root/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/Bone016/Bone017/Bone018
+        weight: 1
+      - path: root/Bip01/Bip01 Pelvis/Bip01 Spine/Bip01 Spine1/CHEST
+        weight: 1
+      - path: root/Bip01/Bip01 Pelvis/Bip01 Spine/MIDDLE
+        weight: 1
+      - path: root/Bip01/Bip01 Pelvis/Bone016_wb
+        weight: 1
+      - path: root/Bip01/Bip01 Pelvis/Bone016_wb/Bone017_wb
+        weight: 1
+      - path: root/Bip01/Bip01 Pelvis/Bone016_wb/Bone017_wb/Bone018_wb
+        weight: 1
+      - path: root/BOTTOM
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

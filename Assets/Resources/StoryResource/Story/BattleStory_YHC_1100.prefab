@@ -1,0 +1,4563 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &100100000
+Prefab:
+  m_ObjectHideFlags: 1
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications: []
+    m_RemovedComponents: []
+  m_ParentPrefab: {fileID: 0}
+  m_RootGameObject: {fileID: 1399987053179638}
+  m_IsPrefabParent: 1
+--- !u!1 &1051753320150726
+GameObject:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 5
+  m_Component:
+  - component: {fileID: 4546303569422136}
+  - component: {fileID: 114041119820253104}
+  - component: {fileID: 114692263200341874}
+  m_Layer: 0
+  m_Name: FunctionData1
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!1 &1141559139493820
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 5
+  m_Component:
+  - component: {fileID: 4325523355111888}
+  - component: {fileID: 114718801732311306}
+  - component: {fileID: 114106698329871814}
+  - component: {fileID: 65078065244493664}
+  m_Layer: 0
+  m_Name: 3
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!1 &1151694836367340
+GameObject:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 5
+  m_Component:
+  - component: {fileID: 4640641174624468}
+  - component: {fileID: 114999834910791424}
+  - component: {fileID: 114331340800459756}
+  m_Layer: 0
+  m_Name: FunctionData3
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!1 &1207818030938620
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 5
+  m_Component:
+  - component: {fileID: 4333088035909066}
+  - component: {fileID: 114524578025199268}
+  - component: {fileID: 114199080291915788}
+  - component: {fileID: 65514271035923818}
+  m_Layer: 0
+  m_Name: 1
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!1 &1370472758186402
+GameObject:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 5
+  m_Component:
+  - component: {fileID: 4557139470682348}
+  - component: {fileID: 114405113822378374}
+  - component: {fileID: 114104111186595010}
+  m_Layer: 0
+  m_Name: FunctionData5
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!1 &1399987053179638
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 5
+  m_Component:
+  - component: {fileID: 4593510053980978}
+  - component: {fileID: 114597489389404702}
+  - component: {fileID: 114853202927752248}
+  m_Layer: 0
+  m_Name: BattleStory_YHC_1100
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!1 &1582861509365104
+GameObject:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 5
+  m_Component:
+  - component: {fileID: 4993055030722544}
+  - component: {fileID: 114768298124819672}
+  - component: {fileID: 114553125717625556}
+  m_Layer: 0
+  m_Name: FunctionData1
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!1 &1609428962682938
+GameObject:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 5
+  m_Component:
+  - component: {fileID: 4271206195735446}
+  - component: {fileID: 114327942499994946}
+  - component: {fileID: 114632675349962282}
+  m_Layer: 0
+  m_Name: FunctionData2
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!1 &1621485373406928
+GameObject:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 5
+  m_Component:
+  - component: {fileID: 4508859908861262}
+  - component: {fileID: 114625987716240776}
+  - component: {fileID: 114797427751519252}
+  m_Layer: 0
+  m_Name: FunctionData4
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!1 &1715547959428022
+GameObject:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 5
+  m_Component:
+  - component: {fileID: 4626044854970924}
+  - component: {fileID: 114277132626283664}
+  - component: {fileID: 114050133569476868}
+  m_Layer: 0
+  m_Name: FunctionData3
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!1 &1779388035437040
+GameObject:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 5
+  m_Component:
+  - component: {fileID: 4204793747395104}
+  - component: {fileID: 114762414971948238}
+  - component: {fileID: 114382338245147858}
+  m_Layer: 0
+  m_Name: FunctionData2
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!1 &1847255381495062
+GameObject:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 5
+  m_Component:
+  - component: {fileID: 4542814953411620}
+  - component: {fileID: 114310156156343728}
+  - component: {fileID: 114054286257204228}
+  m_Layer: 0
+  m_Name: FunctionData1
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!1 &1922342959749050
+GameObject:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 5
+  m_Component:
+  - component: {fileID: 4754702289375552}
+  - component: {fileID: 114077211466800192}
+  - component: {fileID: 114203078095162184}
+  m_Layer: 0
+  m_Name: FunctionData4
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!1 &1947570038893392
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 5
+  m_Component:
+  - component: {fileID: 4525035706139410}
+  - component: {fileID: 114850165391091254}
+  - component: {fileID: 114996940520666146}
+  - component: {fileID: 65926661520456836}
+  m_Layer: 0
+  m_Name: 2
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4204793747395104
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1779388035437040}
+  m_LocalRotation: {x: 1.2597547e-15, y: -0.00000008940696, z: -7.947888e-16, w: 1}
+  m_LocalPosition: {x: 1312.8094, y: -0.053329468, z: -160.0727}
+  m_LocalScale: {x: 3.247176, y: 1, z: 3.2113476}
+  m_Children: []
+  m_Father: {fileID: 4325523355111888}
+  m_RootOrder: 1
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!4 &4271206195735446
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1609428962682938}
+  m_LocalRotation: {x: 1.2597547e-15, y: -0.00000008940696, z: -7.947888e-16, w: 1}
+  m_LocalPosition: {x: 1312.8096, y: -0.053329468, z: -160.07271}
+  m_LocalScale: {x: 3.247175, y: 1, z: 3.211345}
+  m_Children: []
+  m_Father: {fileID: 4333088035909066}
+  m_RootOrder: 1
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!4 &4325523355111888
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1141559139493820}
+  m_LocalRotation: {x: -0, y: 0.9950849, z: -0, w: 0.099026024}
+  m_LocalPosition: {x: -4.42, y: -44.66, z: 2.8}
+  m_LocalScale: {x: 0.17305015, y: 0.75, z: 0.5543513}
+  m_Children:
+  - {fileID: 4542814953411620}
+  - {fileID: 4204793747395104}
+  - {fileID: 4626044854970924}
+  - {fileID: 4508859908861262}
+  m_Father: {fileID: 4593510053980978}
+  m_RootOrder: 2
+  m_LocalEulerAnglesHint: {x: 0, y: 168.634, z: 0}
+--- !u!4 &4333088035909066
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1207818030938620}
+  m_LocalRotation: {x: -0, y: 0.9950849, z: -0, w: 0.099026024}
+  m_LocalPosition: {x: -5.1, y: -44.66, z: 1.97}
+  m_LocalScale: {x: 0.13001694, y: 0.75, z: 0.27580538}
+  m_Children:
+  - {fileID: 4993055030722544}
+  - {fileID: 4271206195735446}
+  - {fileID: 4640641174624468}
+  - {fileID: 4754702289375552}
+  - {fileID: 4557139470682348}
+  m_Father: {fileID: 4593510053980978}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 168.634, z: 0}
+--- !u!4 &4508859908861262
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1621485373406928}
+  m_LocalRotation: {x: 1.2597547e-15, y: -0.00000008940696, z: -7.947888e-16, w: 1}
+  m_LocalPosition: {x: 1312.8098, y: -0.053329468, z: -160.07271}
+  m_LocalScale: {x: 3.247176, y: 1, z: 3.2113476}
+  m_Children: []
+  m_Father: {fileID: 4325523355111888}
+  m_RootOrder: 3
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!4 &4525035706139410
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1947570038893392}
+  m_LocalRotation: {x: -0, y: 0.9950849, z: -0, w: 0.099026024}
+  m_LocalPosition: {x: -4.96, y: -44.66, z: 7.96}
+  m_LocalScale: {x: 0.37257016, y: 0.75, z: 1.0712705}
+  m_Children:
+  - {fileID: 4546303569422136}
+  m_Father: {fileID: 4593510053980978}
+  m_RootOrder: 1
+  m_LocalEulerAnglesHint: {x: 0, y: 168.634, z: 0}
+--- !u!4 &4542814953411620
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1847255381495062}
+  m_LocalRotation: {x: 1.2597547e-15, y: -0.00000008940696, z: -7.947888e-16, w: 1}
+  m_LocalPosition: {x: 1312.8091, y: -0.053329468, z: -160.07266}
+  m_LocalScale: {x: 3.2471619, y: 1, z: 3.211343}
+  m_Children: []
+  m_Father: {fileID: 4325523355111888}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!4 &4546303569422136
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1051753320150726}
+  m_LocalRotation: {x: 1.2597547e-15, y: -0.00000008940696, z: -7.947888e-16, w: 1}
+  m_LocalPosition: {x: 1312.8091, y: -0.053329468, z: -160.07266}
+  m_LocalScale: {x: 3.2471619, y: 1, z: 3.211343}
+  m_Children: []
+  m_Father: {fileID: 4525035706139410}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!4 &4557139470682348
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1370472758186402}
+  m_LocalRotation: {x: 1.2597547e-15, y: -0.00000008940696, z: -7.947888e-16, w: 1}
+  m_LocalPosition: {x: 1312.811, y: -0.053329468, z: -160.07281}
+  m_LocalScale: {x: 3.247175, y: 1, z: 3.211345}
+  m_Children: []
+  m_Father: {fileID: 4333088035909066}
+  m_RootOrder: 4
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!4 &4593510053980978
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1399987053179638}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 4333088035909066}
+  - {fileID: 4525035706139410}
+  - {fileID: 4325523355111888}
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!4 &4626044854970924
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1715547959428022}
+  m_LocalRotation: {x: 1.2597547e-15, y: -0.00000008940696, z: -7.947888e-16, w: 1}
+  m_LocalPosition: {x: 1312.8218, y: -0.053329468, z: -160.07243}
+  m_LocalScale: {x: 3.2472043, y: 1, z: 3.2113402}
+  m_Children: []
+  m_Father: {fileID: 4325523355111888}
+  m_RootOrder: 2
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!4 &4640641174624468
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1151694836367340}
+  m_LocalRotation: {x: 1.2597547e-15, y: -0.00000008940696, z: -7.947888e-16, w: 1}
+  m_LocalPosition: {x: 1312.81, y: -0.053329468, z: -160.07274}
+  m_LocalScale: {x: 3.247175, y: 1, z: 3.211345}
+  m_Children: []
+  m_Father: {fileID: 4333088035909066}
+  m_RootOrder: 2
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!4 &4754702289375552
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1922342959749050}
+  m_LocalRotation: {x: 1.2597547e-15, y: -0.00000008940696, z: -7.947888e-16, w: 1}
+  m_LocalPosition: {x: 1312.8105, y: -0.053329468, z: -160.07277}
+  m_LocalScale: {x: 3.247175, y: 1, z: 3.211345}
+  m_Children: []
+  m_Father: {fileID: 4333088035909066}
+  m_RootOrder: 3
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!4 &4993055030722544
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1582861509365104}
+  m_LocalRotation: {x: 1.2597547e-15, y: -0.00000008940696, z: -7.947888e-16, w: 1}
+  m_LocalPosition: {x: 1312.8091, y: -0.053329468, z: -160.07266}
+  m_LocalScale: {x: 3.2471619, y: 1, z: 3.211343}
+  m_Children: []
+  m_Father: {fileID: 4333088035909066}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!65 &65078065244493664
+BoxCollider:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1141559139493820}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 1
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 60, y: 5, z: 20}
+  m_Center: {x: 0, y: 5, z: 0}
+--- !u!65 &65514271035923818
+BoxCollider:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1207818030938620}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 1
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 60, y: 5, z: 20}
+  m_Center: {x: 0, y: 5, z: 0}
+--- !u!65 &65926661520456836
+BoxCollider:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1947570038893392}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 1
+  m_Enabled: 0
+  serializedVersion: 2
+  m_Size: {x: 60, y: 5, z: 20}
+  m_Center: {x: 0, y: 5, z: 0}
+--- !u!114 &114041119820253104
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1051753320150726}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fd244fe129b00874ba0d507f5eeb7d0c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  index: 0
+  reqStoryFunction: {fileID: 0}
+  typeMenu:
+  - "\u63D2\u56FE"
+  - "\u5192\u6CE1"
+  - "\u89C6\u9891"
+  - "\u4F4D\u79FB"
+  - "\u6E38\u620F\u901F\u5EA6"
+  - "\u80CC\u666F\u97F3\u4E50"
+  - "\u76F8\u673A"
+  - "\u52A8\u4F5C"
+  - "\u7728\u773C"
+  - "\u5267\u60C5\u52A8\u753B"
+  - "\u9ED1\u5E55"
+  type: 10
+  startWaitTime: 0
+  textData:
+    headActor: 0
+    dialogData:
+      limitRoleTypeNames:
+      - "\u65E0\u9650\u5236\u7C7B\u578B"
+      - "\u4E3B\u89D2"
+      - "\u602A\u7269"
+      limitRoleType: 0
+      roleName: 
+      isDistinguish: 0
+      dialogFileData:
+        t:
+          roleID: 0
+          headModelSizePercent: 0.5
+          modelLocalPos: {x: 0, y: -1, z: 0.5}
+          roleData:
+            roleTypeNames:
+            - "\u4E3B\u89D2"
+            - "\u82F1\u96C4"
+            - "\u5730\u7F16\u602A\u7269"
+            - "\u63F4\u519B"
+            controlType: 1
+            npcBirthPositionID: 0
+            npcBirthPositionIndex: 1
+            roleId: 0
+            battleGroupPrefabPath: 
+            battleGroupPrefab: {fileID: 0}
+            battleGroupPrefabName: 
+            enenmyCellIndex: 0
+            enemyPosition: 0
+            isShowDetail: 1
+            isLocal: 0
+            isDestory: 1
+            position: {x: 0, y: 0, z: 0}
+            angle: {x: 0, y: 0, z: 0}
+        tList: []
+        leaderProfessionList: 
+      dialogFileData1:
+        t:
+          roleID: 0
+          headModelSizePercent: 0.5
+          modelLocalPos: {x: 0, y: -1, z: 0.5}
+          roleData:
+            roleTypeNames:
+            - "\u4E3B\u89D2"
+            - "\u82F1\u96C4"
+            - "\u5730\u7F16\u602A\u7269"
+            - "\u63F4\u519B"
+            controlType: 0
+            npcBirthPositionID: 0
+            npcBirthPositionIndex: 1
+            roleId: 0
+            battleGroupPrefabPath: 
+            battleGroupPrefab: {fileID: 0}
+            battleGroupPrefabName: 
+            enenmyCellIndex: 0
+            enemyPosition: 0
+            isShowDetail: 1
+            isLocal: 0
+            isDestory: 1
+            position: {x: 0, y: 0, z: 0}
+            angle: {x: 0, y: 0, z: 0}
+        tList: []
+        leaderProfessionList: 
+      soundData:
+        t:
+          soundWaitTime: 0
+          showDetail: 1
+          storyText: 
+          storyTextArray: []
+          waitTime: []
+          soundID: 0
+          soundDuration: 0
+        tList: []
+        leaderProfessionList: 
+      soundData1:
+        t:
+          soundWaitTime: 0
+          showDetail: 1
+          storyText: 
+          storyTextArray: []
+          waitTime: []
+          soundID: 0
+          soundDuration: 0
+        tList: []
+        leaderProfessionList: 
+    dialogStylePath: 
+    backgroundTexData:
+      showTextureType: 0
+      hideTextureType: 0
+      textTypeNames:
+      - "\u76F4\u63A5"
+      - "\u6E10\u6E10"
+      showDuration: 0
+      hideDuration: 0
+      texPath: 
+    subtitleContent:
+      showTextType: 1
+      showTextTypeNames:
+      - "\u76F4\u63A5\u663E\u793A"
+      - "\u4E00\u4E2A\u4E00\u4E2A\u663E\u793A"
+      showContext: 
+      textPositionType: 0
+      interval: 0.2
+    titleContent:
+      showTextType: 1
+      showTextTypeNames:
+      - "\u76F4\u63A5\u663E\u793A"
+      - "\u4E00\u4E2A\u4E00\u4E2A\u663E\u793A"
+      showContext: 
+      textPositionType: 0
+      interval: 0.2
+    appearanceData:
+      appearanceMode: 0
+      appearanceModeNames:
+      - "\u6B63\u5E38"
+      - "\u4FA7\u8FB9\u5212\u5165\u5212\u51FA"
+      moveInDuration: 1
+      moveOutDuration: 1
+      startPoint: {x: 800, y: 80, z: 0}
+      endPoint: {x: -60, y: 80, z: 0}
+      isChangeCameraView: 0
+      newView: 15
+      changFOVDuration: 0.5
+  bubblingData:
+    bubblingTexPath: 
+    dialogWaitTime: 0
+    roleData:
+      roleTypeNames:
+      - "\u4E3B\u89D2"
+      - "\u82F1\u96C4"
+      - "\u5730\u7F16\u602A\u7269"
+      - "\u63F4\u519B"
+      controlType: 0
+      npcBirthPositionID: 0
+      npcBirthPositionIndex: 1
+      roleId: 0
+      battleGroupPrefabPath: 
+      battleGroupPrefab: {fileID: 0}
+      battleGroupPrefabName: 
+      enenmyCellIndex: 0
+      enemyPosition: 0
+      isShowDetail: 1
+      isLocal: 0
+      isDestory: 1
+      position: {x: 0, y: 0, z: 0}
+      angle: {x: 0, y: 0, z: 0}
+    soundData:
+      soundWaitTime: 0
+      showDetail: 1
+      storyText: 
+      storyTextArray: []
+      waitTime: []
+      soundID: 0
+      soundDuration: 0
+    soundData1:
+      soundWaitTime: 0
+      showDetail: 1
+      storyText: 
+      storyTextArray: []
+      waitTime: []
+      soundID: 0
+      soundDuration: 0
+    showDetail: 1
+    heroList: 
+    soundDataList: []
+    isHideCharacter: 0
+  movieData:
+    moviePath: 
+    isCanJump: 1
+  storyboardData:
+    movieTypeNames:
+    - "\u9009\u62E9\u8FB9\u7F18\u6846"
+    - "\u9009\u62E9\u5BF9\u8BDD\u76F8\u5173"
+    - "\u955C\u5934\u76F8\u5173"
+    - "\u4EBA\u7269\u9884\u8BBE"
+    - "\u4EBA\u7269\u884C\u4E3A\u76F8\u5173"
+    movieType: 0
+    cameraControlType: 0
+    roleActionType: 0
+    edgeFramTexData:
+      showTextureType: 0
+      hideTextureType: 0
+      textTypeNames:
+      - "\u76F4\u63A5"
+      - "\u6E10\u6E10"
+      showDuration: 0
+      hideDuration: 0
+      texPath: 
+    bubblingTexPath: 
+    bubblingExistTime: 0
+    animatonName: 
+    actionSpeed: 0
+    isLoop: 0
+    costTime: 0
+    moveSpeed: 0
+    roleData:
+      roleTypeNames:
+      - "\u4E3B\u89D2"
+      - "\u82F1\u96C4"
+      - "\u5730\u7F16\u602A\u7269"
+      - "\u63F4\u519B"
+      controlType: 0
+      npcBirthPositionID: 0
+      npcBirthPositionIndex: 1
+      roleId: 0
+      battleGroupPrefabPath: 
+      battleGroupPrefab: {fileID: 0}
+      battleGroupPrefabName: 
+      enenmyCellIndex: 0
+      enemyPosition: 0
+      isShowDetail: 1
+      isLocal: 0
+      isDestory: 1
+      position: {x: 0, y: 0, z: 0}
+      angle: {x: 0, y: 0, z: 0}
+    soundData:
+      soundWaitTime: 0
+      showDetail: 1
+      storyText: 
+      storyTextArray: []
+      waitTime: []
+      soundID: 0
+      soundDuration: 0
+  displacementData:
+    roleData:
+      roleTypeNames:
+      - "\u4E3B\u89D2"
+      - "\u82F1\u96C4"
+      - "\u5730\u7F16\u602A\u7269"
+      - "\u63F4\u519B"
+      controlType: 0
+      npcBirthPositionID: 0
+      npcBirthPositionIndex: 1
+      roleId: 0
+      battleGroupPrefabPath: 
+      battleGroupPrefab: {fileID: 0}
+      battleGroupPrefabName: 
+      enenmyCellIndex: 0
+      enemyPosition: 0
+      isShowDetail: 1
+      isLocal: 0
+      isDestory: 1
+      position: {x: 0, y: 0, z: 0}
+      angle: {x: 0, y: 0, z: 0}
+    moveSpeed: 5
+    position: {x: 0, y: 0, z: 0}
+    angle: {x: 0, y: 0, z: 0}
+  gameSpeedData:
+    gameSpeed: 0
+  backMusicData:
+    soundID: 0
+    volume: 0.8
+  cameraData:
+    cameraWaitTime: 0
+    isHidePlayer: 0
+    highOffset: 2.3
+    cameraAnimatorData:
+      cameraPath: 
+      cameraAnimatorName: 
+      cameraAngle: {x: 0, y: 0, z: 0}
+      fieldOfView: 45
+      nearClippingPlanes: 0.1
+      FarClippingPlanes: 300
+      audioListenerPos: {x: 0, y: 0, z: 0}
+    cameraShakeInfos: []
+  animationData:
+    roleData:
+      roleTypeNames:
+      - "\u4E3B\u89D2"
+      - "\u82F1\u96C4"
+      - "\u5730\u7F16\u602A\u7269"
+      - "\u63F4\u519B"
+      controlType: 0
+      npcBirthPositionID: 0
+      npcBirthPositionIndex: 1
+      roleId: 0
+      battleGroupPrefabPath: 
+      battleGroupPrefab: {fileID: 0}
+      battleGroupPrefabName: 
+      enenmyCellIndex: 0
+      enemyPosition: 0
+      isShowDetail: 1
+      isLocal: 0
+      isDestory: 1
+      position: {x: 0, y: 0, z: 0}
+      angle: {x: 0, y: 0, z: 0}
+    actionWaitTime: 0
+    roleActionData:
+      skillID: 0
+      hitID: 0
+      animName: 
+      actionFileData:
+        prefab: {fileID: 0}
+        prefabPath: 
+      leaderActionFileData: []
+      leaderProfessionList: 
+  blinkOfAnEyeData:
+    cameraBlinkOfAnEyeInfo:
+      blinkOfAnEyeList: []
+  blackBackgroundData:
+    blackBackgroundData:
+      duration: 3
+      waitTime: 0
+      dialogData:
+        soundWaitTime: 0
+        showDetail: 1
+        storyText: 
+        storyTextArray:
+        - "\u5170\u6D1B\u8BB2\u8FF0\u5728\u56DE\u6765\u7684\u8DEF\u4E0A\uFF0C\u78B0\u5230\u4F63\u5175\uFF0C\u5E76\u4E14\u8DDF\u4ED6\u4EEC\u6218\u6597\u7684\u7ECF\u8FC7\u2026..."
+        waitTime:
+        - 3
+        soundID: 0
+        soundDuration: 0
+  cinemaDirectorData:
+    fileData:
+      prefab: {fileID: 0}
+      prefabPath: 
+  nextTypeNames:
+  - "\u5EF6\u8FDF"
+  - "\u70B9\u51FB"
+  nextType: 0
+  nextTime: 1
+--- !u!114 &114050133569476868
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1715547959428022}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 54d2b6b4d94552a4cae1b6eff55999cf, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  isAutoPlay: 1
+--- !u!114 &114054286257204228
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1847255381495062}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 54d2b6b4d94552a4cae1b6eff55999cf, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  isAutoPlay: 1
+--- !u!114 &114077211466800192
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1922342959749050}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fd244fe129b00874ba0d507f5eeb7d0c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  index: 0
+  reqStoryFunction: {fileID: 0}
+  typeMenu:
+  - "\u63D2\u56FE"
+  - "\u5192\u6CE1"
+  - "\u89C6\u9891"
+  - "\u4F4D\u79FB"
+  - "\u6E38\u620F\u901F\u5EA6"
+  - "\u80CC\u666F\u97F3\u4E50"
+  type: 0
+  startWaitTime: 0
+  textData:
+    headActor: 0
+    dialogData:
+      limitRoleTypeNames:
+      - "\u65E0\u9650\u5236\u7C7B\u578B"
+      - "\u4E3B\u89D2"
+      - "\u602A\u7269"
+      limitRoleType: 2
+      roleName: "\u795E\u6708\u523A\u5BA2-\u795E\u6708"
+      isDistinguish: 0
+      dialogFileData:
+        t:
+          roleID: 530101002
+          headModelSizePercent: 0.6
+          modelLocalPos: {x: 0, y: -1.37, z: 1.7}
+          roleData:
+            roleTypeNames:
+            - "\u4E3B\u89D2"
+            - "\u82F1\u96C4"
+            - "\u5730\u7F16\u602A\u7269"
+            - "\u63F4\u519B"
+            controlType: 2
+            npcBirthPositionID: 530101104
+            npcBirthPositionIndex: 1
+            roleId: 0
+            battleGroupPrefabPath: 
+            battleGroupPrefab: {fileID: 0}
+            battleGroupPrefabName: 
+            enenmyCellIndex: 0
+            enemyPosition: 0
+            isShowDetail: 1
+            isLocal: 1
+            isDestory: 1
+            position: {x: 0, y: 0, z: 0}
+            angle: {x: 0, y: 0, z: 0}
+        tList: []
+        leaderProfessionList: 
+      dialogFileData1:
+        t:
+          roleID: 0
+          headModelSizePercent: 0.5
+          modelLocalPos: {x: 0, y: -1, z: 0.5}
+          roleData:
+            roleTypeNames:
+            - "\u4E3B\u89D2"
+            - "\u82F1\u96C4"
+            - "\u5730\u7F16\u602A\u7269"
+            - "\u63F4\u519B"
+            controlType: 0
+            npcBirthPositionID: 0
+            npcBirthPositionIndex: 1
+            roleId: 0
+            battleGroupPrefabPath: 
+            battleGroupPrefab: {fileID: 0}
+            battleGroupPrefabName: 
+            enenmyCellIndex: 0
+            enemyPosition: 0
+            isShowDetail: 1
+            isLocal: 0
+            isDestory: 1
+            position: {x: 0, y: 0, z: 0}
+            angle: {x: 0, y: 0, z: 0}
+        tList: []
+        leaderProfessionList: 
+      soundData:
+        t:
+          soundWaitTime: 0
+          showDetail: 1
+          storyText: 
+          storyTextArray:
+          - "\u88AB\u4EBA\u88AD\u51FB\uFF1F\u600E\u4E48\u56DE\u4E8B\uFF01\uFF1F"
+          waitTime:
+          - 3
+          soundID: 0
+          soundDuration: 0
+        tList: []
+        leaderProfessionList: 
+      soundData1:
+        t:
+          soundWaitTime: 0
+          showDetail: 1
+          storyText: 
+          storyTextArray: []
+          waitTime: []
+          soundID: 0
+          soundDuration: 0
+        tList: []
+        leaderProfessionList: 
+    dialogStylePath: 
+    backgroundTexData:
+      showTextureType: 0
+      hideTextureType: 0
+      textTypeNames:
+      - "\u76F4\u63A5"
+      - "\u6E10\u6E10"
+      showDuration: 0
+      hideDuration: 0
+      texPath: 
+    subtitleContent:
+      showTextType: 1
+      showTextTypeNames:
+      - "\u76F4\u63A5\u663E\u793A"
+      - "\u4E00\u4E2A\u4E00\u4E2A\u663E\u793A"
+      showContext: 
+      textPositionType: 0
+      interval: 0.2
+    titleContent:
+      showTextType: 1
+      showTextTypeNames:
+      - "\u76F4\u63A5\u663E\u793A"
+      - "\u4E00\u4E2A\u4E00\u4E2A\u663E\u793A"
+      showContext: 
+      textPositionType: 0
+      interval: 0.2
+    appearanceData:
+      appearanceMode: 0
+      appearanceModeNames:
+      - "\u6B63\u5E38"
+      - "\u4FA7\u8FB9\u5212\u5165\u5212\u51FA"
+      moveInDuration: 1
+      moveOutDuration: 1
+      startPoint: {x: 800, y: 80, z: 0}
+      endPoint: {x: -60, y: 80, z: 0}
+      isChangeCameraView: 0
+      newView: 15
+      changFOVDuration: 0.5
+  bubblingData:
+    bubblingTexPath: 
+    dialogWaitTime: 0
+    roleData:
+      roleTypeNames:
+      - "\u4E3B\u89D2"
+      - "\u82F1\u96C4"
+      - "\u5730\u7F16\u602A\u7269"
+      - "\u63F4\u519B"
+      controlType: 2
+      npcBirthPositionID: 0
+      npcBirthPositionIndex: 1
+      roleId: 0
+      battleGroupPrefabPath: 
+      battleGroupPrefab: {fileID: 0}
+      battleGroupPrefabName: 
+      enenmyCellIndex: 0
+      enemyPosition: 0
+      isShowDetail: 1
+      isLocal: 0
+      isDestory: 1
+      position: {x: 0, y: 0, z: 0}
+      angle: {x: 0, y: 0, z: 0}
+    soundData:
+      soundWaitTime: 0
+      showDetail: 1
+      storyText: 
+      storyTextArray: []
+      waitTime: []
+      soundID: 0
+      soundDuration: 0
+    soundData1:
+      soundWaitTime: 0
+      showDetail: 1
+      storyText: 
+      storyTextArray: []
+      waitTime: []
+      soundID: 0
+      soundDuration: 0
+    showDetail: 1
+    heroList: 
+    soundDataList: []
+    isHideCharacter: 0
+  movieData:
+    moviePath: 
+    isCanJump: 1
+  storyboardData:
+    movieTypeNames:
+    - "\u9009\u62E9\u8FB9\u7F18\u6846"
+    - "\u9009\u62E9\u5BF9\u8BDD\u76F8\u5173"
+    - "\u955C\u5934\u76F8\u5173"
+    - "\u4EBA\u7269\u9884\u8BBE"
+    - "\u4EBA\u7269\u884C\u4E3A\u76F8\u5173"
+    movieType: 0
+    cameraControlType: 0
+    roleActionType: 0
+    edgeFramTexData:
+      showTextureType: 0
+      hideTextureType: 0
+      textTypeNames:
+      - "\u76F4\u63A5"
+      - "\u6E10\u6E10"
+      showDuration: 0
+      hideDuration: 0
+      texPath: 
+    bubblingTexPath: 
+    bubblingExistTime: 0
+    animatonName: 
+    actionSpeed: 0
+    isLoop: 0
+    costTime: 0
+    moveSpeed: 0
+    roleData:
+      roleTypeNames:
+      - "\u4E3B\u89D2"
+      - "\u82F1\u96C4"
+      - "\u5730\u7F16\u602A\u7269"
+      - "\u63F4\u519B"
+      controlType: 0
+      npcBirthPositionID: 0
+      npcBirthPositionIndex: 1
+      roleId: 0
+      battleGroupPrefabPath: 
+      battleGroupPrefab: {fileID: 0}
+      battleGroupPrefabName: 
+      enenmyCellIndex: 0
+      enemyPosition: 0
+      isShowDetail: 1
+      isLocal: 0
+      isDestory: 1
+      position: {x: 0, y: 0, z: 0}
+      angle: {x: 0, y: 0, z: 0}
+    soundData:
+      soundWaitTime: 0
+      showDetail: 1
+      storyText: 
+      storyTextArray: []
+      waitTime: []
+      soundID: 0
+      soundDuration: 0
+  displacementData:
+    roleData:
+      roleTypeNames:
+      - "\u4E3B\u89D2"
+      - "\u82F1\u96C4"
+      - "\u5730\u7F16\u602A\u7269"
+      - "\u63F4\u519B"
+      controlType: 2
+      npcBirthPositionID: 30101102
+      npcBirthPositionIndex: 1
+      roleId: 0
+      battleGroupPrefabPath: 
+      battleGroupPrefab: {fileID: 0}
+      battleGroupPrefabName: 
+      enenmyCellIndex: 0
+      enemyPosition: 0
+      isShowDetail: 1
+      isLocal: 1
+      isDestory: 1
+      position: {x: 0, y: 0, z: 0}
+      angle: {x: 0, y: 0, z: 0}
+    moveSpeed: 5
+    position: {x: -8.1, y: -42.8, z: 3.3}
+    angle: {x: 0, y: 0, z: 0}
+  gameSpeedData:
+    gameSpeed: 0
+  backMusicData:
+    soundID: 0
+    volume: 0.8
+  cameraData:
+    cameraWaitTime: 0
+    isHidePlayer: 0
+    highOffset: 2.3
+    cameraAnimatorData:
+      cameraPath: 
+      cameraAnimatorName: 
+      cameraAngle: {x: 0, y: 0, z: 0}
+      fieldOfView: 45
+      nearClippingPlanes: 0.1
+      FarClippingPlanes: 300
+      audioListenerPos: {x: 0, y: 0, z: 0}
+    cameraShakeInfos: []
+  animationData:
+    roleData:
+      roleTypeNames:
+      - "\u4E3B\u89D2"
+      - "\u82F1\u96C4"
+      - "\u5730\u7F16\u602A\u7269"
+      - "\u63F4\u519B"
+      controlType: 0
+      npcBirthPositionID: 0
+      npcBirthPositionIndex: 1
+      roleId: 0
+      battleGroupPrefabPath: 
+      battleGroupPrefab: {fileID: 0}
+      battleGroupPrefabName: 
+      enenmyCellIndex: 0
+      enemyPosition: 0
+      isShowDetail: 1
+      isLocal: 0
+      isDestory: 1
+      position: {x: 0, y: 0, z: 0}
+      angle: {x: 0, y: 0, z: 0}
+    actionWaitTime: 0
+    roleActionData:
+      skillID: 0
+      hitID: 0
+      animName: 
+      actionFileData:
+        prefab: {fileID: 0}
+        prefabPath: 
+      leaderActionFileData: []
+      leaderProfessionList: 
+  blinkOfAnEyeData:
+    cameraBlinkOfAnEyeInfo:
+      blinkOfAnEyeList: []
+  blackBackgroundData:
+    blackBackgroundData:
+      duration: 0
+      waitTime: 0
+      dialogData:
+        soundWaitTime: 0
+        showDetail: 1
+        storyText: 
+        storyTextArray: []
+        waitTime: []
+        soundID: 0
+        soundDuration: 0
+  cinemaDirectorData:
+    fileData:
+      prefab: {fileID: 0}
+      prefabPath: 
+  nextTypeNames:
+  - "\u5EF6\u8FDF"
+  - "\u70B9\u51FB"
+  nextType: 1
+  nextTime: 1
+--- !u!114 &114104111186595010
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1370472758186402}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 54d2b6b4d94552a4cae1b6eff55999cf, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  isAutoPlay: 1
+--- !u!114 &114106698329871814
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1141559139493820}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fff5bbadbd15ee3429a20d3d14b91b16, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+--- !u!114 &114199080291915788
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1207818030938620}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fff5bbadbd15ee3429a20d3d14b91b16, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+--- !u!114 &114203078095162184
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1922342959749050}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 54d2b6b4d94552a4cae1b6eff55999cf, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  isAutoPlay: 1
+--- !u!114 &114277132626283664
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1715547959428022}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fd244fe129b00874ba0d507f5eeb7d0c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  index: 0
+  reqStoryFunction: {fileID: 0}
+  typeMenu:
+  - "\u63D2\u56FE"
+  - "\u5192\u6CE1"
+  - "\u89C6\u9891"
+  - "\u4F4D\u79FB"
+  - "\u6E38\u620F\u901F\u5EA6"
+  - "\u80CC\u666F\u97F3\u4E50"
+  type: 0
+  startWaitTime: 0
+  textData:
+    headActor: 0
+    dialogData:
+      limitRoleTypeNames:
+      - "\u65E0\u9650\u5236\u7C7B\u578B"
+      - "\u4E3B\u89D2"
+      - "\u602A\u7269"
+      limitRoleType: 2
+      roleName: "\u795E\u6708\u523A\u5BA2-\u795E\u6708"
+      isDistinguish: 0
+      dialogFileData:
+        t:
+          roleID: 530101001
+          headModelSizePercent: 0.6
+          modelLocalPos: {x: 0, y: -1.37, z: 1.7}
+          roleData:
+            roleTypeNames:
+            - "\u4E3B\u89D2"
+            - "\u82F1\u96C4"
+            - "\u5730\u7F16\u602A\u7269"
+            - "\u63F4\u519B"
+            controlType: 2
+            npcBirthPositionID: 530101103
+            npcBirthPositionIndex: 1
+            roleId: 0
+            battleGroupPrefabPath: 
+            battleGroupPrefab: {fileID: 0}
+            battleGroupPrefabName: 
+            enenmyCellIndex: 0
+            enemyPosition: 0
+            isShowDetail: 1
+            isLocal: 1
+            isDestory: 1
+            position: {x: 0, y: 0, z: 0}
+            angle: {x: 0, y: 0, z: 0}
+        tList: []
+        leaderProfessionList: 
+      dialogFileData1:
+        t:
+          roleID: 0
+          headModelSizePercent: 0.5
+          modelLocalPos: {x: 0, y: -1, z: 0.5}
+          roleData:
+            roleTypeNames:
+            - "\u4E3B\u89D2"
+            - "\u82F1\u96C4"
+            - "\u5730\u7F16\u602A\u7269"
+            - "\u63F4\u519B"
+            controlType: 0
+            npcBirthPositionID: 0
+            npcBirthPositionIndex: 1
+            roleId: 0
+            battleGroupPrefabPath: 
+            battleGroupPrefab: {fileID: 0}
+            battleGroupPrefabName: 
+            enenmyCellIndex: 0
+            enemyPosition: 0
+            isShowDetail: 1
+            isLocal: 0
+            isDestory: 1
+            position: {x: 0, y: 0, z: 0}
+            angle: {x: 0, y: 0, z: 0}
+        tList: []
+        leaderProfessionList: 
+      soundData:
+        t:
+          soundWaitTime: 0
+          showDetail: 1
+          storyText: 
+          storyTextArray:
+          - "\u5927\u53D4\uFF1F"
+          waitTime:
+          - 3
+          soundID: 0
+          soundDuration: 0
+        tList: []
+        leaderProfessionList: 
+      soundData1:
+        t:
+          soundWaitTime: 0
+          showDetail: 1
+          storyText: 
+          storyTextArray: []
+          waitTime: []
+          soundID: 0
+          soundDuration: 0
+        tList: []
+        leaderProfessionList: 
+    dialogStylePath: 
+    backgroundTexData:
+      showTextureType: 0
+      hideTextureType: 0
+      textTypeNames:
+      - "\u76F4\u63A5"
+      - "\u6E10\u6E10"
+      showDuration: 0
+      hideDuration: 0
+      texPath: 
+    subtitleContent:
+      showTextType: 1
+      showTextTypeNames:
+      - "\u76F4\u63A5\u663E\u793A"
+      - "\u4E00\u4E2A\u4E00\u4E2A\u663E\u793A"
+      showContext: 
+      textPositionType: 0
+      interval: 0.2
+    titleContent:
+      showTextType: 1
+      showTextTypeNames:
+      - "\u76F4\u63A5\u663E\u793A"
+      - "\u4E00\u4E2A\u4E00\u4E2A\u663E\u793A"
+      showContext: 
+      textPositionType: 0
+      interval: 0.2
+    appearanceData:
+      appearanceMode: 0
+      appearanceModeNames:
+      - "\u6B63\u5E38"
+      - "\u4FA7\u8FB9\u5212\u5165\u5212\u51FA"
+      moveInDuration: 1
+      moveOutDuration: 1
+      startPoint: {x: 800, y: 80, z: 0}
+      endPoint: {x: -60, y: 80, z: 0}
+      isChangeCameraView: 0
+      newView: 15
+      changFOVDuration: 0.5
+  bubblingData:
+    bubblingTexPath: 
+    dialogWaitTime: 0
+    roleData:
+      roleTypeNames:
+      - "\u4E3B\u89D2"
+      - "\u82F1\u96C4"
+      - "\u5730\u7F16\u602A\u7269"
+      - "\u63F4\u519B"
+      controlType: 2
+      npcBirthPositionID: 0
+      npcBirthPositionIndex: 1
+      roleId: 0
+      battleGroupPrefabPath: 
+      battleGroupPrefab: {fileID: 0}
+      battleGroupPrefabName: 
+      enenmyCellIndex: 0
+      enemyPosition: 0
+      isShowDetail: 1
+      isLocal: 0
+      isDestory: 1
+      position: {x: 0, y: 0, z: 0}
+      angle: {x: 0, y: 0, z: 0}
+    soundData:
+      soundWaitTime: 0
+      showDetail: 1
+      storyText: 
+      storyTextArray: []
+      waitTime: []
+      soundID: 0
+      soundDuration: 0
+    soundData1:
+      soundWaitTime: 0
+      showDetail: 1
+      storyText: 
+      storyTextArray: []
+      waitTime: []
+      soundID: 0
+      soundDuration: 0
+    showDetail: 1
+    heroList: 
+    soundDataList: []
+    isHideCharacter: 0
+  movieData:
+    moviePath: 
+    isCanJump: 1
+  storyboardData:
+    movieTypeNames:
+    - "\u9009\u62E9\u8FB9\u7F18\u6846"
+    - "\u9009\u62E9\u5BF9\u8BDD\u76F8\u5173"
+    - "\u955C\u5934\u76F8\u5173"
+    - "\u4EBA\u7269\u9884\u8BBE"
+    - "\u4EBA\u7269\u884C\u4E3A\u76F8\u5173"
+    movieType: 0
+    cameraControlType: 0
+    roleActionType: 0
+    edgeFramTexData:
+      showTextureType: 0
+      hideTextureType: 0
+      textTypeNames:
+      - "\u76F4\u63A5"
+      - "\u6E10\u6E10"
+      showDuration: 0
+      hideDuration: 0
+      texPath: 
+    bubblingTexPath: 
+    bubblingExistTime: 0
+    animatonName: 
+    actionSpeed: 0
+    isLoop: 0
+    costTime: 0
+    moveSpeed: 0
+    roleData:
+      roleTypeNames:
+      - "\u4E3B\u89D2"
+      - "\u82F1\u96C4"
+      - "\u5730\u7F16\u602A\u7269"
+      - "\u63F4\u519B"
+      controlType: 0
+      npcBirthPositionID: 0
+      npcBirthPositionIndex: 1
+      roleId: 0
+      battleGroupPrefabPath: 
+      battleGroupPrefab: {fileID: 0}
+      battleGroupPrefabName: 
+      enenmyCellIndex: 0
+      enemyPosition: 0
+      isShowDetail: 1
+      isLocal: 0
+      isDestory: 1
+      position: {x: 0, y: 0, z: 0}
+      angle: {x: 0, y: 0, z: 0}
+    soundData:
+      soundWaitTime: 0
+      showDetail: 1
+      storyText: 
+      storyTextArray: []
+      waitTime: []
+      soundID: 0
+      soundDuration: 0
+  displacementData:
+    roleData:
+      roleTypeNames:
+      - "\u4E3B\u89D2"
+      - "\u82F1\u96C4"
+      - "\u5730\u7F16\u602A\u7269"
+      - "\u63F4\u519B"
+      controlType: 2
+      npcBirthPositionID: 30101102
+      npcBirthPositionIndex: 1
+      roleId: 0
+      battleGroupPrefabPath: 
+      battleGroupPrefab: {fileID: 0}
+      battleGroupPrefabName: 
+      enenmyCellIndex: 0
+      enemyPosition: 0
+      isShowDetail: 1
+      isLocal: 1
+      isDestory: 1
+      position: {x: 0, y: 0, z: 0}
+      angle: {x: 0, y: 0, z: 0}
+    moveSpeed: 5
+    position: {x: -8.1, y: -42.8, z: 3.3}
+    angle: {x: 0, y: 0, z: 0}
+  gameSpeedData:
+    gameSpeed: 0
+  backMusicData:
+    soundID: 0
+    volume: 0.8
+  cameraData:
+    cameraWaitTime: 0
+    isHidePlayer: 0
+    highOffset: 2.3
+    cameraAnimatorData:
+      cameraPath: 
+      cameraAnimatorName: 
+      cameraAngle: {x: 0, y: 0, z: 0}
+      fieldOfView: 45
+      nearClippingPlanes: 0.1
+      FarClippingPlanes: 300
+      audioListenerPos: {x: 0, y: 0, z: 0}
+    cameraShakeInfos: []
+  animationData:
+    roleData:
+      roleTypeNames:
+      - "\u4E3B\u89D2"
+      - "\u82F1\u96C4"
+      - "\u5730\u7F16\u602A\u7269"
+      - "\u63F4\u519B"
+      controlType: 0
+      npcBirthPositionID: 0
+      npcBirthPositionIndex: 1
+      roleId: 0
+      battleGroupPrefabPath: 
+      battleGroupPrefab: {fileID: 0}
+      battleGroupPrefabName: 
+      enenmyCellIndex: 0
+      enemyPosition: 0
+      isShowDetail: 1
+      isLocal: 0
+      isDestory: 1
+      position: {x: 0, y: 0, z: 0}
+      angle: {x: 0, y: 0, z: 0}
+    actionWaitTime: 0
+    roleActionData:
+      skillID: 0
+      hitID: 0
+      animName: 
+      actionFileData:
+        prefab: {fileID: 0}
+        prefabPath: 
+      leaderActionFileData: []
+      leaderProfessionList: 
+  blinkOfAnEyeData:
+    cameraBlinkOfAnEyeInfo:
+      blinkOfAnEyeList: []
+  blackBackgroundData:
+    blackBackgroundData:
+      duration: 0
+      waitTime: 0
+      dialogData:
+        soundWaitTime: 0
+        showDetail: 1
+        storyText: 
+        storyTextArray: []
+        waitTime: []
+        soundID: 0
+        soundDuration: 0
+  cinemaDirectorData:
+    fileData:
+      prefab: {fileID: 0}
+      prefabPath: 
+  nextTypeNames:
+  - "\u5EF6\u8FDF"
+  - "\u70B9\u51FB"
+  nextType: 1
+  nextTime: 1
+--- !u!114 &114310156156343728
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1847255381495062}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fd244fe129b00874ba0d507f5eeb7d0c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  index: 0
+  reqStoryFunction: {fileID: 0}
+  typeMenu:
+  - "\u63D2\u56FE"
+  - "\u5192\u6CE1"
+  - "\u89C6\u9891"
+  - "\u4F4D\u79FB"
+  - "\u6E38\u620F\u901F\u5EA6"
+  - "\u80CC\u666F\u97F3\u4E50"
+  - "\u76F8\u673A"
+  - "\u52A8\u4F5C"
+  - "\u9ED1\u5E55"
+  - "\u5267\u60C5\u52A8\u753B"
+  type: 0
+  startWaitTime: 0
+  textData:
+    headActor: 0
+    dialogData:
+      limitRoleTypeNames:
+      - "\u65E0\u9650\u5236\u7C7B\u578B"
+      - "\u4E3B\u89D2"
+      - "\u602A\u7269"
+      limitRoleType: 2
+      roleName: 
+      isDistinguish: 0
+      dialogFileData:
+        t:
+          roleID: 530101002
+          headModelSizePercent: 0.6
+          modelLocalPos: {x: 0, y: -1.37, z: 1.7}
+          roleData:
+            roleTypeNames:
+            - "\u4E3B\u89D2"
+            - "\u82F1\u96C4"
+            - "\u5730\u7F16\u602A\u7269"
+            - "\u63F4\u519B"
+            controlType: 2
+            npcBirthPositionID: 530101104
+            npcBirthPositionIndex: 1
+            roleId: 0
+            battleGroupPrefabPath: 
+            battleGroupPrefab: {fileID: 0}
+            battleGroupPrefabName: 
+            enenmyCellIndex: 0
+            enemyPosition: 0
+            isShowDetail: 1
+            isLocal: 1
+            isDestory: 1
+            position: {x: 0, y: 0, z: 0}
+            angle: {x: 0, y: 0, z: 0}
+        tList: []
+        leaderProfessionList: 
+      dialogFileData1:
+        t:
+          roleID: 0
+          headModelSizePercent: 0.5
+          modelLocalPos: {x: 0, y: -1, z: 0.5}
+          roleData:
+            roleTypeNames:
+            - "\u4E3B\u89D2"
+            - "\u82F1\u96C4"
+            - "\u5730\u7F16\u602A\u7269"
+            - "\u63F4\u519B"
+            controlType: 0
+            npcBirthPositionID: 0
+            npcBirthPositionIndex: 1
+            roleId: 0
+            battleGroupPrefabPath: 
+            battleGroupPrefab: {fileID: 0}
+            battleGroupPrefabName: 
+            enenmyCellIndex: 0
+            enemyPosition: 0
+            isShowDetail: 1
+            isLocal: 0
+            isDestory: 1
+            position: {x: 0, y: 0, z: 0}
+            angle: {x: 0, y: 0, z: 0}
+        tList: []
+        leaderProfessionList: 
+      soundData:
+        t:
+          soundWaitTime: 0
+          showDetail: 1
+          storyText: 
+          storyTextArray:
+          - "\u628A\u753B\u50CF\u62FF\u6765\u7ED9\u6211\u770B\u770B\u3002"
+          waitTime:
+          - 3
+          soundID: 0
+          soundDuration: 0
+        tList: []
+        leaderProfessionList: 
+      soundData1:
+        t:
+          soundWaitTime: 0
+          showDetail: 1
+          storyText: 
+          storyTextArray: []
+          waitTime: []
+          soundID: 0
+          soundDuration: 0
+        tList: []
+        leaderProfessionList: 
+    dialogStylePath: 
+    backgroundTexData:
+      showTextureType: 0
+      hideTextureType: 0
+      textTypeNames:
+      - "\u76F4\u63A5"
+      - "\u6E10\u6E10"
+      showDuration: 0
+      hideDuration: 0
+      texPath: 
+    subtitleContent:
+      showTextType: 1
+      showTextTypeNames:
+      - "\u76F4\u63A5\u663E\u793A"
+      - "\u4E00\u4E2A\u4E00\u4E2A\u663E\u793A"
+      showContext: 
+      textPositionType: 0
+      interval: 0.2
+    titleContent:
+      showTextType: 1
+      showTextTypeNames:
+      - "\u76F4\u63A5\u663E\u793A"
+      - "\u4E00\u4E2A\u4E00\u4E2A\u663E\u793A"
+      showContext: 
+      textPositionType: 0
+      interval: 0.2
+    appearanceData:
+      appearanceMode: 0
+      appearanceModeNames:
+      - "\u6B63\u5E38"
+      - "\u4FA7\u8FB9\u5212\u5165\u5212\u51FA"
+      moveInDuration: 1
+      moveOutDuration: 1
+      startPoint: {x: 800, y: 80, z: 0}
+      endPoint: {x: -60, y: 80, z: 0}
+      isChangeCameraView: 0
+      newView: 15
+      changFOVDuration: 0.5
+  bubblingData:
+    bubblingTexPath: 
+    dialogWaitTime: 0
+    roleData:
+      roleTypeNames:
+      - "\u4E3B\u89D2"
+      - "\u82F1\u96C4"
+      - "\u5730\u7F16\u602A\u7269"
+      - "\u63F4\u519B"
+      controlType: 0
+      npcBirthPositionID: 0
+      npcBirthPositionIndex: 1
+      roleId: 0
+      battleGroupPrefabPath: 
+      battleGroupPrefab: {fileID: 0}
+      battleGroupPrefabName: 
+      enenmyCellIndex: 0
+      enemyPosition: 0
+      isShowDetail: 1
+      isLocal: 0
+      isDestory: 1
+      position: {x: 0, y: 0, z: 0}
+      angle: {x: 0, y: 0, z: 0}
+    soundData:
+      soundWaitTime: 0
+      showDetail: 1
+      storyText: 
+      storyTextArray: []
+      waitTime: []
+      soundID: 0
+      soundDuration: 0
+    soundData1:
+      soundWaitTime: 0
+      showDetail: 1
+      storyText: 
+      storyTextArray: []
+      waitTime: []
+      soundID: 0
+      soundDuration: 0
+    showDetail: 1
+    heroList: 
+    soundDataList: []
+    isHideCharacter: 0
+  movieData:
+    moviePath: 
+    isCanJump: 1
+  storyboardData:
+    movieTypeNames:
+    - "\u9009\u62E9\u8FB9\u7F18\u6846"
+    - "\u9009\u62E9\u5BF9\u8BDD\u76F8\u5173"
+    - "\u955C\u5934\u76F8\u5173"
+    - "\u4EBA\u7269\u9884\u8BBE"
+    - "\u4EBA\u7269\u884C\u4E3A\u76F8\u5173"
+    movieType: 0
+    cameraControlType: 0
+    roleActionType: 0
+    edgeFramTexData:
+      showTextureType: 0
+      hideTextureType: 0
+      textTypeNames:
+      - "\u76F4\u63A5"
+      - "\u6E10\u6E10"
+      showDuration: 0
+      hideDuration: 0
+      texPath: 
+    bubblingTexPath: 
+    bubblingExistTime: 0
+    animatonName: 
+    actionSpeed: 0
+    isLoop: 0
+    costTime: 0
+    moveSpeed: 0
+    roleData:
+      roleTypeNames:
+      - "\u4E3B\u89D2"
+      - "\u82F1\u96C4"
+      - "\u5730\u7F16\u602A\u7269"
+      - "\u63F4\u519B"
+      controlType: 0
+      npcBirthPositionID: 0
+      npcBirthPositionIndex: 1
+      roleId: 0
+      battleGroupPrefabPath: 
+      battleGroupPrefab: {fileID: 0}
+      battleGroupPrefabName: 
+      enenmyCellIndex: 0
+      enemyPosition: 0
+      isShowDetail: 1
+      isLocal: 0
+      isDestory: 1
+      position: {x: 0, y: 0, z: 0}
+      angle: {x: 0, y: 0, z: 0}
+    soundData:
+      soundWaitTime: 0
+      showDetail: 1
+      storyText: 
+      storyTextArray: []
+      waitTime: []
+      soundID: 0
+      soundDuration: 0
+  displacementData:
+    roleData:
+      roleTypeNames:
+      - "\u4E3B\u89D2"
+      - "\u82F1\u96C4"
+      - "\u5730\u7F16\u602A\u7269"
+      - "\u63F4\u519B"
+      controlType: 0
+      npcBirthPositionID: 0
+      npcBirthPositionIndex: 1
+      roleId: 0
+      battleGroupPrefabPath: 
+      battleGroupPrefab: {fileID: 0}
+      battleGroupPrefabName: 
+      enenmyCellIndex: 0
+      enemyPosition: 0
+      isShowDetail: 1
+      isLocal: 0
+      isDestory: 1
+      position: {x: 0, y: 0, z: 0}
+      angle: {x: 0, y: 0, z: 0}
+    moveSpeed: 5
+    position: {x: 0, y: 0, z: 0}
+    angle: {x: 0, y: 0, z: 0}
+  gameSpeedData:
+    gameSpeed: 0
+  backMusicData:
+    soundID: 0
+    volume: 0.8
+  cameraData:
+    cameraWaitTime: 0
+    isHidePlayer: 0
+    highOffset: 2.3
+    cameraAnimatorData:
+      cameraPath: 
+      cameraAnimatorName: 
+      cameraAngle: {x: 0, y: 0, z: 0}
+      fieldOfView: 45
+      nearClippingPlanes: 0.1
+      FarClippingPlanes: 300
+      audioListenerPos: {x: 0, y: 0, z: 0}
+    cameraShakeInfos: []
+  animationData:
+    roleData:
+      roleTypeNames:
+      - "\u4E3B\u89D2"
+      - "\u82F1\u96C4"
+      - "\u5730\u7F16\u602A\u7269"
+      - "\u63F4\u519B"
+      controlType: 0
+      npcBirthPositionID: 0
+      npcBirthPositionIndex: 1
+      roleId: 0
+      battleGroupPrefabPath: 
+      battleGroupPrefab: {fileID: 0}
+      battleGroupPrefabName: 
+      enenmyCellIndex: 0
+      enemyPosition: 0
+      isShowDetail: 1
+      isLocal: 0
+      isDestory: 1
+      position: {x: 0, y: 0, z: 0}
+      angle: {x: 0, y: 0, z: 0}
+    actionWaitTime: 0
+    roleActionData:
+      skillID: 0
+      hitID: 0
+      animName: 
+      actionFileData:
+        prefab: {fileID: 0}
+        prefabPath: 
+      leaderActionFileData: []
+      leaderProfessionList: 
+  blinkOfAnEyeData:
+    cameraBlinkOfAnEyeInfo:
+      blinkOfAnEyeList:
+      - blinkDuration: 0
+        blinkOpenSpeed: 10
+        blinkCloseSpeed: 10
+        blinkOpenCloseDuration: 2
+  blackBackgroundData:
+    blackBackgroundData:
+      duration: 0
+      waitTime: 0
+      dialogData:
+        soundWaitTime: 0
+        showDetail: 1
+        storyText: 
+        storyTextArray: []
+        waitTime: []
+        soundID: 0
+        soundDuration: 0
+  cinemaDirectorData:
+    fileData:
+      prefab: {fileID: 0}
+      prefabPath: 
+  nextTypeNames:
+  - "\u5EF6\u8FDF"
+  - "\u70B9\u51FB"
+  nextType: 1
+  nextTime: 1
+--- !u!114 &114327942499994946
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1609428962682938}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fd244fe129b00874ba0d507f5eeb7d0c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  index: 0
+  reqStoryFunction: {fileID: 0}
+  typeMenu:
+  - "\u63D2\u56FE"
+  - "\u5192\u6CE1"
+  - "\u89C6\u9891"
+  - "\u4F4D\u79FB"
+  - "\u6E38\u620F\u901F\u5EA6"
+  - "\u80CC\u666F\u97F3\u4E50"
+  type: 0
+  startWaitTime: 0
+  textData:
+    headActor: 0
+    dialogData:
+      limitRoleTypeNames:
+      - "\u65E0\u9650\u5236\u7C7B\u578B"
+      - "\u4E3B\u89D2"
+      - "\u602A\u7269"
+      limitRoleType: 2
+      roleName: "\u795E\u6708\u523A\u5BA2-\u795E\u6708"
+      isDistinguish: 0
+      dialogFileData:
+        t:
+          roleID: 530101003
+          headModelSizePercent: 0.8
+          modelLocalPos: {x: 0.011, y: -1.529, z: 1.465}
+          roleData:
+            roleTypeNames:
+            - "\u4E3B\u89D2"
+            - "\u82F1\u96C4"
+            - "\u5730\u7F16\u602A\u7269"
+            - "\u63F4\u519B"
+            controlType: 2
+            npcBirthPositionID: 530101106
+            npcBirthPositionIndex: 1
+            roleId: 0
+            battleGroupPrefabPath: 
+            battleGroupPrefab: {fileID: 0}
+            battleGroupPrefabName: 
+            enenmyCellIndex: 0
+            enemyPosition: 0
+            isShowDetail: 1
+            isLocal: 1
+            isDestory: 1
+            position: {x: 0, y: 0, z: 0}
+            angle: {x: 0, y: 0, z: 0}
+        tList: []
+        leaderProfessionList: 
+      dialogFileData1:
+        t:
+          roleID: 0
+          headModelSizePercent: 0.5
+          modelLocalPos: {x: 0, y: -1, z: 0.5}
+          roleData:
+            roleTypeNames:
+            - "\u4E3B\u89D2"
+            - "\u82F1\u96C4"
+            - "\u5730\u7F16\u602A\u7269"
+            - "\u63F4\u519B"
+            controlType: 0
+            npcBirthPositionID: 0
+            npcBirthPositionIndex: 1
+            roleId: 0
+            battleGroupPrefabPath: 
+            battleGroupPrefab: {fileID: 0}
+            battleGroupPrefabName: 
+            enenmyCellIndex: 0
+            enemyPosition: 0
+            isShowDetail: 1
+            isLocal: 0
+            isDestory: 1
+            position: {x: 0, y: 0, z: 0}
+            angle: {x: 0, y: 0, z: 0}
+        tList: []
+        leaderProfessionList: 
+      soundData:
+        t:
+          soundWaitTime: 0
+          showDetail: 1
+          storyText: 
+          storyTextArray:
+          - "\u4F60\u4EEC\u56DE\u6765\u5566\uFF1F\u600E\u4E48\uFF1F\u8D76\u4E2A\u91CE\u732A\u4E5F\u4F1A\u53D7\u4F24\u3002"
+          waitTime:
+          - 3
+          soundID: 0
+          soundDuration: 0
+        tList: []
+        leaderProfessionList: 
+      soundData1:
+        t:
+          soundWaitTime: 0
+          showDetail: 1
+          storyText: 
+          storyTextArray: []
+          waitTime: []
+          soundID: 0
+          soundDuration: 0
+        tList: []
+        leaderProfessionList: 
+    dialogStylePath: 
+    backgroundTexData:
+      showTextureType: 0
+      hideTextureType: 0
+      textTypeNames:
+      - "\u76F4\u63A5"
+      - "\u6E10\u6E10"
+      showDuration: 0
+      hideDuration: 0
+      texPath: 
+    subtitleContent:
+      showTextType: 1
+      showTextTypeNames:
+      - "\u76F4\u63A5\u663E\u793A"
+      - "\u4E00\u4E2A\u4E00\u4E2A\u663E\u793A"
+      showContext: 
+      textPositionType: 0
+      interval: 0.2
+    titleContent:
+      showTextType: 1
+      showTextTypeNames:
+      - "\u76F4\u63A5\u663E\u793A"
+      - "\u4E00\u4E2A\u4E00\u4E2A\u663E\u793A"
+      showContext: 
+      textPositionType: 0
+      interval: 0.2
+    appearanceData:
+      appearanceMode: 0
+      appearanceModeNames:
+      - "\u6B63\u5E38"
+      - "\u4FA7\u8FB9\u5212\u5165\u5212\u51FA"
+      moveInDuration: 1
+      moveOutDuration: 1
+      startPoint: {x: 800, y: 80, z: 0}
+      endPoint: {x: -60, y: 80, z: 0}
+      isChangeCameraView: 0
+      newView: 15
+      changFOVDuration: 0.5
+  bubblingData:
+    bubblingTexPath: 
+    dialogWaitTime: 0
+    roleData:
+      roleTypeNames:
+      - "\u4E3B\u89D2"
+      - "\u82F1\u96C4"
+      - "\u5730\u7F16\u602A\u7269"
+      - "\u63F4\u519B"
+      controlType: 2
+      npcBirthPositionID: 0
+      npcBirthPositionIndex: 1
+      roleId: 0
+      battleGroupPrefabPath: 
+      battleGroupPrefab: {fileID: 0}
+      battleGroupPrefabName: 
+      enenmyCellIndex: 0
+      enemyPosition: 0
+      isShowDetail: 1
+      isLocal: 0
+      isDestory: 1
+      position: {x: 0, y: 0, z: 0}
+      angle: {x: 0, y: 0, z: 0}
+    soundData:
+      soundWaitTime: 0
+      showDetail: 1
+      storyText: 
+      storyTextArray: []
+      waitTime: []
+      soundID: 0
+      soundDuration: 0
+    soundData1:
+      soundWaitTime: 0
+      showDetail: 1
+      storyText: 
+      storyTextArray: []
+      waitTime: []
+      soundID: 0
+      soundDuration: 0
+    showDetail: 1
+    heroList: 
+    soundDataList: []
+    isHideCharacter: 0
+  movieData:
+    moviePath: 
+    isCanJump: 1
+  storyboardData:
+    movieTypeNames:
+    - "\u9009\u62E9\u8FB9\u7F18\u6846"
+    - "\u9009\u62E9\u5BF9\u8BDD\u76F8\u5173"
+    - "\u955C\u5934\u76F8\u5173"
+    - "\u4EBA\u7269\u9884\u8BBE"
+    - "\u4EBA\u7269\u884C\u4E3A\u76F8\u5173"
+    movieType: 0
+    cameraControlType: 0
+    roleActionType: 0
+    edgeFramTexData:
+      showTextureType: 0
+      hideTextureType: 0
+      textTypeNames:
+      - "\u76F4\u63A5"
+      - "\u6E10\u6E10"
+      showDuration: 0
+      hideDuration: 0
+      texPath: 
+    bubblingTexPath: 
+    bubblingExistTime: 0
+    animatonName: 
+    actionSpeed: 0
+    isLoop: 0
+    costTime: 0
+    moveSpeed: 0
+    roleData:
+      roleTypeNames:
+      - "\u4E3B\u89D2"
+      - "\u82F1\u96C4"
+      - "\u5730\u7F16\u602A\u7269"
+      - "\u63F4\u519B"
+      controlType: 0
+      npcBirthPositionID: 0
+      npcBirthPositionIndex: 1
+      roleId: 0
+      battleGroupPrefabPath: 
+      battleGroupPrefab: {fileID: 0}
+      battleGroupPrefabName: 
+      enenmyCellIndex: 0
+      enemyPosition: 0
+      isShowDetail: 1
+      isLocal: 0
+      isDestory: 1
+      position: {x: 0, y: 0, z: 0}
+      angle: {x: 0, y: 0, z: 0}
+    soundData:
+      soundWaitTime: 0
+      showDetail: 1
+      storyText: 
+      storyTextArray: []
+      waitTime: []
+      soundID: 0
+      soundDuration: 0
+  displacementData:
+    roleData:
+      roleTypeNames:
+      - "\u4E3B\u89D2"
+      - "\u82F1\u96C4"
+      - "\u5730\u7F16\u602A\u7269"
+      - "\u63F4\u519B"
+      controlType: 2
+      npcBirthPositionID: 30101102
+      npcBirthPositionIndex: 1
+      roleId: 0
+      battleGroupPrefabPath: 
+      battleGroupPrefab: {fileID: 0}
+      battleGroupPrefabName: 
+      enenmyCellIndex: 0
+      enemyPosition: 0
+      isShowDetail: 1
+      isLocal: 1
+      isDestory: 1
+      position: {x: 0, y: 0, z: 0}
+      angle: {x: 0, y: 0, z: 0}
+    moveSpeed: 5
+    position: {x: -8.1, y: -42.8, z: 3.3}
+    angle: {x: 0, y: 0, z: 0}
+  gameSpeedData:
+    gameSpeed: 0
+  backMusicData:
+    soundID: 0
+    volume: 0.8
+  cameraData:
+    cameraWaitTime: 0
+    isHidePlayer: 0
+    highOffset: 2.3
+    cameraAnimatorData:
+      cameraPath: 
+      cameraAnimatorName: 
+      cameraAngle: {x: 0, y: 0, z: 0}
+      fieldOfView: 45
+      nearClippingPlanes: 0.1
+      FarClippingPlanes: 300
+      audioListenerPos: {x: 0, y: 0, z: 0}
+    cameraShakeInfos: []
+  animationData:
+    roleData:
+      roleTypeNames:
+      - "\u4E3B\u89D2"
+      - "\u82F1\u96C4"
+      - "\u5730\u7F16\u602A\u7269"
+      - "\u63F4\u519B"
+      controlType: 0
+      npcBirthPositionID: 0
+      npcBirthPositionIndex: 1
+      roleId: 0
+      battleGroupPrefabPath: 
+      battleGroupPrefab: {fileID: 0}
+      battleGroupPrefabName: 
+      enenmyCellIndex: 0
+      enemyPosition: 0
+      isShowDetail: 1
+      isLocal: 0
+      isDestory: 1
+      position: {x: 0, y: 0, z: 0}
+      angle: {x: 0, y: 0, z: 0}
+    actionWaitTime: 0
+    roleActionData:
+      skillID: 0
+      hitID: 0
+      animName: 
+      actionFileData:
+        prefab: {fileID: 0}
+        prefabPath: 
+      leaderActionFileData: []
+      leaderProfessionList: 
+  blinkOfAnEyeData:
+    cameraBlinkOfAnEyeInfo:
+      blinkOfAnEyeList: []
+  blackBackgroundData:
+    blackBackgroundData:
+      duration: 0
+      waitTime: 0
+      dialogData:
+        soundWaitTime: 0
+        showDetail: 1
+        storyText: 
+        storyTextArray: []
+        waitTime: []
+        soundID: 0
+        soundDuration: 0
+  cinemaDirectorData:
+    fileData:
+      prefab: {fileID: 0}
+      prefabPath: 
+  nextTypeNames:
+  - "\u5EF6\u8FDF"
+  - "\u70B9\u51FB"
+  nextType: 1
+  nextTime: 1
+--- !u!114 &114331340800459756
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1151694836367340}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 54d2b6b4d94552a4cae1b6eff55999cf, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  isAutoPlay: 1
+--- !u!114 &114382338245147858
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1779388035437040}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 54d2b6b4d94552a4cae1b6eff55999cf, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  isAutoPlay: 1
+--- !u!114 &114405113822378374
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1370472758186402}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fd244fe129b00874ba0d507f5eeb7d0c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  index: 0
+  reqStoryFunction: {fileID: 0}
+  typeMenu:
+  - "\u63D2\u56FE"
+  - "\u5192\u6CE1"
+  - "\u89C6\u9891"
+  - "\u4F4D\u79FB"
+  - "\u6E38\u620F\u901F\u5EA6"
+  - "\u80CC\u666F\u97F3\u4E50"
+  type: 0
+  startWaitTime: 0
+  textData:
+    headActor: 0
+    dialogData:
+      limitRoleTypeNames:
+      - "\u65E0\u9650\u5236\u7C7B\u578B"
+      - "\u4E3B\u89D2"
+      - "\u602A\u7269"
+      limitRoleType: 2
+      roleName: "\u795E\u6708\u523A\u5BA2-\u795E\u6708"
+      isDistinguish: 0
+      dialogFileData:
+        t:
+          roleID: 530101001
+          headModelSizePercent: 0.6
+          modelLocalPos: {x: 0, y: -1.37, z: 1.7}
+          roleData:
+            roleTypeNames:
+            - "\u4E3B\u89D2"
+            - "\u82F1\u96C4"
+            - "\u5730\u7F16\u602A\u7269"
+            - "\u63F4\u519B"
+            controlType: 2
+            npcBirthPositionID: 530101103
+            npcBirthPositionIndex: 1
+            roleId: 0
+            battleGroupPrefabPath: 
+            battleGroupPrefab: {fileID: 0}
+            battleGroupPrefabName: 
+            enenmyCellIndex: 0
+            enemyPosition: 0
+            isShowDetail: 1
+            isLocal: 1
+            isDestory: 1
+            position: {x: 0, y: 0, z: 0}
+            angle: {x: 0, y: 0, z: 0}
+        tList: []
+        leaderProfessionList: 
+      dialogFileData1:
+        t:
+          roleID: 0
+          headModelSizePercent: 0.5
+          modelLocalPos: {x: 0, y: -1, z: 0.5}
+          roleData:
+            roleTypeNames:
+            - "\u4E3B\u89D2"
+            - "\u82F1\u96C4"
+            - "\u5730\u7F16\u602A\u7269"
+            - "\u63F4\u519B"
+            controlType: 0
+            npcBirthPositionID: 0
+            npcBirthPositionIndex: 1
+            roleId: 0
+            battleGroupPrefabPath: 
+            battleGroupPrefab: {fileID: 0}
+            battleGroupPrefabName: 
+            enenmyCellIndex: 0
+            enemyPosition: 0
+            isShowDetail: 1
+            isLocal: 0
+            isDestory: 1
+            position: {x: 0, y: 0, z: 0}
+            angle: {x: 0, y: 0, z: 0}
+        tList: []
+        leaderProfessionList: 
+      soundData:
+        t:
+          soundWaitTime: 0
+          showDetail: 1
+          storyText: 
+          storyTextArray:
+          - "\u4E8B\u60C5\u662F\u8FD9\u6837\u7684\u2026\u2026"
+          waitTime:
+          - 3
+          soundID: 0
+          soundDuration: 0
+        tList: []
+        leaderProfessionList: 
+      soundData1:
+        t:
+          soundWaitTime: 0
+          showDetail: 1
+          storyText: 
+          storyTextArray: []
+          waitTime: []
+          soundID: 0
+          soundDuration: 0
+        tList: []
+        leaderProfessionList: 
+    dialogStylePath: 
+    backgroundTexData:
+      showTextureType: 0
+      hideTextureType: 0
+      textTypeNames:
+      - "\u76F4\u63A5"
+      - "\u6E10\u6E10"
+      showDuration: 0
+      hideDuration: 0
+      texPath: 
+    subtitleContent:
+      showTextType: 1
+      showTextTypeNames:
+      - "\u76F4\u63A5\u663E\u793A"
+      - "\u4E00\u4E2A\u4E00\u4E2A\u663E\u793A"
+      showContext: 
+      textPositionType: 0
+      interval: 0.2
+    titleContent:
+      showTextType: 1
+      showTextTypeNames:
+      - "\u76F4\u63A5\u663E\u793A"
+      - "\u4E00\u4E2A\u4E00\u4E2A\u663E\u793A"
+      showContext: 
+      textPositionType: 0
+      interval: 0.2
+    appearanceData:
+      appearanceMode: 0
+      appearanceModeNames:
+      - "\u6B63\u5E38"
+      - "\u4FA7\u8FB9\u5212\u5165\u5212\u51FA"
+      moveInDuration: 1
+      moveOutDuration: 1
+      startPoint: {x: 800, y: 80, z: 0}
+      endPoint: {x: -60, y: 80, z: 0}
+      isChangeCameraView: 0
+      newView: 15
+      changFOVDuration: 0.5
+  bubblingData:
+    bubblingTexPath: 
+    dialogWaitTime: 0
+    roleData:
+      roleTypeNames:
+      - "\u4E3B\u89D2"
+      - "\u82F1\u96C4"
+      - "\u5730\u7F16\u602A\u7269"
+      - "\u63F4\u519B"
+      controlType: 2
+      npcBirthPositionID: 0
+      npcBirthPositionIndex: 1
+      roleId: 0
+      battleGroupPrefabPath: 
+      battleGroupPrefab: {fileID: 0}
+      battleGroupPrefabName: 
+      enenmyCellIndex: 0
+      enemyPosition: 0
+      isShowDetail: 1
+      isLocal: 0
+      isDestory: 1
+      position: {x: 0, y: 0, z: 0}
+      angle: {x: 0, y: 0, z: 0}
+    soundData:
+      soundWaitTime: 0
+      showDetail: 1
+      storyText: 
+      storyTextArray: []
+      waitTime: []
+      soundID: 0
+      soundDuration: 0
+    soundData1:
+      soundWaitTime: 0
+      showDetail: 1
+      storyText: 
+      storyTextArray: []
+      waitTime: []
+      soundID: 0
+      soundDuration: 0
+    showDetail: 1
+    heroList: 
+    soundDataList: []
+    isHideCharacter: 0
+  movieData:
+    moviePath: 
+    isCanJump: 1
+  storyboardData:
+    movieTypeNames:
+    - "\u9009\u62E9\u8FB9\u7F18\u6846"
+    - "\u9009\u62E9\u5BF9\u8BDD\u76F8\u5173"
+    - "\u955C\u5934\u76F8\u5173"
+    - "\u4EBA\u7269\u9884\u8BBE"
+    - "\u4EBA\u7269\u884C\u4E3A\u76F8\u5173"
+    movieType: 0
+    cameraControlType: 0
+    roleActionType: 0
+    edgeFramTexData:
+      showTextureType: 0
+      hideTextureType: 0
+      textTypeNames:
+      - "\u76F4\u63A5"
+      - "\u6E10\u6E10"
+      showDuration: 0
+      hideDuration: 0
+      texPath: 
+    bubblingTexPath: 
+    bubblingExistTime: 0
+    animatonName: 
+    actionSpeed: 0
+    isLoop: 0
+    costTime: 0
+    moveSpeed: 0
+    roleData:
+      roleTypeNames:
+      - "\u4E3B\u89D2"
+      - "\u82F1\u96C4"
+      - "\u5730\u7F16\u602A\u7269"
+      - "\u63F4\u519B"
+      controlType: 0
+      npcBirthPositionID: 0
+      npcBirthPositionIndex: 1
+      roleId: 0
+      battleGroupPrefabPath: 
+      battleGroupPrefab: {fileID: 0}
+      battleGroupPrefabName: 
+      enenmyCellIndex: 0
+      enemyPosition: 0
+      isShowDetail: 1
+      isLocal: 0
+      isDestory: 1
+      position: {x: 0, y: 0, z: 0}
+      angle: {x: 0, y: 0, z: 0}
+    soundData:
+      soundWaitTime: 0
+      showDetail: 1
+      storyText: 
+      storyTextArray: []
+      waitTime: []
+      soundID: 0
+      soundDuration: 0
+  displacementData:
+    roleData:
+      roleTypeNames:
+      - "\u4E3B\u89D2"
+      - "\u82F1\u96C4"
+      - "\u5730\u7F16\u602A\u7269"
+      - "\u63F4\u519B"
+      controlType: 2
+      npcBirthPositionID: 30101102
+      npcBirthPositionIndex: 1
+      roleId: 0
+      battleGroupPrefabPath: 
+      battleGroupPrefab: {fileID: 0}
+      battleGroupPrefabName: 
+      enenmyCellIndex: 0
+      enemyPosition: 0
+      isShowDetail: 1
+      isLocal: 1
+      isDestory: 1
+      position: {x: 0, y: 0, z: 0}
+      angle: {x: 0, y: 0, z: 0}
+    moveSpeed: 5
+    position: {x: -8.1, y: -42.8, z: 3.3}
+    angle: {x: 0, y: 0, z: 0}
+  gameSpeedData:
+    gameSpeed: 0
+  backMusicData:
+    soundID: 0
+    volume: 0.8
+  cameraData:
+    cameraWaitTime: 0
+    isHidePlayer: 0
+    highOffset: 2.3
+    cameraAnimatorData:
+      cameraPath: 
+      cameraAnimatorName: 
+      cameraAngle: {x: 0, y: 0, z: 0}
+      fieldOfView: 45
+      nearClippingPlanes: 0.1
+      FarClippingPlanes: 300
+      audioListenerPos: {x: 0, y: 0, z: 0}
+    cameraShakeInfos: []
+  animationData:
+    roleData:
+      roleTypeNames:
+      - "\u4E3B\u89D2"
+      - "\u82F1\u96C4"
+      - "\u5730\u7F16\u602A\u7269"
+      - "\u63F4\u519B"
+      controlType: 0
+      npcBirthPositionID: 0
+      npcBirthPositionIndex: 1
+      roleId: 0
+      battleGroupPrefabPath: 
+      battleGroupPrefab: {fileID: 0}
+      battleGroupPrefabName: 
+      enenmyCellIndex: 0
+      enemyPosition: 0
+      isShowDetail: 1
+      isLocal: 0
+      isDestory: 1
+      position: {x: 0, y: 0, z: 0}
+      angle: {x: 0, y: 0, z: 0}
+    actionWaitTime: 0
+    roleActionData:
+      skillID: 0
+      hitID: 0
+      animName: 
+      actionFileData:
+        prefab: {fileID: 0}
+        prefabPath: 
+      leaderActionFileData: []
+      leaderProfessionList: 
+  blinkOfAnEyeData:
+    cameraBlinkOfAnEyeInfo:
+      blinkOfAnEyeList: []
+  blackBackgroundData:
+    blackBackgroundData:
+      duration: 0
+      waitTime: 0
+      dialogData:
+        soundWaitTime: 0
+        showDetail: 1
+        storyText: 
+        storyTextArray: []
+        waitTime: []
+        soundID: 0
+        soundDuration: 0
+  cinemaDirectorData:
+    fileData:
+      prefab: {fileID: 0}
+      prefabPath: 
+  nextTypeNames:
+  - "\u5EF6\u8FDF"
+  - "\u70B9\u51FB"
+  nextType: 1
+  nextTime: 1
+--- !u!114 &114524578025199268
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1207818030938620}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4d3b47fb538e62044808c97ab2d93b86, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  conStr:
+  - "\u8D70\u5230\u67D0\u533A\u57DF\uFF08X,Y,Z\uFF09(\u53EF\u9644\u52A0\u6761\u4EF6)"
+  - "\u67D0\u6CE2\u654C\u4EBA\u6B7B\u4EA1"
+  - "\u8FDB\u5165\u6E38\u620F"
+  - "\u6E38\u620F\u7ED3\u7B97\u540E"
+  - "\u67D0\u6CE2\u89D2\u8272\u52A0\u8F7D\u540E"
+  - "\u5230\u8FBE\u7B2C\u51E0\u6CE2\u602A\u7684CENTER\u70B9"
+  - "\u8840\u91CF\u4F4E\u4E8E\u4E00\u5B9A\u503C"
+  - "Loading\u7ED3\u675F\u5F00\u59CB\u6218\u6597"
+  - "\u6218\u6597\u80DC\u5229"
+  - "\u64AD\u653E\u6280\u80FD"
+  - "\u81EA\u52A8\u7ACB\u5373\u89E6\u53D1"
+  - "\u5176\u4ED6\u5267\u60C5\u5B8C\u6210\u89E6\u53D1\u6B64\u6761\u4EF6"
+  - "\u4EFB\u52A1\u5B8C\u6210\u89E6\u53D1\u5267\u60C5"
+  - "\u6D4B\u8BD5\u7528"
+  type: 0
+  roleData:
+    roleTypeNames:
+    - "\u4E3B\u89D2"
+    - "\u82F1\u96C4"
+    - "\u5730\u7F16\u602A\u7269"
+    - "\u63F4\u519B"
+    controlType: 0
+    npcBirthPositionID: 0
+    npcBirthPositionIndex: 1
+    roleId: 0
+    battleGroupPrefabPath: 
+    battleGroupPrefab: {fileID: 0}
+    battleGroupPrefabName: 
+    enenmyCellIndex: 0
+    enemyPosition: 0
+    isShowDetail: 1
+    isLocal: 0
+    isDestory: 1
+    position: {x: 0, y: 0, z: 0}
+    angle: {x: 0, y: 0, z: 0}
+  waveData:
+    battleGroupPrefabPath: 
+    battleGroupPrefab: {fileID: 0}
+    battleGroupPrefabName: 
+    waveBirthPosList: 
+    roleData:
+      roleTypeNames:
+      - "\u4E3B\u89D2"
+      - "\u82F1\u96C4"
+      - "\u5730\u7F16\u602A\u7269"
+      - "\u63F4\u519B"
+      controlType: 0
+      npcBirthPositionID: 0
+      npcBirthPositionIndex: 1
+      roleId: 0
+      battleGroupPrefabPath: 
+      battleGroupPrefab: {fileID: 0}
+      battleGroupPrefabName: 
+      enenmyCellIndex: 0
+      enemyPosition: 0
+      isShowDetail: 1
+      isLocal: 0
+      isDestory: 1
+      position: {x: 0, y: 0, z: 0}
+      angle: {x: 0, y: 0, z: 0}
+  bloodLimitPercent: 0
+  skillID: 0
+  storyConditionID: 0
+  rectConditionID: -1
+  isBroadCast: 0
+  roleDataList:
+  - roleTypeNames:
+    - "\u4E3B\u89D2"
+    - "\u82F1\u96C4"
+    - "\u5730\u7F16\u602A\u7269"
+    - "\u63F4\u519B"
+    controlType: 2
+    npcBirthPositionID: 530101103
+    npcBirthPositionIndex: 1
+    roleId: 0
+    battleGroupPrefabPath: 
+    battleGroupPrefab: {fileID: 0}
+    battleGroupPrefabName: 
+    enenmyCellIndex: 0
+    enemyPosition: 0
+    isShowDetail: 1
+    isLocal: 1
+    isDestory: 0
+    position: {x: 0, y: 0, z: 0}
+    angle: {x: 0, y: 0, z: 0}
+  - roleTypeNames:
+    - "\u4E3B\u89D2"
+    - "\u82F1\u96C4"
+    - "\u5730\u7F16\u602A\u7269"
+    - "\u63F4\u519B"
+    controlType: 2
+    npcBirthPositionID: 530101104
+    npcBirthPositionIndex: 1
+    roleId: 0
+    battleGroupPrefabPath: 
+    battleGroupPrefab: {fileID: 0}
+    battleGroupPrefabName: 
+    enenmyCellIndex: 0
+    enemyPosition: 0
+    isShowDetail: 1
+    isLocal: 1
+    isDestory: 0
+    position: {x: 0, y: 0, z: 0}
+    angle: {x: 0, y: 0, z: 0}
+  - roleTypeNames:
+    - "\u4E3B\u89D2"
+    - "\u82F1\u96C4"
+    - "\u5730\u7F16\u602A\u7269"
+    - "\u63F4\u519B"
+    controlType: 2
+    npcBirthPositionID: 530101106
+    npcBirthPositionIndex: 1
+    roleId: 0
+    battleGroupPrefabPath: 
+    battleGroupPrefab: {fileID: 0}
+    battleGroupPrefabName: 
+    enenmyCellIndex: 0
+    enemyPosition: 0
+    isShowDetail: 1
+    isLocal: 1
+    isDestory: 0
+    position: {x: 0, y: 0, z: 0}
+    angle: {x: 0, y: 0, z: 0}
+  isNoticeServerLoadNPC: 0
+  isNoticeServerEnterStoryModel: 0
+  goalID: 1090
+  playInStoryModel: 0
+  isEndForceDestory: 0
+--- !u!114 &114553125717625556
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1582861509365104}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 54d2b6b4d94552a4cae1b6eff55999cf, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  isAutoPlay: 1
+--- !u!114 &114597489389404702
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1399987053179638}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 680b4175f84caad46a31779f042759c5, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  dataArray:
+  - {fileID: 0}
+  - {fileID: 114524578025199268}
+  - {fileID: 0}
+--- !u!114 &114625987716240776
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1621485373406928}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fd244fe129b00874ba0d507f5eeb7d0c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  index: 0
+  reqStoryFunction: {fileID: 0}
+  typeMenu:
+  - "\u63D2\u56FE"
+  - "\u5192\u6CE1"
+  - "\u89C6\u9891"
+  - "\u4F4D\u79FB"
+  - "\u6E38\u620F\u901F\u5EA6"
+  - "\u80CC\u666F\u97F3\u4E50"
+  - "\u76F8\u673A"
+  - "\u52A8\u4F5C"
+  - "\u9ED1\u5E55"
+  - "\u5267\u60C5\u52A8\u753B"
+  type: 0
+  startWaitTime: 0
+  textData:
+    headActor: 0
+    dialogData:
+      limitRoleTypeNames:
+      - "\u65E0\u9650\u5236\u7C7B\u578B"
+      - "\u4E3B\u89D2"
+      - "\u602A\u7269"
+      limitRoleType: 2
+      roleName: 
+      isDistinguish: 0
+      dialogFileData:
+        t:
+          roleID: 530101002
+          headModelSizePercent: 0.6
+          modelLocalPos: {x: 0, y: -1.37, z: 1.7}
+          roleData:
+            roleTypeNames:
+            - "\u4E3B\u89D2"
+            - "\u82F1\u96C4"
+            - "\u5730\u7F16\u602A\u7269"
+            - "\u63F4\u519B"
+            controlType: 2
+            npcBirthPositionID: 530101104
+            npcBirthPositionIndex: 1
+            roleId: 0
+            battleGroupPrefabPath: 
+            battleGroupPrefab: {fileID: 0}
+            battleGroupPrefabName: 
+            enenmyCellIndex: 0
+            enemyPosition: 0
+            isShowDetail: 1
+            isLocal: 1
+            isDestory: 1
+            position: {x: 0, y: 0, z: 0}
+            angle: {x: 0, y: 0, z: 0}
+        tList: []
+        leaderProfessionList: 
+      dialogFileData1:
+        t:
+          roleID: 0
+          headModelSizePercent: 0.5
+          modelLocalPos: {x: 0, y: -1, z: 0.5}
+          roleData:
+            roleTypeNames:
+            - "\u4E3B\u89D2"
+            - "\u82F1\u96C4"
+            - "\u5730\u7F16\u602A\u7269"
+            - "\u63F4\u519B"
+            controlType: 0
+            npcBirthPositionID: 0
+            npcBirthPositionIndex: 1
+            roleId: 0
+            battleGroupPrefabPath: 
+            battleGroupPrefab: {fileID: 0}
+            battleGroupPrefabName: 
+            enenmyCellIndex: 0
+            enemyPosition: 0
+            isShowDetail: 1
+            isLocal: 0
+            isDestory: 1
+            position: {x: 0, y: 0, z: 0}
+            angle: {x: 0, y: 0, z: 0}
+        tList: []
+        leaderProfessionList: 
+      soundData:
+        t:
+          soundWaitTime: 0
+          showDetail: 1
+          storyText: 
+          storyTextArray:
+          - "\u8BF4\u6765\u8BDD\u957F\uFF0C\u8FD9\u4E2A\u753B\u50CF\u4E0A\u7684\u4EBA\u5C31\u662F\u6211....\u90A3\u662F\u5728\u5341\u516D\u5E74\u524D..."
+          waitTime:
+          - 3
+          soundID: 0
+          soundDuration: 0
+        tList: []
+        leaderProfessionList: 
+      soundData1:
+        t:
+          soundWaitTime: 0
+          showDetail: 1
+          storyText: 
+          storyTextArray: []
+          waitTime: []
+          soundID: 0
+          soundDuration: 0
+        tList: []
+        leaderProfessionList: 
+    dialogStylePath: 
+    backgroundTexData:
+      showTextureType: 0
+      hideTextureType: 0
+      textTypeNames:
+      - "\u76F4\u63A5"
+      - "\u6E10\u6E10"
+      showDuration: 0
+      hideDuration: 0
+      texPath: 
+    subtitleContent:
+      showTextType: 1
+      showTextTypeNames:
+      - "\u76F4\u63A5\u663E\u793A"
+      - "\u4E00\u4E2A\u4E00\u4E2A\u663E\u793A"
+      showContext: 
+      textPositionType: 0
+      interval: 0.2
+    titleContent:
+      showTextType: 1
+      showTextTypeNames:
+      - "\u76F4\u63A5\u663E\u793A"
+      - "\u4E00\u4E2A\u4E00\u4E2A\u663E\u793A"
+      showContext: 
+      textPositionType: 0
+      interval: 0.2
+    appearanceData:
+      appearanceMode: 0
+      appearanceModeNames:
+      - "\u6B63\u5E38"
+      - "\u4FA7\u8FB9\u5212\u5165\u5212\u51FA"
+      moveInDuration: 1
+      moveOutDuration: 1
+      startPoint: {x: 800, y: 80, z: 0}
+      endPoint: {x: -60, y: 80, z: 0}
+      isChangeCameraView: 0
+      newView: 15
+      changFOVDuration: 0.5
+  bubblingData:
+    bubblingTexPath: 
+    dialogWaitTime: 0
+    roleData:
+      roleTypeNames:
+      - "\u4E3B\u89D2"
+      - "\u82F1\u96C4"
+      - "\u5730\u7F16\u602A\u7269"
+      - "\u63F4\u519B"
+      controlType: 0
+      npcBirthPositionID: 0
+      npcBirthPositionIndex: 1
+      roleId: 0
+      battleGroupPrefabPath: 
+      battleGroupPrefab: {fileID: 0}
+      battleGroupPrefabName: 
+      enenmyCellIndex: 0
+      enemyPosition: 0
+      isShowDetail: 1
+      isLocal: 0
+      isDestory: 1
+      position: {x: 0, y: 0, z: 0}
+      angle: {x: 0, y: 0, z: 0}
+    soundData:
+      soundWaitTime: 0
+      showDetail: 1
+      storyText: 
+      storyTextArray: []
+      waitTime: []
+      soundID: 0
+      soundDuration: 0
+    soundData1:
+      soundWaitTime: 0
+      showDetail: 1
+      storyText: 
+      storyTextArray: []
+      waitTime: []
+      soundID: 0
+      soundDuration: 0
+    showDetail: 1
+    heroList: 
+    soundDataList: []
+    isHideCharacter: 0
+  movieData:
+    moviePath: 
+    isCanJump: 1
+  storyboardData:
+    movieTypeNames:
+    - "\u9009\u62E9\u8FB9\u7F18\u6846"
+    - "\u9009\u62E9\u5BF9\u8BDD\u76F8\u5173"
+    - "\u955C\u5934\u76F8\u5173"
+    - "\u4EBA\u7269\u9884\u8BBE"
+    - "\u4EBA\u7269\u884C\u4E3A\u76F8\u5173"
+    movieType: 0
+    cameraControlType: 0
+    roleActionType: 0
+    edgeFramTexData:
+      showTextureType: 0
+      hideTextureType: 0
+      textTypeNames:
+      - "\u76F4\u63A5"
+      - "\u6E10\u6E10"
+      showDuration: 0
+      hideDuration: 0
+      texPath: 
+    bubblingTexPath: 
+    bubblingExistTime: 0
+    animatonName: 
+    actionSpeed: 0
+    isLoop: 0
+    costTime: 0
+    moveSpeed: 0
+    roleData:
+      roleTypeNames:
+      - "\u4E3B\u89D2"
+      - "\u82F1\u96C4"
+      - "\u5730\u7F16\u602A\u7269"
+      - "\u63F4\u519B"
+      controlType: 0
+      npcBirthPositionID: 0
+      npcBirthPositionIndex: 1
+      roleId: 0
+      battleGroupPrefabPath: 
+      battleGroupPrefab: {fileID: 0}
+      battleGroupPrefabName: 
+      enenmyCellIndex: 0
+      enemyPosition: 0
+      isShowDetail: 1
+      isLocal: 0
+      isDestory: 1
+      position: {x: 0, y: 0, z: 0}
+      angle: {x: 0, y: 0, z: 0}
+    soundData:
+      soundWaitTime: 0
+      showDetail: 1
+      storyText: 
+      storyTextArray: []
+      waitTime: []
+      soundID: 0
+      soundDuration: 0
+  displacementData:
+    roleData:
+      roleTypeNames:
+      - "\u4E3B\u89D2"
+      - "\u82F1\u96C4"
+      - "\u5730\u7F16\u602A\u7269"
+      - "\u63F4\u519B"
+      controlType: 0
+      npcBirthPositionID: 0
+      npcBirthPositionIndex: 1
+      roleId: 0
+      battleGroupPrefabPath: 
+      battleGroupPrefab: {fileID: 0}
+      battleGroupPrefabName: 
+      enenmyCellIndex: 0
+      enemyPosition: 0
+      isShowDetail: 1
+      isLocal: 0
+      isDestory: 1
+      position: {x: 0, y: 0, z: 0}
+      angle: {x: 0, y: 0, z: 0}
+    moveSpeed: 5
+    position: {x: 0, y: 0, z: 0}
+    angle: {x: 0, y: 0, z: 0}
+  gameSpeedData:
+    gameSpeed: 0
+  backMusicData:
+    soundID: 0
+    volume: 0.8
+  cameraData:
+    cameraWaitTime: 0
+    isHidePlayer: 0
+    highOffset: 2.3
+    cameraAnimatorData:
+      cameraPath: 
+      cameraAnimatorName: 
+      cameraAngle: {x: 0, y: 0, z: 0}
+      fieldOfView: 45
+      nearClippingPlanes: 0.1
+      FarClippingPlanes: 300
+      audioListenerPos: {x: 0, y: 0, z: 0}
+    cameraShakeInfos: []
+  animationData:
+    roleData:
+      roleTypeNames:
+      - "\u4E3B\u89D2"
+      - "\u82F1\u96C4"
+      - "\u5730\u7F16\u602A\u7269"
+      - "\u63F4\u519B"
+      controlType: 0
+      npcBirthPositionID: 0
+      npcBirthPositionIndex: 1
+      roleId: 0
+      battleGroupPrefabPath: 
+      battleGroupPrefab: {fileID: 0}
+      battleGroupPrefabName: 
+      enenmyCellIndex: 0
+      enemyPosition: 0
+      isShowDetail: 1
+      isLocal: 0
+      isDestory: 1
+      position: {x: 0, y: 0, z: 0}
+      angle: {x: 0, y: 0, z: 0}
+    actionWaitTime: 0
+    roleActionData:
+      skillID: 0
+      hitID: 0
+      animName: 
+      actionFileData:
+        prefab: {fileID: 0}
+        prefabPath: 
+      leaderActionFileData: []
+      leaderProfessionList: 
+  blinkOfAnEyeData:
+    cameraBlinkOfAnEyeInfo:
+      blinkOfAnEyeList:
+      - blinkDuration: 0
+        blinkOpenSpeed: 10
+        blinkCloseSpeed: 10
+        blinkOpenCloseDuration: 2
+  blackBackgroundData:
+    blackBackgroundData:
+      duration: 0
+      waitTime: 0
+      dialogData:
+        soundWaitTime: 0
+        showDetail: 1
+        storyText: 
+        storyTextArray: []
+        waitTime: []
+        soundID: 0
+        soundDuration: 0
+  cinemaDirectorData:
+    fileData:
+      prefab: {fileID: 0}
+      prefabPath: 
+  nextTypeNames:
+  - "\u5EF6\u8FDF"
+  - "\u70B9\u51FB"
+  nextType: 1
+  nextTime: 1
+--- !u!114 &114632675349962282
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1609428962682938}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 54d2b6b4d94552a4cae1b6eff55999cf, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  isAutoPlay: 1
+--- !u!114 &114692263200341874
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1051753320150726}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 54d2b6b4d94552a4cae1b6eff55999cf, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  isAutoPlay: 1
+--- !u!114 &114718801732311306
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1141559139493820}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4d3b47fb538e62044808c97ab2d93b86, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  conStr:
+  - "\u8D70\u5230\u67D0\u533A\u57DF\uFF08X,Y,Z\uFF09(\u53EF\u9644\u52A0\u6761\u4EF6)"
+  - "\u67D0\u6CE2\u654C\u4EBA\u6B7B\u4EA1"
+  - "\u8FDB\u5165\u6E38\u620F"
+  - "\u6E38\u620F\u7ED3\u7B97\u540E"
+  - "\u67D0\u6CE2\u89D2\u8272\u52A0\u8F7D\u540E"
+  - "\u5230\u8FBE\u7B2C\u51E0\u6CE2\u602A\u7684CENTER\u70B9"
+  - "\u8840\u91CF\u4F4E\u4E8E\u4E00\u5B9A\u503C"
+  - "Loading\u7ED3\u675F\u5F00\u59CB\u6218\u6597"
+  - "\u6218\u6597\u80DC\u5229"
+  - "\u64AD\u653E\u6280\u80FD"
+  - "\u81EA\u52A8\u7ACB\u5373\u89E6\u53D1"
+  - "\u5176\u4ED6\u5267\u60C5\u5B8C\u6210\u89E6\u53D1\u6B64\u6761\u4EF6"
+  - "\u4EFB\u52A1\u5B8C\u6210\u89E6\u53D1\u5267\u60C5"
+  - "\u6D4B\u8BD5\u7528"
+  type: 11
+  roleData:
+    roleTypeNames:
+    - "\u4E3B\u89D2"
+    - "\u82F1\u96C4"
+    - "\u5730\u7F16\u602A\u7269"
+    - "\u63F4\u519B"
+    controlType: 0
+    npcBirthPositionID: 0
+    npcBirthPositionIndex: 1
+    roleId: 0
+    battleGroupPrefabPath: 
+    battleGroupPrefab: {fileID: 0}
+    battleGroupPrefabName: 
+    enenmyCellIndex: 0
+    enemyPosition: 0
+    isShowDetail: 1
+    isLocal: 0
+    isDestory: 1
+    position: {x: 0, y: 0, z: 0}
+    angle: {x: 0, y: 0, z: 0}
+  waveData:
+    battleGroupPrefabPath: 
+    battleGroupPrefab: {fileID: 0}
+    battleGroupPrefabName: 
+    waveBirthPosList: 
+    roleData:
+      roleTypeNames:
+      - "\u4E3B\u89D2"
+      - "\u82F1\u96C4"
+      - "\u5730\u7F16\u602A\u7269"
+      - "\u63F4\u519B"
+      controlType: 0
+      npcBirthPositionID: 0
+      npcBirthPositionIndex: 1
+      roleId: 0
+      battleGroupPrefabPath: 
+      battleGroupPrefab: {fileID: 0}
+      battleGroupPrefabName: 
+      enenmyCellIndex: 0
+      enemyPosition: 0
+      isShowDetail: 1
+      isLocal: 0
+      isDestory: 1
+      position: {x: 0, y: 0, z: 0}
+      angle: {x: 0, y: 0, z: 0}
+  bloodLimitPercent: 0
+  skillID: 0
+  storyConditionID: 2
+  rectConditionID: -1
+  isBroadCast: 0
+  roleDataList:
+  - roleTypeNames:
+    - "\u4E3B\u89D2"
+    - "\u82F1\u96C4"
+    - "\u5730\u7F16\u602A\u7269"
+    - "\u63F4\u519B"
+    controlType: 2
+    npcBirthPositionID: 530101103
+    npcBirthPositionIndex: 1
+    roleId: 0
+    battleGroupPrefabPath: 
+    battleGroupPrefab: {fileID: 0}
+    battleGroupPrefabName: 
+    enenmyCellIndex: 0
+    enemyPosition: 0
+    isShowDetail: 1
+    isLocal: 1
+    isDestory: 0
+    position: {x: 0, y: 0, z: 0}
+    angle: {x: 0, y: 0, z: 0}
+  - roleTypeNames:
+    - "\u4E3B\u89D2"
+    - "\u82F1\u96C4"
+    - "\u5730\u7F16\u602A\u7269"
+    - "\u63F4\u519B"
+    controlType: 2
+    npcBirthPositionID: 530101104
+    npcBirthPositionIndex: 1
+    roleId: 0
+    battleGroupPrefabPath: 
+    battleGroupPrefab: {fileID: 0}
+    battleGroupPrefabName: 
+    enenmyCellIndex: 0
+    enemyPosition: 0
+    isShowDetail: 1
+    isLocal: 1
+    isDestory: 0
+    position: {x: 0, y: 0, z: 0}
+    angle: {x: 0, y: 0, z: 0}
+  - roleTypeNames:
+    - "\u4E3B\u89D2"
+    - "\u82F1\u96C4"
+    - "\u5730\u7F16\u602A\u7269"
+    - "\u63F4\u519B"
+    controlType: 2
+    npcBirthPositionID: 530101106
+    npcBirthPositionIndex: 1
+    roleId: 0
+    battleGroupPrefabPath: 
+    battleGroupPrefab: {fileID: 0}
+    battleGroupPrefabName: 
+    enenmyCellIndex: 0
+    enemyPosition: 0
+    isShowDetail: 1
+    isLocal: 1
+    isDestory: 0
+    position: {x: 0, y: 0, z: 0}
+    angle: {x: 0, y: 0, z: 0}
+  isNoticeServerLoadNPC: 0
+  isNoticeServerEnterStoryModel: 0
+  goalID: 1090
+  playInStoryModel: 0
+  isEndForceDestory: 0
+--- !u!114 &114762414971948238
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1779388035437040}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fd244fe129b00874ba0d507f5eeb7d0c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  index: 0
+  reqStoryFunction: {fileID: 0}
+  typeMenu:
+  - "\u63D2\u56FE"
+  - "\u5192\u6CE1"
+  - "\u89C6\u9891"
+  - "\u4F4D\u79FB"
+  - "\u6E38\u620F\u901F\u5EA6"
+  - "\u80CC\u666F\u97F3\u4E50"
+  - "\u76F8\u673A"
+  - "\u52A8\u4F5C"
+  - "\u9ED1\u5E55"
+  - "\u5267\u60C5\u52A8\u753B"
+  type: 0
+  startWaitTime: 0
+  textData:
+    headActor: 0
+    dialogData:
+      limitRoleTypeNames:
+      - "\u65E0\u9650\u5236\u7C7B\u578B"
+      - "\u4E3B\u89D2"
+      - "\u602A\u7269"
+      limitRoleType: 2
+      roleName: 
+      isDistinguish: 0
+      dialogFileData:
+        t:
+          roleID: 530101002
+          headModelSizePercent: 0.6
+          modelLocalPos: {x: 0, y: -1.37, z: 1.7}
+          roleData:
+            roleTypeNames:
+            - "\u4E3B\u89D2"
+            - "\u82F1\u96C4"
+            - "\u5730\u7F16\u602A\u7269"
+            - "\u63F4\u519B"
+            controlType: 2
+            npcBirthPositionID: 530101104
+            npcBirthPositionIndex: 1
+            roleId: 0
+            battleGroupPrefabPath: 
+            battleGroupPrefab: {fileID: 0}
+            battleGroupPrefabName: 
+            enenmyCellIndex: 0
+            enemyPosition: 0
+            isShowDetail: 1
+            isLocal: 1
+            isDestory: 1
+            position: {x: 0, y: 0, z: 0}
+            angle: {x: 0, y: 0, z: 0}
+        tList: []
+        leaderProfessionList: 
+      dialogFileData1:
+        t:
+          roleID: 0
+          headModelSizePercent: 0.5
+          modelLocalPos: {x: 0, y: -1, z: 0.5}
+          roleData:
+            roleTypeNames:
+            - "\u4E3B\u89D2"
+            - "\u82F1\u96C4"
+            - "\u5730\u7F16\u602A\u7269"
+            - "\u63F4\u519B"
+            controlType: 0
+            npcBirthPositionID: 0
+            npcBirthPositionIndex: 1
+            roleId: 0
+            battleGroupPrefabPath: 
+            battleGroupPrefab: {fileID: 0}
+            battleGroupPrefabName: 
+            enenmyCellIndex: 0
+            enemyPosition: 0
+            isShowDetail: 1
+            isLocal: 0
+            isDestory: 1
+            position: {x: 0, y: 0, z: 0}
+            angle: {x: 0, y: 0, z: 0}
+        tList: []
+        leaderProfessionList: 
+      soundData:
+        t:
+          soundWaitTime: 0
+          showDetail: 1
+          storyText: 
+          storyTextArray:
+          - "\u679C\u7136\u5982\u6B64\uFF0C\u5C45\u7136\u627E\u5230\u8FD9\u91CC\u6765\u4E86\uFF0C\u8EB2\u4E86\u8FD9\u4E48\u591A\u5E74\u8FD8\u662F\u8EB2\u4E0D\u6389\u5417\uFF1F"
+          waitTime:
+          - 3
+          soundID: 0
+          soundDuration: 0
+        tList: []
+        leaderProfessionList: 
+      soundData1:
+        t:
+          soundWaitTime: 0
+          showDetail: 1
+          storyText: 
+          storyTextArray: []
+          waitTime: []
+          soundID: 0
+          soundDuration: 0
+        tList: []
+        leaderProfessionList: 
+    dialogStylePath: 
+    backgroundTexData:
+      showTextureType: 0
+      hideTextureType: 0
+      textTypeNames:
+      - "\u76F4\u63A5"
+      - "\u6E10\u6E10"
+      showDuration: 0
+      hideDuration: 0
+      texPath: 
+    subtitleContent:
+      showTextType: 1
+      showTextTypeNames:
+      - "\u76F4\u63A5\u663E\u793A"
+      - "\u4E00\u4E2A\u4E00\u4E2A\u663E\u793A"
+      showContext: 
+      textPositionType: 0
+      interval: 0.2
+    titleContent:
+      showTextType: 1
+      showTextTypeNames:
+      - "\u76F4\u63A5\u663E\u793A"
+      - "\u4E00\u4E2A\u4E00\u4E2A\u663E\u793A"
+      showContext: 
+      textPositionType: 0
+      interval: 0.2
+    appearanceData:
+      appearanceMode: 0
+      appearanceModeNames:
+      - "\u6B63\u5E38"
+      - "\u4FA7\u8FB9\u5212\u5165\u5212\u51FA"
+      moveInDuration: 1
+      moveOutDuration: 1
+      startPoint: {x: 800, y: 80, z: 0}
+      endPoint: {x: -60, y: 80, z: 0}
+      isChangeCameraView: 0
+      newView: 15
+      changFOVDuration: 0.5
+  bubblingData:
+    bubblingTexPath: 
+    dialogWaitTime: 0
+    roleData:
+      roleTypeNames:
+      - "\u4E3B\u89D2"
+      - "\u82F1\u96C4"
+      - "\u5730\u7F16\u602A\u7269"
+      - "\u63F4\u519B"
+      controlType: 0
+      npcBirthPositionID: 0
+      npcBirthPositionIndex: 1
+      roleId: 0
+      battleGroupPrefabPath: 
+      battleGroupPrefab: {fileID: 0}
+      battleGroupPrefabName: 
+      enenmyCellIndex: 0
+      enemyPosition: 0
+      isShowDetail: 1
+      isLocal: 0
+      isDestory: 1
+      position: {x: 0, y: 0, z: 0}
+      angle: {x: 0, y: 0, z: 0}
+    soundData:
+      soundWaitTime: 0
+      showDetail: 1
+      storyText: 
+      storyTextArray: []
+      waitTime: []
+      soundID: 0
+      soundDuration: 0
+    soundData1:
+      soundWaitTime: 0
+      showDetail: 1
+      storyText: 
+      storyTextArray: []
+      waitTime: []
+      soundID: 0
+      soundDuration: 0
+    showDetail: 1
+    heroList: 
+    soundDataList: []
+    isHideCharacter: 0
+  movieData:
+    moviePath: 
+    isCanJump: 1
+  storyboardData:
+    movieTypeNames:
+    - "\u9009\u62E9\u8FB9\u7F18\u6846"
+    - "\u9009\u62E9\u5BF9\u8BDD\u76F8\u5173"
+    - "\u955C\u5934\u76F8\u5173"
+    - "\u4EBA\u7269\u9884\u8BBE"
+    - "\u4EBA\u7269\u884C\u4E3A\u76F8\u5173"
+    movieType: 0
+    cameraControlType: 0
+    roleActionType: 0
+    edgeFramTexData:
+      showTextureType: 0
+      hideTextureType: 0
+      textTypeNames:
+      - "\u76F4\u63A5"
+      - "\u6E10\u6E10"
+      showDuration: 0
+      hideDuration: 0
+      texPath: 
+    bubblingTexPath: 
+    bubblingExistTime: 0
+    animatonName: 
+    actionSpeed: 0
+    isLoop: 0
+    costTime: 0
+    moveSpeed: 0
+    roleData:
+      roleTypeNames:
+      - "\u4E3B\u89D2"
+      - "\u82F1\u96C4"
+      - "\u5730\u7F16\u602A\u7269"
+      - "\u63F4\u519B"
+      controlType: 0
+      npcBirthPositionID: 0
+      npcBirthPositionIndex: 1
+      roleId: 0
+      battleGroupPrefabPath: 
+      battleGroupPrefab: {fileID: 0}
+      battleGroupPrefabName: 
+      enenmyCellIndex: 0
+      enemyPosition: 0
+      isShowDetail: 1
+      isLocal: 0
+      isDestory: 1
+      position: {x: 0, y: 0, z: 0}
+      angle: {x: 0, y: 0, z: 0}
+    soundData:
+      soundWaitTime: 0
+      showDetail: 1
+      storyText: 
+      storyTextArray: []
+      waitTime: []
+      soundID: 0
+      soundDuration: 0
+  displacementData:
+    roleData:
+      roleTypeNames:
+      - "\u4E3B\u89D2"
+      - "\u82F1\u96C4"
+      - "\u5730\u7F16\u602A\u7269"
+      - "\u63F4\u519B"
+      controlType: 0
+      npcBirthPositionID: 0
+      npcBirthPositionIndex: 1
+      roleId: 0
+      battleGroupPrefabPath: 
+      battleGroupPrefab: {fileID: 0}
+      battleGroupPrefabName: 
+      enenmyCellIndex: 0
+      enemyPosition: 0
+      isShowDetail: 1
+      isLocal: 0
+      isDestory: 1
+      position: {x: 0, y: 0, z: 0}
+      angle: {x: 0, y: 0, z: 0}
+    moveSpeed: 5
+    position: {x: 0, y: 0, z: 0}
+    angle: {x: 0, y: 0, z: 0}
+  gameSpeedData:
+    gameSpeed: 0
+  backMusicData:
+    soundID: 0
+    volume: 0.8
+  cameraData:
+    cameraWaitTime: 0
+    isHidePlayer: 0
+    highOffset: 2.3
+    cameraAnimatorData:
+      cameraPath: 
+      cameraAnimatorName: 
+      cameraAngle: {x: 0, y: 0, z: 0}
+      fieldOfView: 45
+      nearClippingPlanes: 0.1
+      FarClippingPlanes: 300
+      audioListenerPos: {x: 0, y: 0, z: 0}
+    cameraShakeInfos: []
+  animationData:
+    roleData:
+      roleTypeNames:
+      - "\u4E3B\u89D2"
+      - "\u82F1\u96C4"
+      - "\u5730\u7F16\u602A\u7269"
+      - "\u63F4\u519B"
+      controlType: 0
+      npcBirthPositionID: 0
+      npcBirthPositionIndex: 1
+      roleId: 0
+      battleGroupPrefabPath: 
+      battleGroupPrefab: {fileID: 0}
+      battleGroupPrefabName: 
+      enenmyCellIndex: 0
+      enemyPosition: 0
+      isShowDetail: 1
+      isLocal: 0
+      isDestory: 1
+      position: {x: 0, y: 0, z: 0}
+      angle: {x: 0, y: 0, z: 0}
+    actionWaitTime: 0
+    roleActionData:
+      skillID: 0
+      hitID: 0
+      animName: 
+      actionFileData:
+        prefab: {fileID: 0}
+        prefabPath: 
+      leaderActionFileData: []
+      leaderProfessionList: 
+  blinkOfAnEyeData:
+    cameraBlinkOfAnEyeInfo:
+      blinkOfAnEyeList:
+      - blinkDuration: 0
+        blinkOpenSpeed: 10
+        blinkCloseSpeed: 10
+        blinkOpenCloseDuration: 2
+  blackBackgroundData:
+    blackBackgroundData:
+      duration: 0
+      waitTime: 0
+      dialogData:
+        soundWaitTime: 0
+        showDetail: 1
+        storyText: 
+        storyTextArray: []
+        waitTime: []
+        soundID: 0
+        soundDuration: 0
+  cinemaDirectorData:
+    fileData:
+      prefab: {fileID: 0}
+      prefabPath: 
+  nextTypeNames:
+  - "\u5EF6\u8FDF"
+  - "\u70B9\u51FB"
+  nextType: 1
+  nextTime: 1
+--- !u!114 &114768298124819672
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1582861509365104}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fd244fe129b00874ba0d507f5eeb7d0c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  index: 0
+  reqStoryFunction: {fileID: 0}
+  typeMenu:
+  - "\u63D2\u56FE"
+  - "\u5192\u6CE1"
+  - "\u89C6\u9891"
+  - "\u4F4D\u79FB"
+  - "\u6E38\u620F\u901F\u5EA6"
+  - "\u80CC\u666F\u97F3\u4E50"
+  type: 0
+  startWaitTime: 0
+  textData:
+    headActor: 0
+    dialogData:
+      limitRoleTypeNames:
+      - "\u65E0\u9650\u5236\u7C7B\u578B"
+      - "\u4E3B\u89D2"
+      - "\u602A\u7269"
+      limitRoleType: 2
+      roleName: "\u795E\u6708\u523A\u5BA2-\u795E\u6708"
+      isDistinguish: 0
+      dialogFileData:
+        t:
+          roleID: 530101001
+          headModelSizePercent: 0.6
+          modelLocalPos: {x: 0, y: -1.37, z: 1.7}
+          roleData:
+            roleTypeNames:
+            - "\u4E3B\u89D2"
+            - "\u82F1\u96C4"
+            - "\u5730\u7F16\u602A\u7269"
+            - "\u63F4\u519B"
+            controlType: 2
+            npcBirthPositionID: 530101103
+            npcBirthPositionIndex: 1
+            roleId: 0
+            battleGroupPrefabPath: 
+            battleGroupPrefab: {fileID: 0}
+            battleGroupPrefabName: 
+            enenmyCellIndex: 0
+            enemyPosition: 0
+            isShowDetail: 1
+            isLocal: 1
+            isDestory: 1
+            position: {x: 0, y: 0, z: 0}
+            angle: {x: 0, y: 0, z: 0}
+        tList: []
+        leaderProfessionList: 
+      dialogFileData1:
+        t:
+          roleID: 0
+          headModelSizePercent: 0.5
+          modelLocalPos: {x: 0, y: -1, z: 0.5}
+          roleData:
+            roleTypeNames:
+            - "\u4E3B\u89D2"
+            - "\u82F1\u96C4"
+            - "\u5730\u7F16\u602A\u7269"
+            - "\u63F4\u519B"
+            controlType: 0
+            npcBirthPositionID: 0
+            npcBirthPositionIndex: 1
+            roleId: 0
+            battleGroupPrefabPath: 
+            battleGroupPrefab: {fileID: 0}
+            battleGroupPrefabName: 
+            enenmyCellIndex: 0
+            enemyPosition: 0
+            isShowDetail: 1
+            isLocal: 0
+            isDestory: 1
+            position: {x: 0, y: 0, z: 0}
+            angle: {x: 0, y: 0, z: 0}
+        tList: []
+        leaderProfessionList: 
+      soundData:
+        t:
+          soundWaitTime: 0
+          showDetail: 1
+          storyText: 
+          storyTextArray:
+          - "\u57C3\u5E03\u5C14\u5927\u53D4\uFF0C\u6211\u4EEC\u628A\u91CE\u732A\u8D76\u8DD1\u4E86\uFF0C\u827E\u7433\u5A1C\u4F60\u4E5F\u5728\u8FD9\uFF1F"
+          waitTime:
+          - 3
+          soundID: 0
+          soundDuration: 0
+        tList: []
+        leaderProfessionList: 
+      soundData1:
+        t:
+          soundWaitTime: 0
+          showDetail: 1
+          storyText: 
+          storyTextArray: []
+          waitTime: []
+          soundID: 0
+          soundDuration: 0
+        tList: []
+        leaderProfessionList: 
+    dialogStylePath: 
+    backgroundTexData:
+      showTextureType: 0
+      hideTextureType: 0
+      textTypeNames:
+      - "\u76F4\u63A5"
+      - "\u6E10\u6E10"
+      showDuration: 0
+      hideDuration: 0
+      texPath: 
+    subtitleContent:
+      showTextType: 1
+      showTextTypeNames:
+      - "\u76F4\u63A5\u663E\u793A"
+      - "\u4E00\u4E2A\u4E00\u4E2A\u663E\u793A"
+      showContext: 
+      textPositionType: 0
+      interval: 0.2
+    titleContent:
+      showTextType: 1
+      showTextTypeNames:
+      - "\u76F4\u63A5\u663E\u793A"
+      - "\u4E00\u4E2A\u4E00\u4E2A\u663E\u793A"
+      showContext: 
+      textPositionType: 0
+      interval: 0.2
+    appearanceData:
+      appearanceMode: 0
+      appearanceModeNames:
+      - "\u6B63\u5E38"
+      - "\u4FA7\u8FB9\u5212\u5165\u5212\u51FA"
+      moveInDuration: 1
+      moveOutDuration: 1
+      startPoint: {x: 800, y: 80, z: 0}
+      endPoint: {x: -60, y: 80, z: 0}
+      isChangeCameraView: 0
+      newView: 15
+      changFOVDuration: 0.5
+  bubblingData:
+    bubblingTexPath: 
+    dialogWaitTime: 0
+    roleData:
+      roleTypeNames:
+      - "\u4E3B\u89D2"
+      - "\u82F1\u96C4"
+      - "\u5730\u7F16\u602A\u7269"
+      - "\u63F4\u519B"
+      controlType: 2
+      npcBirthPositionID: 0
+      npcBirthPositionIndex: 1
+      roleId: 0
+      battleGroupPrefabPath: 
+      battleGroupPrefab: {fileID: 0}
+      battleGroupPrefabName: 
+      enenmyCellIndex: 0
+      enemyPosition: 0
+      isShowDetail: 1
+      isLocal: 0
+      isDestory: 1
+      position: {x: 0, y: 0, z: 0}
+      angle: {x: 0, y: 0, z: 0}
+    soundData:
+      soundWaitTime: 0
+      showDetail: 1
+      storyText: 
+      storyTextArray: []
+      waitTime: []
+      soundID: 0
+      soundDuration: 0
+    soundData1:
+      soundWaitTime: 0
+      showDetail: 1
+      storyText: 
+      storyTextArray: []
+      waitTime: []
+      soundID: 0
+      soundDuration: 0
+    showDetail: 1
+    heroList: 
+    soundDataList: []
+    isHideCharacter: 0
+  movieData:
+    moviePath: 
+    isCanJump: 1
+  storyboardData:
+    movieTypeNames:
+    - "\u9009\u62E9\u8FB9\u7F18\u6846"
+    - "\u9009\u62E9\u5BF9\u8BDD\u76F8\u5173"
+    - "\u955C\u5934\u76F8\u5173"
+    - "\u4EBA\u7269\u9884\u8BBE"
+    - "\u4EBA\u7269\u884C\u4E3A\u76F8\u5173"
+    movieType: 0
+    cameraControlType: 0
+    roleActionType: 0
+    edgeFramTexData:
+      showTextureType: 0
+      hideTextureType: 0
+      textTypeNames:
+      - "\u76F4\u63A5"
+      - "\u6E10\u6E10"
+      showDuration: 0
+      hideDuration: 0
+      texPath: 
+    bubblingTexPath: 
+    bubblingExistTime: 0
+    animatonName: 
+    actionSpeed: 0
+    isLoop: 0
+    costTime: 0
+    moveSpeed: 0
+    roleData:
+      roleTypeNames:
+      - "\u4E3B\u89D2"
+      - "\u82F1\u96C4"
+      - "\u5730\u7F16\u602A\u7269"
+      - "\u63F4\u519B"
+      controlType: 0
+      npcBirthPositionID: 0
+      npcBirthPositionIndex: 1
+      roleId: 0
+      battleGroupPrefabPath: 
+      battleGroupPrefab: {fileID: 0}
+      battleGroupPrefabName: 
+      enenmyCellIndex: 0
+      enemyPosition: 0
+      isShowDetail: 1
+      isLocal: 0
+      isDestory: 1
+      position: {x: 0, y: 0, z: 0}
+      angle: {x: 0, y: 0, z: 0}
+    soundData:
+      soundWaitTime: 0
+      showDetail: 1
+      storyText: 
+      storyTextArray: []
+      waitTime: []
+      soundID: 0
+      soundDuration: 0
+  displacementData:
+    roleData:
+      roleTypeNames:
+      - "\u4E3B\u89D2"
+      - "\u82F1\u96C4"
+      - "\u5730\u7F16\u602A\u7269"
+      - "\u63F4\u519B"
+      controlType: 2
+      npcBirthPositionID: 30101102
+      npcBirthPositionIndex: 1
+      roleId: 0
+      battleGroupPrefabPath: 
+      battleGroupPrefab: {fileID: 0}
+      battleGroupPrefabName: 
+      enenmyCellIndex: 0
+      enemyPosition: 0
+      isShowDetail: 1
+      isLocal: 1
+      isDestory: 1
+      position: {x: 0, y: 0, z: 0}
+      angle: {x: 0, y: 0, z: 0}
+    moveSpeed: 5
+    position: {x: -8.1, y: -42.8, z: 3.3}
+    angle: {x: 0, y: 0, z: 0}
+  gameSpeedData:
+    gameSpeed: 0
+  backMusicData:
+    soundID: 0
+    volume: 0.8
+  cameraData:
+    cameraWaitTime: 0
+    isHidePlayer: 0
+    highOffset: 2.3
+    cameraAnimatorData:
+      cameraPath: 
+      cameraAnimatorName: 
+      cameraAngle: {x: 0, y: 0, z: 0}
+      fieldOfView: 45
+      nearClippingPlanes: 0.1
+      FarClippingPlanes: 300
+      audioListenerPos: {x: 0, y: 0, z: 0}
+    cameraShakeInfos: []
+  animationData:
+    roleData:
+      roleTypeNames:
+      - "\u4E3B\u89D2"
+      - "\u82F1\u96C4"
+      - "\u5730\u7F16\u602A\u7269"
+      - "\u63F4\u519B"
+      controlType: 0
+      npcBirthPositionID: 0
+      npcBirthPositionIndex: 1
+      roleId: 0
+      battleGroupPrefabPath: 
+      battleGroupPrefab: {fileID: 0}
+      battleGroupPrefabName: 
+      enenmyCellIndex: 0
+      enemyPosition: 0
+      isShowDetail: 1
+      isLocal: 0
+      isDestory: 1
+      position: {x: 0, y: 0, z: 0}
+      angle: {x: 0, y: 0, z: 0}
+    actionWaitTime: 0
+    roleActionData:
+      skillID: 0
+      hitID: 0
+      animName: 
+      actionFileData:
+        prefab: {fileID: 0}
+        prefabPath: 
+      leaderActionFileData: []
+      leaderProfessionList: 
+  blinkOfAnEyeData:
+    cameraBlinkOfAnEyeInfo:
+      blinkOfAnEyeList: []
+  blackBackgroundData:
+    blackBackgroundData:
+      duration: 0
+      waitTime: 0
+      dialogData:
+        soundWaitTime: 0
+        showDetail: 1
+        storyText: 
+        storyTextArray: []
+        waitTime: []
+        soundID: 0
+        soundDuration: 0
+  cinemaDirectorData:
+    fileData:
+      prefab: {fileID: 0}
+      prefabPath: 
+  nextTypeNames:
+  - "\u5EF6\u8FDF"
+  - "\u70B9\u51FB"
+  nextType: 1
+  nextTime: 1
+--- !u!114 &114797427751519252
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1621485373406928}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 54d2b6b4d94552a4cae1b6eff55999cf, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  isAutoPlay: 1
+--- !u!114 &114850165391091254
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1947570038893392}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4d3b47fb538e62044808c97ab2d93b86, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  conStr:
+  - "\u8D70\u5230\u67D0\u533A\u57DF\uFF08X,Y,Z\uFF09(\u53EF\u9644\u52A0\u6761\u4EF6)"
+  - "\u67D0\u6CE2\u654C\u4EBA\u6B7B\u4EA1"
+  - "\u8FDB\u5165\u6E38\u620F"
+  - "\u6E38\u620F\u7ED3\u7B97\u540E"
+  - "\u67D0\u6CE2\u89D2\u8272\u52A0\u8F7D\u540E"
+  - "\u5230\u8FBE\u7B2C\u51E0\u6CE2\u602A\u7684CENTER\u70B9"
+  - "\u8840\u91CF\u4F4E\u4E8E\u4E00\u5B9A\u503C"
+  - "Loading\u7ED3\u675F\u5F00\u59CB\u6218\u6597"
+  - "\u6218\u6597\u80DC\u5229"
+  - "\u64AD\u653E\u6280\u80FD"
+  - "\u81EA\u52A8\u7ACB\u5373\u89E6\u53D1"
+  - "\u5176\u4ED6\u5267\u60C5\u5B8C\u6210\u89E6\u53D1\u6B64\u6761\u4EF6"
+  - "\u4EFB\u52A1\u5B8C\u6210\u89E6\u53D1\u5267\u60C5"
+  - "\u6D4B\u8BD5\u7528"
+  type: 11
+  roleData:
+    roleTypeNames:
+    - "\u4E3B\u89D2"
+    - "\u82F1\u96C4"
+    - "\u5730\u7F16\u602A\u7269"
+    - "\u63F4\u519B"
+    controlType: 0
+    npcBirthPositionID: 0
+    npcBirthPositionIndex: 1
+    roleId: 0
+    battleGroupPrefabPath: 
+    battleGroupPrefab: {fileID: 0}
+    battleGroupPrefabName: 
+    enenmyCellIndex: 0
+    enemyPosition: 0
+    isShowDetail: 1
+    isLocal: 0
+    isDestory: 1
+    position: {x: 0, y: 0, z: 0}
+    angle: {x: 0, y: 0, z: 0}
+  waveData:
+    battleGroupPrefabPath: 
+    battleGroupPrefab: {fileID: 0}
+    battleGroupPrefabName: 
+    waveBirthPosList: 
+    roleData:
+      roleTypeNames:
+      - "\u4E3B\u89D2"
+      - "\u82F1\u96C4"
+      - "\u5730\u7F16\u602A\u7269"
+      - "\u63F4\u519B"
+      controlType: 0
+      npcBirthPositionID: 0
+      npcBirthPositionIndex: 1
+      roleId: 0
+      battleGroupPrefabPath: 
+      battleGroupPrefab: {fileID: 0}
+      battleGroupPrefabName: 
+      enenmyCellIndex: 0
+      enemyPosition: 0
+      isShowDetail: 1
+      isLocal: 0
+      isDestory: 1
+      position: {x: 0, y: 0, z: 0}
+      angle: {x: 0, y: 0, z: 0}
+  bloodLimitPercent: 0
+  skillID: 0
+  storyConditionID: 1
+  rectConditionID: -1
+  isBroadCast: 0
+  roleDataList:
+  - roleTypeNames:
+    - "\u4E3B\u89D2"
+    - "\u82F1\u96C4"
+    - "\u5730\u7F16\u602A\u7269"
+    - "\u63F4\u519B"
+    controlType: 2
+    npcBirthPositionID: 530101103
+    npcBirthPositionIndex: 1
+    roleId: 0
+    battleGroupPrefabPath: 
+    battleGroupPrefab: {fileID: 0}
+    battleGroupPrefabName: 
+    enenmyCellIndex: 0
+    enemyPosition: 0
+    isShowDetail: 1
+    isLocal: 1
+    isDestory: 0
+    position: {x: 0, y: 0, z: 0}
+    angle: {x: 0, y: 0, z: 0}
+  - roleTypeNames:
+    - "\u4E3B\u89D2"
+    - "\u82F1\u96C4"
+    - "\u5730\u7F16\u602A\u7269"
+    - "\u63F4\u519B"
+    controlType: 2
+    npcBirthPositionID: 530101104
+    npcBirthPositionIndex: 1
+    roleId: 0
+    battleGroupPrefabPath: 
+    battleGroupPrefab: {fileID: 0}
+    battleGroupPrefabName: 
+    enenmyCellIndex: 0
+    enemyPosition: 0
+    isShowDetail: 1
+    isLocal: 1
+    isDestory: 0
+    position: {x: 0, y: 0, z: 0}
+    angle: {x: 0, y: 0, z: 0}
+  - roleTypeNames:
+    - "\u4E3B\u89D2"
+    - "\u82F1\u96C4"
+    - "\u5730\u7F16\u602A\u7269"
+    - "\u63F4\u519B"
+    controlType: 2
+    npcBirthPositionID: 530101106
+    npcBirthPositionIndex: 1
+    roleId: 0
+    battleGroupPrefabPath: 
+    battleGroupPrefab: {fileID: 0}
+    battleGroupPrefabName: 
+    enenmyCellIndex: 0
+    enemyPosition: 0
+    isShowDetail: 1
+    isLocal: 1
+    isDestory: 0
+    position: {x: 0, y: 0, z: 0}
+    angle: {x: 0, y: 0, z: 0}
+  isNoticeServerLoadNPC: 0
+  isNoticeServerEnterStoryModel: 0
+  goalID: 1090
+  playInStoryModel: 0
+  isEndForceDestory: 0
+--- !u!114 &114853202927752248
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1399987053179638}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: de96457805f60fc41a67bac6529c4f6b, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+--- !u!114 &114996940520666146
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1947570038893392}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fff5bbadbd15ee3429a20d3d14b91b16, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+--- !u!114 &114999834910791424
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1151694836367340}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fd244fe129b00874ba0d507f5eeb7d0c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  index: 0
+  reqStoryFunction: {fileID: 0}
+  typeMenu:
+  - "\u63D2\u56FE"
+  - "\u5192\u6CE1"
+  - "\u89C6\u9891"
+  - "\u4F4D\u79FB"
+  - "\u6E38\u620F\u901F\u5EA6"
+  - "\u80CC\u666F\u97F3\u4E50"
+  type: 0
+  startWaitTime: 0
+  textData:
+    headActor: 0
+    dialogData:
+      limitRoleTypeNames:
+      - "\u65E0\u9650\u5236\u7C7B\u578B"
+      - "\u4E3B\u89D2"
+      - "\u602A\u7269"
+      limitRoleType: 2
+      roleName: "\u795E\u6708\u523A\u5BA2-\u795E\u6708"
+      isDistinguish: 0
+      dialogFileData:
+        t:
+          roleID: 530101001
+          headModelSizePercent: 0.6
+          modelLocalPos: {x: 0, y: -1.37, z: 1.7}
+          roleData:
+            roleTypeNames:
+            - "\u4E3B\u89D2"
+            - "\u82F1\u96C4"
+            - "\u5730\u7F16\u602A\u7269"
+            - "\u63F4\u519B"
+            controlType: 2
+            npcBirthPositionID: 530101103
+            npcBirthPositionIndex: 1
+            roleId: 0
+            battleGroupPrefabPath: 
+            battleGroupPrefab: {fileID: 0}
+            battleGroupPrefabName: 
+            enenmyCellIndex: 0
+            enemyPosition: 0
+            isShowDetail: 1
+            isLocal: 1
+            isDestory: 1
+            position: {x: 0, y: 0, z: 0}
+            angle: {x: 0, y: 0, z: 0}
+        tList: []
+        leaderProfessionList: 
+      dialogFileData1:
+        t:
+          roleID: 0
+          headModelSizePercent: 0.5
+          modelLocalPos: {x: 0, y: -1, z: 0.5}
+          roleData:
+            roleTypeNames:
+            - "\u4E3B\u89D2"
+            - "\u82F1\u96C4"
+            - "\u5730\u7F16\u602A\u7269"
+            - "\u63F4\u519B"
+            controlType: 0
+            npcBirthPositionID: 0
+            npcBirthPositionIndex: 1
+            roleId: 0
+            battleGroupPrefabPath: 
+            battleGroupPrefab: {fileID: 0}
+            battleGroupPrefabName: 
+            enenmyCellIndex: 0
+            enemyPosition: 0
+            isShowDetail: 1
+            isLocal: 0
+            isDestory: 1
+            position: {x: 0, y: 0, z: 0}
+            angle: {x: 0, y: 0, z: 0}
+        tList: []
+        leaderProfessionList: 
+      soundData:
+        t:
+          soundWaitTime: 0
+          showDetail: 1
+          storyText: 
+          storyTextArray:
+          - "\u5F00\u73A9\u7B11\uFF01\u533A\u533A\u91CE\u732A\u600E\u4E48\u4F1A\u4F24\u5230\u6211\u4EEC\uFF0C\u521A\u624D\u6211\u548CXXX\u5728\u56DE\u6751\u7684\u8DEF\u4E0A\u88AB\u4EBA\u88AD\u51FB\u4E86\uFF01"
+          waitTime:
+          - 3
+          soundID: 0
+          soundDuration: 0
+        tList: []
+        leaderProfessionList: 
+      soundData1:
+        t:
+          soundWaitTime: 0
+          showDetail: 1
+          storyText: 
+          storyTextArray: []
+          waitTime: []
+          soundID: 0
+          soundDuration: 0
+        tList: []
+        leaderProfessionList: 
+    dialogStylePath: 
+    backgroundTexData:
+      showTextureType: 0
+      hideTextureType: 0
+      textTypeNames:
+      - "\u76F4\u63A5"
+      - "\u6E10\u6E10"
+      showDuration: 0
+      hideDuration: 0
+      texPath: 
+    subtitleContent:
+      showTextType: 1
+      showTextTypeNames:
+      - "\u76F4\u63A5\u663E\u793A"
+      - "\u4E00\u4E2A\u4E00\u4E2A\u663E\u793A"
+      showContext: 
+      textPositionType: 0
+      interval: 0.2
+    titleContent:
+      showTextType: 1
+      showTextTypeNames:
+      - "\u76F4\u63A5\u663E\u793A"
+      - "\u4E00\u4E2A\u4E00\u4E2A\u663E\u793A"
+      showContext: 
+      textPositionType: 0
+      interval: 0.2
+    appearanceData:
+      appearanceMode: 0
+      appearanceModeNames:
+      - "\u6B63\u5E38"
+      - "\u4FA7\u8FB9\u5212\u5165\u5212\u51FA"
+      moveInDuration: 1
+      moveOutDuration: 1
+      startPoint: {x: 800, y: 80, z: 0}
+      endPoint: {x: -60, y: 80, z: 0}
+      isChangeCameraView: 0
+      newView: 15
+      changFOVDuration: 0.5
+  bubblingData:
+    bubblingTexPath: 
+    dialogWaitTime: 0
+    roleData:
+      roleTypeNames:
+      - "\u4E3B\u89D2"
+      - "\u82F1\u96C4"
+      - "\u5730\u7F16\u602A\u7269"
+      - "\u63F4\u519B"
+      controlType: 2
+      npcBirthPositionID: 0
+      npcBirthPositionIndex: 1
+      roleId: 0
+      battleGroupPrefabPath: 
+      battleGroupPrefab: {fileID: 0}
+      battleGroupPrefabName: 
+      enenmyCellIndex: 0
+      enemyPosition: 0
+      isShowDetail: 1
+      isLocal: 0
+      isDestory: 1
+      position: {x: 0, y: 0, z: 0}
+      angle: {x: 0, y: 0, z: 0}
+    soundData:
+      soundWaitTime: 0
+      showDetail: 1
+      storyText: 
+      storyTextArray: []
+      waitTime: []
+      soundID: 0
+      soundDuration: 0
+    soundData1:
+      soundWaitTime: 0
+      showDetail: 1
+      storyText: 
+      storyTextArray: []
+      waitTime: []
+      soundID: 0
+      soundDuration: 0
+    showDetail: 1
+    heroList: 
+    soundDataList: []
+    isHideCharacter: 0
+  movieData:
+    moviePath: 
+    isCanJump: 1
+  storyboardData:
+    movieTypeNames:
+    - "\u9009\u62E9\u8FB9\u7F18\u6846"
+    - "\u9009\u62E9\u5BF9\u8BDD\u76F8\u5173"
+    - "\u955C\u5934\u76F8\u5173"
+    - "\u4EBA\u7269\u9884\u8BBE"
+    - "\u4EBA\u7269\u884C\u4E3A\u76F8\u5173"
+    movieType: 0
+    cameraControlType: 0
+    roleActionType: 0
+    edgeFramTexData:
+      showTextureType: 0
+      hideTextureType: 0
+      textTypeNames:
+      - "\u76F4\u63A5"
+      - "\u6E10\u6E10"
+      showDuration: 0
+      hideDuration: 0
+      texPath: 
+    bubblingTexPath: 
+    bubblingExistTime: 0
+    animatonName: 
+    actionSpeed: 0
+    isLoop: 0
+    costTime: 0
+    moveSpeed: 0
+    roleData:
+      roleTypeNames:
+      - "\u4E3B\u89D2"
+      - "\u82F1\u96C4"
+      - "\u5730\u7F16\u602A\u7269"
+      - "\u63F4\u519B"
+      controlType: 0
+      npcBirthPositionID: 0
+      npcBirthPositionIndex: 1
+      roleId: 0
+      battleGroupPrefabPath: 
+      battleGroupPrefab: {fileID: 0}
+      battleGroupPrefabName: 
+      enenmyCellIndex: 0
+      enemyPosition: 0
+      isShowDetail: 1
+      isLocal: 0
+      isDestory: 1
+      position: {x: 0, y: 0, z: 0}
+      angle: {x: 0, y: 0, z: 0}
+    soundData:
+      soundWaitTime: 0
+      showDetail: 1
+      storyText: 
+      storyTextArray: []
+      waitTime: []
+      soundID: 0
+      soundDuration: 0
+  displacementData:
+    roleData:
+      roleTypeNames:
+      - "\u4E3B\u89D2"
+      - "\u82F1\u96C4"
+      - "\u5730\u7F16\u602A\u7269"
+      - "\u63F4\u519B"
+      controlType: 2
+      npcBirthPositionID: 30101102
+      npcBirthPositionIndex: 1
+      roleId: 0
+      battleGroupPrefabPath: 
+      battleGroupPrefab: {fileID: 0}
+      battleGroupPrefabName: 
+      enenmyCellIndex: 0
+      enemyPosition: 0
+      isShowDetail: 1
+      isLocal: 1
+      isDestory: 1
+      position: {x: 0, y: 0, z: 0}
+      angle: {x: 0, y: 0, z: 0}
+    moveSpeed: 5
+    position: {x: -8.1, y: -42.8, z: 3.3}
+    angle: {x: 0, y: 0, z: 0}
+  gameSpeedData:
+    gameSpeed: 0
+  backMusicData:
+    soundID: 0
+    volume: 0.8
+  cameraData:
+    cameraWaitTime: 0
+    isHidePlayer: 0
+    highOffset: 2.3
+    cameraAnimatorData:
+      cameraPath: 
+      cameraAnimatorName: 
+      cameraAngle: {x: 0, y: 0, z: 0}
+      fieldOfView: 45
+      nearClippingPlanes: 0.1
+      FarClippingPlanes: 300
+      audioListenerPos: {x: 0, y: 0, z: 0}
+    cameraShakeInfos: []
+  animationData:
+    roleData:
+      roleTypeNames:
+      - "\u4E3B\u89D2"
+      - "\u82F1\u96C4"
+      - "\u5730\u7F16\u602A\u7269"
+      - "\u63F4\u519B"
+      controlType: 0
+      npcBirthPositionID: 0
+      npcBirthPositionIndex: 1
+      roleId: 0
+      battleGroupPrefabPath: 
+      battleGroupPrefab: {fileID: 0}
+      battleGroupPrefabName: 
+      enenmyCellIndex: 0
+      enemyPosition: 0
+      isShowDetail: 1
+      isLocal: 0
+      isDestory: 1
+      position: {x: 0, y: 0, z: 0}
+      angle: {x: 0, y: 0, z: 0}
+    actionWaitTime: 0
+    roleActionData:
+      skillID: 0
+      hitID: 0
+      animName: 
+      actionFileData:
+        prefab: {fileID: 0}
+        prefabPath: 
+      leaderActionFileData: []
+      leaderProfessionList: 
+  blinkOfAnEyeData:
+    cameraBlinkOfAnEyeInfo:
+      blinkOfAnEyeList: []
+  blackBackgroundData:
+    blackBackgroundData:
+      duration: 0
+      waitTime: 0
+      dialogData:
+        soundWaitTime: 0
+        showDetail: 1
+        storyText: 
+        storyTextArray: []
+        waitTime: []
+        soundID: 0
+        soundDuration: 0
+  cinemaDirectorData:
+    fileData:
+      prefab: {fileID: 0}
+      prefabPath: 
+  nextTypeNames:
+  - "\u5EF6\u8FDF"
+  - "\u70B9\u51FB"
+  nextType: 1
+  nextTime: 1

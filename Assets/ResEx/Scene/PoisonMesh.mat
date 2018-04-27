@@ -1,0 +1,134 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: PoisonMesh
+  m_Shader: {fileID: 4800000, guid: 4e0d9c145423e0140bd9db00c05e7354, type: 3}
+  m_ShaderKeywords: USE_ADVANCE USE_FADE_RANGE USE_FLOWMAP USE_MAINCOLOR USE_SCEOND_ALPHAUV
+    _EMISSION _USESCEONDALPHAUV_ON
+  m_LightmapFlags: 1
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: 3000
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _BumpMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _DetailAlbedoMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _DetailMask:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _DetailNormalMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _EmissionMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _FlowMap:
+        m_Texture: {fileID: 2800000, guid: abb0fa71660aa4c4995adbbd29788798, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _LUT:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MainTex:
+        m_Texture: {fileID: 2800000, guid: 9b4e7676c5e55c6499d99d3c72f7ddad, type: 3}
+        m_Scale: {x: 10, y: 10}
+        m_Offset: {x: 0, y: 1}
+    - _Mask:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MetallicGlossMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _NoiseMap:
+        m_Texture: {fileID: 2800000, guid: 9b4e7676c5e55c6499d99d3c72f7ddad, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _OcclusionMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _ParallaxMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SceondAlphaTex:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - _BumpScale: 1
+    - _ColorMask: 15
+    - _CullMode: 2
+    - _Cutoff: 1
+    - _Cutout: 0
+    - _Depth: 50
+    - _DetailNormalMapScale: 1
+    - _DstBlend: 0
+    - _Factor: 0
+    - _FlowMapStrength: 0.13
+    - _GlossMapScale: 1
+    - _Glossiness: 0.5
+    - _GlossyReflections: 1
+    - _GradientType: 3
+    - _InvFade: 0.01
+    - _Metallic: 0
+    - _Mode: 0
+    - _NoiseStrength: 0.8
+    - _OcclusionStrength: 1
+    - _Parallax: 0.02
+    - _RenderQueue: 3000
+    - _SmoothnessTextureChannel: 0
+    - _SpecularHighlights: 1
+    - _SrcBlend: 1
+    - _UVSec: 0
+    - _Units: 0
+    - _UseAnimateSprite: 0
+    - _UseCoutout: 0
+    - _UseFade: 1
+    - _UseFlowMap: 1
+    - _UseGrayScale: 0
+    - _UseLUT: 0
+    - _UseMainColorToColor: 1
+    - _UseNoiseMap: 0
+    - _UseSceondAlpha: 0
+    - _UseSceondAlphaUV: 1
+    - _UseUVScroll: 0
+    - _UseVertexColorEmission: 0
+    - _ZTest: 4
+    - _ZWrite: 0
+    - _farClip: 1000
+    m_Colors:
+    - _AnimateSprite: {r: 0, g: 1, b: 2, a: 1}
+    - _Color: {r: 1, g: 1, b: 1, a: 1}
+    - _Emission: {r: 0, g: 0, b: 0, a: 0}
+    - _EmissionColor: {r: 1, g: 0, b: 0, a: 1}
+    - _EmissionColorEnd: {r: 1, g: 0.93103456, b: 0, a: 1}
+    - _Fade: {r: 0, g: 1, b: 2, a: 1}
+    - _Gradient: {r: 0, g: 0.209, b: 0.443, a: 1}
+    - _GradientColor0: {r: 1, g: 0, b: 0, a: 1}
+    - _GradientColor1: {r: 1, g: 0, b: 0, a: 1}
+    - _GradientColor2: {r: 1, g: 0, b: 0, a: 1}
+    - _GradientColor3: {r: 0.94482744, g: 1, b: 0, a: 1}
+    - _SceondAlpha: {r: 1, g: 1, b: 0, a: 0}
+    - _TintColor: {r: 1, g: 0.272, b: 0, a: 1}
+    - _UVScroll: {r: 0, g: 1, b: 2, a: 1}

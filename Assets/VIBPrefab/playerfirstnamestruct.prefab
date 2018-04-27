@@ -1,0 +1,55 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &100100000
+Prefab:
+  m_ObjectHideFlags: 1
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications: []
+    m_RemovedComponents: []
+  m_ParentPrefab: {fileID: 0}
+  m_RootGameObject: {fileID: 1310245391220524}
+  m_IsPrefabParent: 1
+--- !u!1 &1310245391220524
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 5
+  m_Component:
+  - component: {fileID: 4829924140936252}
+  - component: {fileID: 114064010744775360}
+  m_Layer: 0
+  m_Name: playerfirstnamestruct
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4829924140936252
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1310245391220524}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &114064010744775360
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1310245391220524}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d77ba0dbe73abda47a69a1fc93b3cefc, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  DataSize: 503
+  _data: 1f0000000e0000000002f06cd2520000000000100100000003f253c65baf650000000000100200000003a67ef07f0a900000000000100300000003015a145c0a9000000000000e0400000002035e176700000000000e05000000023c74af6500000000000e0600000002737cd2520000000000100700000003895bb75fee68000000000010080000000358626c9aaf6500000000000e09000000026964145c00000000000e0a000000026c9a014e0000000000100b0000000370674b510a900000000000100c00000003646c6e66ee6800000000000e0d00000002006079720000000000100e000000031b6d694f795100000000000c0f000000014e670000000000101000000003c854cc91af6500000000001011000000034b51c9624b51000000000010120000000318521366af650000000000101300000003819cbe5b0a9000000000000e1400000002836c4b510000000000101500000003694ff796af6500000000000e16000000020d97145c00000000000e17000000027e82264f000000000010180000000351680752af6500000000000e1900000002568d79720000000000101a00000003af65d179797200000000000e1b000000021d8d4b510000000000101c000000039a4e535faf650000000000101d00000003b37e145c0a900000000000101e000000034e571d8d145c0000000000

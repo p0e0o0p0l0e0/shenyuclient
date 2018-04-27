@@ -1,0 +1,55 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &100100000
+Prefab:
+  m_ObjectHideFlags: 1
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications: []
+    m_RemovedComponents: []
+  m_ParentPrefab: {fileID: 0}
+  m_RootGameObject: {fileID: 1002652685379162}
+  m_IsPrefabParent: 1
+--- !u!1 &1002652685379162
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 5
+  m_Component:
+  - component: {fileID: 4676201756683994}
+  - component: {fileID: 114566198098556858}
+  m_Layer: 0
+  m_Name: spacecamerastruct
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4676201756683994
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1002652685379162}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &114566198098556858
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1002652685379162}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d77ba0dbe73abda47a69a1fc93b3cefc, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  DataSize: 438
+  _data: 04000000680000000003914e776d51670e9c6511540b4ef8763a672f004600690065006c0064003d003600300000000000000000001e0000002d00000064000000000000002c01000000000000000000002d0000002d000000be00000000000000d007000000000000000000006a0100000004df8d8f96d28972820e9c6511540b4ef8763a672f004600690065006c0064003d003300350000000000000000001e0000001e00000064000000000000002c01000000000000000000003c000000230000009cffffffb4000000e803000000000000000000006a02000000047e8233741c5ab65b0e9c6511540b4ef8763a672f004600690065006c0064003d003600300000000000000000001e0000002d00000064000000000000002c0100000000000000000000000000002d0000003200000000000000200300000000000000000000720300000008df8d8f96d289728208ff4b6dd58b09ff0e9c6511540b4ef8763a672f004600690065006c0064003d003300300000000000000000001e0000001e00000064000000000000002c01000000000000000000003c0000001e0000006affffffc8000000b00400000000000000000000

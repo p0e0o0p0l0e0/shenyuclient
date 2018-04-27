@@ -1,0 +1,45 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: mon_n_007_pbrglow
+  m_Shader: {fileID: 4800000, guid: 22b518037cae7a84db4994f3d64a6d51, type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: 2000
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _GlowTex:
+        m_Texture: {fileID: 2800000, guid: c9167ef6f6001ec4db2449329beeac00, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MainTex:
+        m_Texture: {fileID: 2800000, guid: 971446d4651a3d4428e595ef063a8c4a, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MixTex:
+        m_Texture: {fileID: 2800000, guid: cb7596d6264a4bb45a3bc5482e2f7d60, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _NrmTex:
+        m_Texture: {fileID: 2800000, guid: 6bcc23691dd1b534d9b21a97ace9e79c, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - _GlowIntensity: 1
+    - _Specular: 0.5
+    m_Colors:
+    - _Dissolve: {r: 10, g: 0.5, b: 0.1, a: 0}
+    - _DissolveColor: {r: 0, g: 1, b: 0, a: 0}
+    - _FocusColor: {r: 0, g: 0, b: 0, a: 0}
+    - _SkinParams: {r: 0.2, g: 0.3, b: 0, a: 0}
+    - _SkinScatter: {r: 0.15, g: 0, b: 0, a: 0}

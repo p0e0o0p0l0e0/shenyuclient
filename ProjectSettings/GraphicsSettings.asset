@@ -1,0 +1,96 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!30 &1
+GraphicsSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 12
+  m_Deferred:
+    m_Mode: 0
+    m_Shader: {fileID: 0}
+  m_DeferredReflections:
+    m_Mode: 0
+    m_Shader: {fileID: 0}
+  m_ScreenSpaceShadows:
+    m_Mode: 0
+    m_Shader: {fileID: 0}
+  m_LegacyDeferred:
+    m_Mode: 0
+    m_Shader: {fileID: 0}
+  m_DepthNormals:
+    m_Mode: 0
+    m_Shader: {fileID: 0}
+  m_MotionVectors:
+    m_Mode: 0
+    m_Shader: {fileID: 0}
+  m_LightHalo:
+    m_Mode: 0
+    m_Shader: {fileID: 0}
+  m_LensFlare:
+    m_Mode: 0
+    m_Shader: {fileID: 0}
+  m_AlwaysIncludedShaders:
+  - {fileID: 4800000, guid: 02b7101b3555c2e4ebbcadbcc0ef60ff, type: 3}
+  - {fileID: 4800000, guid: 8117f284309f07b42b06cb36c860347b, type: 3}
+  - {fileID: 4800000, guid: d1ba9e7ba321b2c4d97f6a19f1deab6a, type: 3}
+  - {fileID: 4800000, guid: 71887fdfa95b5dd4d85f3a7686979640, type: 3}
+  - {fileID: 4800000, guid: 3f0efaf3e3a33a544b794d64d3cae498, type: 3}
+  - {fileID: 4800000, guid: ea2a1ed601d01b94bac0b5b198021743, type: 3}
+  - {fileID: 4800000, guid: e286388201f22cd43b3c50b5d182b2e4, type: 3}
+  - {fileID: 4800000, guid: 797a0b656e2dbf54f81b893a93ff9417, type: 3}
+  - {fileID: 4800000, guid: 62bcade1028c24ca1a39760ed84b9487, type: 3}
+  - {fileID: 4800000, guid: 438ddd58d82c84d9eb1fdc56111702e1, type: 3}
+  - {fileID: 4800000, guid: e515e0f94cefc4c0db54b45cba621544, type: 3}
+  - {fileID: 4800000, guid: 1f9636c9a29babe478fabcdec4c0fac3, type: 3}
+  - {fileID: 4800000, guid: 25485f9d74fc4ee42a1b3ce93055e632, type: 3}
+  - {fileID: 4800000, guid: 8a9a720b7f5967842b761f8795174603, type: 3}
+  - {fileID: 4800000, guid: f023ca1ece189d44ba6a0b372a698d3f, type: 3}
+  - {fileID: 4800000, guid: 9ef5b0fcbeb618c48b20268206c63496, type: 3}
+  - {fileID: 4800000, guid: c1f86d14378c68347a90d0cba3dd7c74, type: 3}
+  - {fileID: 4800000, guid: a665a1e46da3516469252d86b42b9c62, type: 3}
+  - {fileID: 4800000, guid: 8f0e5f086159f4a4c8eb0da97a8f907c, type: 3}
+  - {fileID: 4800000, guid: 972a1f51c1abfcc4ab011053b5ecc8a2, type: 3}
+  - {fileID: 4800000, guid: a9376a2e5aec84141922ec55b12e4ee4, type: 3}
+  - {fileID: 4800000, guid: 479257988ffd06b418bfbf53b2618d00, type: 3}
+  - {fileID: 4800000, guid: def18702a0ab14e449fa582646fe60fa, type: 3}
+  - {fileID: 4800000, guid: cc258b5dd0c659c418408e8dadb3d5eb, type: 3}
+  - {fileID: 4800000, guid: 808178f77831bca4ca64872d4741e12f, type: 3}
+  - {fileID: 4800000, guid: c9fdd5aaf4b92a34bab5821bf3582796, type: 3}
+  - {fileID: 4800000, guid: a01d12446766ac74fa823ffa2215679e, type: 3}
+  - {fileID: 4800000, guid: a2ff9fb5da2af6a459ca294235f6d429, type: 3}
+  - {fileID: 4800000, guid: de2aa468b9e3e2242aafbdebbee3be43, type: 3}
+  - {fileID: 4800000, guid: f7497e8afbb9ebe4aa86f9730359a8d1, type: 3}
+  - {fileID: 4800000, guid: d5839dd961dfde2428fb3ed85e864eea, type: 3}
+  - {fileID: 4800000, guid: 468c5611cb34a66468573b57160cbaf9, type: 3}
+  - {fileID: 4800000, guid: a17d885bdaef3024e83ec421d69e7f19, type: 3}
+  - {fileID: 4800000, guid: 30f3f236377d1284cb005bc394046f87, type: 3}
+  - {fileID: 4800000, guid: 4fa85cace660ba94995dee58ba054952, type: 3}
+  - {fileID: 4800000, guid: 69f47f8983462ce4ead238346505f3fa, type: 3}
+  - {fileID: 4800000, guid: 2b6823b6849880246bbe172bda939451, type: 3}
+  - {fileID: 10770, guid: 0000000000000000f000000000000000, type: 0}
+  - {fileID: 4800000, guid: e75727d9555d9d14ca51d91908c681bc, type: 3}
+  - {fileID: 16000, guid: 0000000000000000f000000000000000, type: 0}
+  - {fileID: 16002, guid: 0000000000000000f000000000000000, type: 0}
+  m_PreloadedShaders: []
+  m_SpritesDefaultMaterial: {fileID: 10754, guid: 0000000000000000f000000000000000,
+    type: 0}
+  m_CustomRenderPipeline: {fileID: 0}
+  m_TransparencySortMode: 0
+  m_TransparencySortAxis: {x: 0, y: 0, z: 1}
+  m_DefaultRenderingPath: 1
+  m_DefaultMobileRenderingPath: 1
+  m_TierSettings: []
+  m_LightmapStripping: 1
+  m_FogStripping: 0
+  m_InstancingStripping: 0
+  m_LightmapKeepPlain: 1
+  m_LightmapKeepDirCombined: 1
+  m_LightmapKeepDynamicPlain: 1
+  m_LightmapKeepDynamicDirCombined: 1
+  m_LightmapKeepShadowMask: 1
+  m_LightmapKeepSubtractive: 1
+  m_FogKeepLinear: 1
+  m_FogKeepExp: 1
+  m_FogKeepExp2: 1
+  m_AlbedoSwatchInfos: []
+  m_LightsUseLinearIntensity: 0
+  m_LightsUseColorTemperature: 0

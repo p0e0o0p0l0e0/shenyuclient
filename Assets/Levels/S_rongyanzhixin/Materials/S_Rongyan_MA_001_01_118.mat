@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: S_Rongyan_MA_001_01_118
+  m_Shader: {fileID: 4800000, guid: fdb2b74e90e261c4e965769067bd4966, type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _LightMap:
+        m_Texture: {fileID: 2800000, guid: 23b17c41d33ce464fa793beed3d0e3fc, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MainTex:
+        m_Texture: {fileID: 2800000, guid: a4e7146a695885843bd59ba21175c288, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats: []
+    m_Colors:
+    - _LightMapAdd0: {r: 0.38031033, g: 0.26793128, b: 0.14530478, a: 0}
+    - _LightMapAdd1: {r: -0.42484397, g: -0.15564883, b: -0.34431455, a: 0.282095}
+    - _LightMapScale0: {r: 0.9477251, g: 0.15846223, b: 0.85336006, a: 0.00001}
+    - _LightMapScale1: {r: 0.80078983, g: 0.53839886, b: 0.6996636, a: 0}
+    - _LightMapUVParams: {r: 0.005859375, g: 0.01171875, b: 0.83691406, a: 0.14257812}
